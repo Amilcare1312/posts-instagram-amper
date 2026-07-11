@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "data": "2026-07-11",
+      "dia_semana": "sabado",
+      "pilar": "Sustentabilidade / propósito",
+      "tema": "CO2 evitado por sistema FV de médio/grande porte (Grupo A) em SC",
+      "angulo": "Conversão de geração solar em toneladas de CO2 não emitidas, com exemplo genérico de indústria em SC",
+      "dados_usados": [
+        "sistema FV 500 kWp a 1 MWp evita ~40 a 120 toneladas de CO2/ano (estimativa ilustrativa, matriz SIN)"
+      ]
+    }
+  ]
+}
