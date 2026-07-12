@@ -9,6 +9,14 @@
       "dados_usados": [
         "sistema FV 500 kWp a 1 MWp evita ~40 a 120 toneladas de CO2/ano (estimativa ilustrativa, matriz SIN)"
       ]
+    },
+    {
+      "data": "2026-07-12",
+      "dia_semana": "domingo",
+      "pilar": "Institucional / CTA comercial",
+      "tema": "Apresentação institucional da Amper Energia como engenharia especializada em Solar FV, BESS e EVSE para Grupo A / CELESC-D em SC",
+      "angulo": "Contraste entre 'vendedor de painéis' e engenharia técnica real, reforçando dimensionamento sob medida e CTA de diagnóstico gratuito",
+      "dados_usados": []
     }
   ]
 }
