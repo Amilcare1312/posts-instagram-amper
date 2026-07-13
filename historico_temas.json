@@ -17,6 +17,16 @@
       "tema": "Apresentação institucional da Amper Energia como engenharia especializada em Solar FV, BESS e EVSE para Grupo A / CELESC-D em SC",
       "angulo": "Contraste entre 'vendedor de painéis' e engenharia técnica real, reforçando dimensionamento sob medida e CTA de diagnóstico gratuito",
       "dados_usados": []
+    },
+    {
+      "data": "2026-07-13",
+      "dia_semana": "segunda",
+      "pilar": "Educativo — mito vs. verdade",
+      "tema": "Mito de que empresas do Grupo A não economizam com energia solar por causa da tarifa binômia (demanda + consumo)",
+      "angulo": "Desmistificar a ideia de que a tarifa binômia inviabiliza o retorno, explicando que a GD compensa consumo e que BESS pode ajudar a gerenciar demanda contratada",
+      "dados_usados": [
+        "payback estimado de 4 a 7 anos para autoconsumo em média tensão Grupo A/CELESC-D (estimativa ilustrativa)"
+      ]
     }
   ]
 }

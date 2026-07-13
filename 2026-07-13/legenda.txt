@@ -1,0 +1,15 @@
+Mito: empresa do Grupo A não economiza com energia solar por causa da tarifa binômia. Verdade?
+
+🔍 Mito: como a conta de luz de média/alta tensão cobra separado por demanda (kW) e consumo (kWh), muita empresa acha que energia solar "não pega" nesse modelo tarifário.
+
+✅ Verdade: a geração distribuída compensa a parcela de consumo — e, com dimensionamento correto (e eventualmente um BESS associado), também ajuda a gerenciar picos de demanda contratada, um dos itens mais caros da conta em Grupo A / CELESC-D. O ganho real depende de curva de carga, modalidade tarifária (verde ou azul) e enquadramento de demanda — por isso o projeto começa sempre com estudo de viabilidade, não com tabela pronta.
+
+Em projetos de autoconsumo em média tensão bem dimensionados, temos visto payback estimado na faixa de 4 a 7 anos*, variando conforme irradiação, tarifa e perfil de consumo.
+
+Salva esse post para reler quando for revisar o contrato de energia da sua empresa 📌
+
+*Estimativa ilustrativa, não é garantia de resultado — cada caso exige estudo técnico específico.
+
+Tem outro mito sobre energia solar em alta/média tensão que você já ouviu por aí? Comenta aqui embaixo.
+
+#EnergiaSolar #GeracaoDistribuida #Fotovoltaica #SantaCatarina #GrupoA #CelescD #TarifaBinomia #MitoOuVerdade #EngenhariaSolar #BESS #EficienciaEnergetica #AmperEnergia
