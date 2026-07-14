@@ -27,6 +27,17 @@
       "dados_usados": [
         "payback estimado de 4 a 7 anos para autoconsumo em média tensão Grupo A/CELESC-D (estimativa ilustrativa)"
       ]
+    },
+    {
+      "data": "2026-07-14",
+      "dia_semana": "terca",
+      "pilar": "Dado/número de impacto — economia, geração distribuída, tarifa CELESC-D",
+      "tema": "Economia mensal na fatura de energia para consumidores Grupo A/CELESC-D com geração distribuída bem dimensionada",
+      "angulo": "Combinar percentual de redução da fatura com valor absoluto estimado em R$/mês, reforçando que o número real só sai do estudo de viabilidade, com CTA de visitar o site",
+      "dados_usados": [
+        "redução de 20% a 40% na fatura de energia com GD bem dimensionada em média tensão Grupo A/CELESC-D (estimativa ilustrativa)",
+        "economia estimada de R$ 8 mil a R$ 35 mil por mês em indústrias e grandes consumidores de porte médio em SC (estimativa ilustrativa)"
+      ]
     }
   ]
 }
