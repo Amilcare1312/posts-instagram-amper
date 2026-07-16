@@ -49,6 +49,16 @@
         "redução de 25% a 35% no custo total de energia (consumo + demanda) combinando FV com BESS (estimativa ilustrativa)",
         "payback estimado de 4 a 7 anos para autoconsumo em média tensão Grupo A/CELESC-D (estimativa ilustrativa)"
       ]
+    },
+    {
+      "data": "2026-07-16",
+      "dia_semana": "quinta",
+      "pilar": "Dica prática — economia, dimensionamento, cuidados com o sistema",
+      "tema": "Manutenção preventiva e monitoramento de sistemas FV em Grupo A/CELESC-D para evitar perda de geração",
+      "angulo": "Alertar sobre perda silenciosa de geração por sujeira, sombreamento e falhas em strings, com três cuidados práticos (monitoramento remoto, limpeza periódica, inspeção técnica anual), CTA de comentar para variar dos CTAs recentes",
+      "dados_usados": [
+        "perda de geração por sujeira e sombreamento leve entre 5% e 15% ao ano (estimativa ilustrativa)"
+      ]
     }
   ]
 }

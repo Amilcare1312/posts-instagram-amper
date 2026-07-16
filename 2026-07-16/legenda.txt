@@ -1,0 +1,13 @@
+Sua usina fotovoltaica pode estar gerando até 15% menos do que o projetado — e o motivo costuma ser simples de resolver ☀️
+
+Isso acontece com mais frequência do que parece em sistemas de médio/grande porte (Grupo A / CELESC-D): sujeira acumulada nos módulos, sombreamento parcial por vegetação ou estruturas próximas, string com mau contato ou inversor operando fora da faixa ideal.
+
+Perdas de geração por sujeira e sombreamento leve costumam ficar entre 5% e 15% ao ano*, um número que parece pequeno mas que, em usinas de centenas de kWp, representa milhares de reais deixados na mesa todo ano.
+
+Três cuidados práticos que fazem diferença: monitoramento remoto para identificar quedas atípicas cedo, limpeza periódica conforme o índice de poeira/pólen da região, e inspeção técnica anual da parte elétrica (strings, conexões, inversor).
+
+*Estimativa ilustrativa; a perda real varia conforme localização, tecnologia dos módulos e frequência de manutenção.
+
+Sua empresa acompanha a geração de perto ou só descobre o problema na fatura? Comenta aqui embaixo 👇
+
+#energiasolar #geracaodistribuida #fotovoltaica #santacatarina #manutencaofv #monitoramentosolar #grupoa #celescd #engenhariasolar #eficienciaenergetica
