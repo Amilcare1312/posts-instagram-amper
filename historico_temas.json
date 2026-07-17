@@ -59,6 +59,14 @@
       "dados_usados": [
         "perda de geração por sujeira e sombreamento leve entre 5% e 15% ao ano (estimativa ilustrativa)"
       ]
+    },
+    {
+      "data": "2026-07-17",
+      "dia_semana": "sexta",
+      "pilar": "Bastidores / equipe / processo de engenharia",
+      "tema": "Etapas técnicas de engenharia por trás de um projeto FV em Grupo A/CELESC-D, da análise de fatura até a homologação",
+      "angulo": "Mostrar o processo real de engenharia (análise de fatura e curva de carga, dimensionamento/EVTE, estudo de proteção e seletividade, homologação e vistoria) para reforçar que a Amper entrega engenharia especializada e não apenas venda/instalação de painéis, com CTA de salvar o post para variar dos CTAs recentes",
+      "dados_usados": []
     }
   ]
 }
