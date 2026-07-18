@@ -67,6 +67,16 @@
       "tema": "Etapas técnicas de engenharia por trás de um projeto FV em Grupo A/CELESC-D, da análise de fatura até a homologação",
       "angulo": "Mostrar o processo real de engenharia (análise de fatura e curva de carga, dimensionamento/EVTE, estudo de proteção e seletividade, homologação e vistoria) para reforçar que a Amper entrega engenharia especializada e não apenas venda/instalação de painéis, com CTA de salvar o post para variar dos CTAs recentes",
       "dados_usados": []
+    },
+    {
+      "data": "2026-07-18",
+      "dia_semana": "sabado",
+      "pilar": "Sustentabilidade / propósito",
+      "tema": "Sustentabilidade como ecossistema integrado: geração FV, armazenamento BESS e mobilidade elétrica EVSE formando um ciclo de energia própria",
+      "angulo": "Ir além do CO2 evitado (já usado em 11/07) mostrando que BESS reduz uso de gerador a diesel em contingência e o excedente solar pode recarregar a frota elétrica da empresa, reforçando o portfólio completo da Amper (FV+BESS+EVSE) como diferencial de propósito/ESG, com CTA de agendar diagnóstico gratuito",
+      "dados_usados": [
+        "redução de 30% a 50% no uso de gerador a diesel em contingência com sistema BESS bem dimensionado (estimativa ilustrativa)"
+      ]
     }
   ]
 }
