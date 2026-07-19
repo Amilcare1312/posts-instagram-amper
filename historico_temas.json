@@ -77,6 +77,14 @@
       "dados_usados": [
         "redução de 30% a 50% no uso de gerador a diesel em contingência com sistema BESS bem dimensionado (estimativa ilustrativa)"
       ]
+    },
+    {
+      "data": "2026-07-19",
+      "dia_semana": "domingo",
+      "pilar": "Institucional / CTA comercial",
+      "tema": "Especialização exclusiva da Amper Energia em clientes Grupo A / média tensão, atendidos pela CELESC-D",
+      "angulo": "Diferente do institucional de 12/07 (engenharia vs 'vendedor de painéis'), foca em por que a Amper atua só nesse recorte de mercado — tarifa binômia, curva de carga própria e homologação exigem engenharia real — reforçando o portfólio integrado FV+BESS+EVSE, com CTA de visitar o site",
+      "dados_usados": []
     }
   ]
 }
