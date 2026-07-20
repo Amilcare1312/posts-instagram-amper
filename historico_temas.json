@@ -85,6 +85,16 @@
       "tema": "Especialização exclusiva da Amper Energia em clientes Grupo A / média tensão, atendidos pela CELESC-D",
       "angulo": "Diferente do institucional de 12/07 (engenharia vs 'vendedor de painéis'), foca em por que a Amper atua só nesse recorte de mercado — tarifa binômia, curva de carga própria e homologação exigem engenharia real — reforçando o portfólio integrado FV+BESS+EVSE, com CTA de visitar o site",
       "dados_usados": []
+    },
+    {
+      "data": "2026-07-20",
+      "dia_semana": "segunda",
+      "pilar": "Educativo — mito vs. verdade",
+      "tema": "Mito de que quanto maior o sistema solar instalado, maior a economia, ignorando a curva de carga real",
+      "angulo": "Diferente do mito de 13/07 (tarifa binômia), aqui o foco é o dimensionamento pelo espaço disponível versus pela curva de carga/consumo real, explicando que superdimensionar aumenta investimento e gera excedente mal aproveitado, reforçando a importância do EVTE, com CTA de WhatsApp para variar dos CTAs recentes",
+      "dados_usados": [
+        "sistemas superdimensionados sem estudo adequado podem gerar entre 10% e 30% de energia mal aproveitada (estimativa ilustrativa)"
+      ]
     }
   ]
 }
