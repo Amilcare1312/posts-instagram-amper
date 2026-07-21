@@ -95,6 +95,16 @@
       "dados_usados": [
         "sistemas superdimensionados sem estudo adequado podem gerar entre 10% e 30% de energia mal aproveitada (estimativa ilustrativa)"
       ]
+    },
+    {
+      "data": "2026-07-21",
+      "dia_semana": "terca",
+      "pilar": "Dado/número de impacto — economia, geração distribuída, tarifa CELESC-D",
+      "tema": "Retorno de investimento em usinas solares de investimento (modelo PPA) para investidores conectados via CELESC-D",
+      "angulo": "Diferente do dado de 14/07 (economia mensal na fatura para autoconsumo), aqui o foco é o payback de capital investido em uma usina solar no modelo PPA (venda de energia via contrato a consumidor Grupo A/CELESC-D), reforçando que o prazo real depende de estudo de viabilidade, com CTA de comentar para variar dos CTAs recentes",
+      "dados_usados": [
+        "payback estimado de 3 a 5 anos para investidores em usinas solares de investimento no modelo PPA (estimativa ilustrativa)"
+      ]
     }
   ]
 }
