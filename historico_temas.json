@@ -105,6 +105,17 @@
       "dados_usados": [
         "payback estimado de 3 a 5 anos para investidores em usinas solares de investimento no modelo PPA (estimativa ilustrativa)"
       ]
+    },
+    {
+      "data": "2026-07-22",
+      "dia_semana": "quarta",
+      "pilar": "Caso de sucesso / prova social",
+      "tema": "Indústria têxtil genérica no Vale do Itajaí que evitou superdimensionamento ao redimensionar o sistema FV pela curva de carga real, em vez do espaço disponível no telhado",
+      "angulo": "Diferente do caso de 15/07 (metalúrgica + BESS focado em custo total de energia), aqui o foco é o processo de engenharia que corrige um projeto superdimensionado usando medição real de consumo, evitando excedente mal aproveitado e ultrapassagem de demanda contratada no horário de ponta, com CTA de salvar para variar dos CTAs recentes (WhatsApp, comentar, site, diagnóstico gratuito)",
+      "dados_usados": [
+        "redução de 18% a 28% na fatura mensal após redimensionamento pela curva de carga real (estimativa ilustrativa)",
+        "payback estimado de 4 a 6 anos para autoconsumo em média tensão Grupo A/CELESC-D (estimativa ilustrativa)"
+      ]
     }
   ]
 }
