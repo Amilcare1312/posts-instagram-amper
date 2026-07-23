@@ -116,6 +116,16 @@
         "redução de 18% a 28% na fatura mensal após redimensionamento pela curva de carga real (estimativa ilustrativa)",
         "payback estimado de 4 a 6 anos para autoconsumo em média tensão Grupo A/CELESC-D (estimativa ilustrativa)"
       ]
+    },
+    {
+      "data": "2026-07-23",
+      "dia_semana": "quinta",
+      "pilar": "Dica prática — economia, dimensionamento, cuidados com o sistema",
+      "tema": "Proteção elétrica de sistemas FV contra descargas atmosféricas em Santa Catarina (DPS, aterramento, SPDA)",
+      "angulo": "Diferente da dica de 16/07 (monitoramento e limpeza contra perda de geração), aqui o foco é proteção contra surtos por raios — DPS no lado CC e CA, aterramento dimensionado e integração com o SPDA da edificação — reforçando que isso é parte do memorial de engenharia e não item opcional, com CTA de agendar diagnóstico gratuito para variar dos CTAs recentes",
+      "dados_usados": [
+        "custo de reparo ou substituição de inversor danificado por surto entre R$ 15 mil e R$ 60 mil, variando com a potência (estimativa ilustrativa)"
+      ]
     }
   ]
 }

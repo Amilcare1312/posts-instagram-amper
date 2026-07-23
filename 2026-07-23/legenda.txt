@@ -1,0 +1,15 @@
+Santa Catarina está entre os estados com maior incidência de raios do Brasil — seu sistema solar tem proteção adequada pra isso? ⚡
+
+Descargas atmosféricas são uma das principais causas de dano a inversores, strings e sistemas de monitoramento em usinas de médio/grande porte (Grupo A / CELESC-D).
+
+Um projeto bem executado inclui DPS (dispositivo de proteção contra surtos) no lado CC e no CA, aterramento dimensionado corretamente e integração com o SPDA da edificação — isso não é item opcional, é parte do memorial de engenharia.
+
+Reparo ou substituição de um inversor danificado por surto pode custar entre R$ 15 mil e R$ 60 mil*, variando com a potência — um custo evitável com projeto e manutenção adequados.
+
+Revisar a proteção do sistema pelo menos uma vez por ano, principalmente antes da temporada de mais tempestades em SC, é uma das manutenções mais baratas e mais negligenciadas do setor.
+
+*Estimativa ilustrativa; o custo real varia conforme potência do inversor, fabricante e extensão do dano.
+
+Quer saber se a proteção do seu sistema está adequada? Agenda um diagnóstico técnico gratuito com a nossa engenharia 🛡️
+
+#energiasolar #geracaodistribuida #fotovoltaica #santacatarina #protecaoeletrica #dps #aterramento #engenhariasolar #grupoa #celescd
