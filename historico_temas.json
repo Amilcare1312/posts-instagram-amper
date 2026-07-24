@@ -126,6 +126,14 @@
       "dados_usados": [
         "custo de reparo ou substituição de inversor danificado por surto entre R$ 15 mil e R$ 60 mil, variando com a potência (estimativa ilustrativa)"
       ]
+    },
+    {
+      "data": "2026-07-24",
+      "dia_semana": "sexta",
+      "pilar": "Bastidores / equipe / processo de engenharia",
+      "tema": "Os diferentes perfis técnicos por trás de um projeto FV/BESS/EVSE da Amper — RT/ART, projetista, engenheiro de proteção e técnico de comissionamento",
+      "angulo": "Diferente do bastidores de 17/07 (que mostrou as fases do processo: fatura, EVTE, proteção, homologação), aqui o foco é nas PESSOAS e papéis técnicos responsáveis por cada etapa crítica, reforçando que é um time multidisciplinar assinando o projeto e não um instalador sozinho, com CTA de visitar o site para variar dos CTAs recentes (diagnóstico, salvar, comentar, whatsapp)",
+      "dados_usados": []
     }
   ]
 }
