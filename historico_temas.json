@@ -134,6 +134,16 @@
       "tema": "Os diferentes perfis técnicos por trás de um projeto FV/BESS/EVSE da Amper — RT/ART, projetista, engenheiro de proteção e técnico de comissionamento",
       "angulo": "Diferente do bastidores de 17/07 (que mostrou as fases do processo: fatura, EVTE, proteção, homologação), aqui o foco é nas PESSOAS e papéis técnicos responsáveis por cada etapa crítica, reforçando que é um time multidisciplinar assinando o projeto e não um instalador sozinho, com CTA de visitar o site para variar dos CTAs recentes (diagnóstico, salvar, comentar, whatsapp)",
       "dados_usados": []
+    },
+    {
+      "data": "2026-07-25",
+      "dia_semana": "sabado",
+      "pilar": "Sustentabilidade / propósito",
+      "tema": "Vida útil longa dos sistemas fotovoltaicos (25 a 30 anos) e reciclabilidade dos módulos como faces menos óbvias da sustentabilidade",
+      "angulo": "Diferente do CO2 evitado (11/07) e do ecossistema integrado FV+BESS+EVSE (18/07), aqui o foco é a durabilidade do investimento e as rotas de reciclagem de vidro, alumínio e silício no fim de vida útil, reforçando que sustentabilidade também é redução de desperdício ao longo de décadas, com CTA de comentar para variar dos CTAs recentes (site, diagnóstico, salvar)",
+      "dados_usados": [
+        "vida útil de 25 a 30 anos, mantendo entre 80% e 85% da capacidade original de geração ao final do período (estimativa ilustrativa)"
+      ]
     }
   ]
 }
