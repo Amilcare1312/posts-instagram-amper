@@ -144,6 +144,14 @@
       "dados_usados": [
         "vida útil de 25 a 30 anos, mantendo entre 80% e 85% da capacidade original de geração ao final do período (estimativa ilustrativa)"
       ]
+    },
+    {
+      "data": "2026-07-26",
+      "dia_semana": "domingo",
+      "pilar": "Institucional / CTA comercial",
+      "tema": "Uma única engenharia responsável pela integração de FV, BESS e EVSE, em vez de três fornecedores separados",
+      "angulo": "Diferente dos institucionais de 12/07 (engenharia vs \"vendedor de painéis\") e 19/07 (foco exclusivo em Grupo A/CELESC-D), o ângulo de hoje mostra o risco de contratar fornecedores separados para FV, BESS e EVSE (garantias e responsabilidades divididas, incompatibilidade entre equipamentos) e reforça que a Amper entrega os três sistemas sob uma única equipe e responsável técnico, do diagnóstico ao comissionamento, com CTA de WhatsApp",
+      "dados_usados": []
     }
   ]
 }
