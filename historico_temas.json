@@ -152,6 +152,16 @@
       "tema": "Uma única engenharia responsável pela integração de FV, BESS e EVSE, em vez de três fornecedores separados",
       "angulo": "Diferente dos institucionais de 12/07 (engenharia vs \"vendedor de painéis\") e 19/07 (foco exclusivo em Grupo A/CELESC-D), o ângulo de hoje mostra o risco de contratar fornecedores separados para FV, BESS e EVSE (garantias e responsabilidades divididas, incompatibilidade entre equipamentos) e reforça que a Amper entrega os três sistemas sob uma única equipe e responsável técnico, do diagnóstico ao comissionamento, com CTA de WhatsApp",
       "dados_usados": []
+    },
+    {
+      "data": "2026-07-27",
+      "dia_semana": "segunda",
+      "pilar": "Educativo — mito vs. verdade",
+      "tema": "Mito de que o clima nublado de Santa Catarina inviabiliza o retorno de sistemas de energia solar",
+      "angulo": "Diferente dos mitos de 13/07 (tarifa binômia) e 20/07 (superdimensionamento pelo espaço disponível), aqui o foco é o clima: painéis captam luz difusa e seguem gerando sob céu encoberto, e a viabilidade depende da média anual de irradiância combinada com a compensação de energia, não do clima de um dia específico, com CTA de salvar para variar dos CTAs recentes (whatsapp, comentar, site, diagnóstico)",
+      "dados_usados": [
+        "irradiância média anual em SC entre 4,0 e 4,5 kWh/m²/dia, considerada adequada para viabilidade de projetos de GD mesmo com mais dias nublados que regiões de maior insolação (estimativa ilustrativa)"
+      ]
     }
   ]
 }
