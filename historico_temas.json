@@ -162,6 +162,17 @@
       "dados_usados": [
         "irradiância média anual em SC entre 4,0 e 4,5 kWh/m²/dia, considerada adequada para viabilidade de projetos de GD mesmo com mais dias nublados que regiões de maior insolação (estimativa ilustrativa)"
       ]
+    },
+    {
+      "data": "2026-07-28",
+      "dia_semana": "terca",
+      "pilar": "Dado/número de impacto — economia, geração distribuída, tarifa CELESC-D",
+      "tema": "Efeito composto do reajuste tarifário anual no Grupo A/CELESC-D ao longo de uma década e como a geração própria reduz essa exposição",
+      "angulo": "Diferente do dado de 14/07 (economia mensal % na fatura) e de 21/07 (payback de usinas PPA para investidores), aqui o foco é mostrar que o reajuste tarifário anual, mesmo parecendo pequeno isoladamente, se acumula ao longo de 10 anos, e que gerar parte da própria energia com FV+BESS trava uma fatia desse custo, com CTA de agendar diagnóstico gratuito para variar dos CTAs recentes (comentar, salvar, whatsapp, site)",
+      "dados_usados": [
+        "reajuste tarifário médio anual entre 6% e 9% para o Grupo A/CELESC-D (estimativa ilustrativa)",
+        "aumento acumulado estimado de 80% a 140% no custo da energia em 10 anos, por efeito composto do reajuste (estimativa ilustrativa)"
+      ]
     }
   ]
 }
