@@ -1,0 +1,11 @@
+Sua fatura de energia pode estar inflada por um problema que não tem nada a ver com quanto você consome. 🔍
+
+Uma indústria cerâmica genérica no Sul de SC nos procurou pensando só em economizar com energia solar. No levantamento de engenharia, encontramos outro vilão silencioso na conta: fator de potência abaixo do exigido, gerando cobrança extra por energia reativa excedente todo mês.
+A solução veio em conjunto — banco de capacitores para corrigir o fator de potência e dimensionamento do sistema FV pela curva de carga real, resolvendo os dois problemas no mesmo projeto.
+Isso é o que muda quando o diagnóstico é técnico: o que parecia "só uma conta de luz alta" tinha uma causa que nenhuma simulação genérica de painel solar identifica sozinha.
+
+Resultado estimado: eliminação da multa por baixo fator de potência (que pode representar de 5% a 15% a mais na fatura) somada à economia da geração própria, com payback de autoconsumo em média tensão Grupo A/CELESC-D estimado em 4 a 7 anos (estimativa ilustrativa, depende de estudo de viabilidade).
+
+Quer saber se sua fatura esconde um custo parecido? Visita nosso site e conhece o diagnóstico de engenharia da Amper 💡⚡
+
+#energiasolar #geracaodistribuida #fotovoltaica #santacatarina #fatordepotencia #energiareativa #eficienciaenergetica #celescd #grupoa #engenhariasolar #amperenergia

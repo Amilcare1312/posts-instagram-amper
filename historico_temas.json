@@ -173,6 +173,17 @@
         "reajuste tarifário médio anual entre 6% e 9% para o Grupo A/CELESC-D (estimativa ilustrativa)",
         "aumento acumulado estimado de 80% a 140% no custo da energia em 10 anos, por efeito composto do reajuste (estimativa ilustrativa)"
       ]
+    },
+    {
+      "data": "2026-07-29",
+      "dia_semana": "quarta",
+      "pilar": "Caso de sucesso / prova social",
+      "tema": "Indústria cerâmica genérica no Sul de SC onde o diagnóstico de engenharia revelou multa por baixo fator de potência (energia reativa) além da oportunidade de projeto FV",
+      "angulo": "Diferente dos casos de 15/07 (metalúrgica + BESS para custo total de energia) e 22/07 (têxtil, redimensionamento pela curva de carga), aqui o foco é mostrar que o diagnóstico técnico vai além da simulação padrão de painel solar, identificando e corrigindo junto (banco de capacitores + FV) um problema de fator de potência que uma análise genérica não pegaria, com CTA de visitar o site para variar dos CTAs recentes (diagnóstico, salvar, comentar, whatsapp)",
+      "dados_usados": [
+        "multa por baixo fator de potência pode representar acréscimo de 5% a 15% na fatura de energia (estimativa ilustrativa)",
+        "payback estimado de 4 a 7 anos para autoconsumo em média tensão Grupo A/CELESC-D (estimativa ilustrativa)"
+      ]
     }
   ]
 }
