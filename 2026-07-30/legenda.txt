@@ -1,0 +1,12 @@
+Um cabo subdimensionado pode estar comendo parte da geração do seu sistema solar todo santo dia, sem disparar nenhum alarme. ⚡
+
+Cabo CC e CA calculado só pelo custo do metro, sem considerar a distância entre módulos, inversor e o quadro de conexão, gera queda de tensão acima do recomendado — e isso vira calor dissipado, não energia entregue.
+Em sistemas de médio/grande porte no Grupo A/CELESC-D, com trechos de cabeamento mais longos (telhados extensos ou usinas em solo), esse detalhe de projeto pesa mais do que parece.
+Cabeamento subdimensionado pode responder por uma perda de geração de 2% a 8% ao ano*, silenciosa, mas constante, mês após mês.
+Um bom memorial de engenharia dimensiona a bitola do cabo pela ampacidade E pela queda de tensão máxima — não só pelo menor preço do metro.
+
+*Estimativa ilustrativa; a perda real varia com bitola, comprimento do trecho e corrente do sistema.
+
+Já revisou o dimensionamento do cabeamento do seu sistema? Comenta aqui embaixo se quiser que a gente destrinche esse cálculo 💬
+
+#energiasolar #geracaodistribuida #fotovoltaica #santacatarina #engenhariasolar #cabeamentofv #quedadetensao #celescd #grupoa #amperenergia

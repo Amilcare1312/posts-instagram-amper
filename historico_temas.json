@@ -184,6 +184,16 @@
         "multa por baixo fator de potência pode representar acréscimo de 5% a 15% na fatura de energia (estimativa ilustrativa)",
         "payback estimado de 4 a 7 anos para autoconsumo em média tensão Grupo A/CELESC-D (estimativa ilustrativa)"
       ]
+    },
+    {
+      "data": "2026-07-30",
+      "dia_semana": "quinta",
+      "pilar": "Dica prática — economia, dimensionamento, cuidados com o sistema",
+      "tema": "Dimensionamento correto do cabeamento CC/CA (ampacidade + queda de tensão) em sistemas FV Grupo A/CELESC-D",
+      "angulo": "Diferente das dicas de 16/07 (monitoramento/limpeza contra perda de geração) e 23/07 (proteção contra surtos — DPS/aterramento/SPDA), aqui o foco é mostrar que cabo dimensionado só pelo preço, sem considerar distância e queda de tensão, dissipa energia como calor em vez de entregá-la, reforçando que a bitola deve ser calculada por ampacidade E queda de tensão máxima, com CTA de comentar para variar dos CTAs recentes (whatsapp, salvar, diagnóstico, site)",
+      "dados_usados": [
+        "perda de geração por cabeamento subdimensionado entre 2% e 8% ao ano (estimativa ilustrativa)"
+      ]
     }
   ]
 }
