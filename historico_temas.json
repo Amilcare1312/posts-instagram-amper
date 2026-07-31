@@ -194,6 +194,16 @@
       "dados_usados": [
         "perda de geração por cabeamento subdimensionado entre 2% e 8% ao ano (estimativa ilustrativa)"
       ]
+    },
+    {
+      "data": "2026-07-31",
+      "dia_semana": "sexta",
+      "pilar": "Bastidores / equipe / processo de engenharia",
+      "tema": "Bateria de testes de comissionamento (isolamento, curva I-V, proteção, sincronismo) antes da energização de um sistema FV/BESS em Grupo A/CELESC-D",
+      "angulo": "Diferente do bastidores de 17/07 (etapas do processo, da fatura à homologação) e de 24/07 (perfis técnicos/papéis do time), aqui o foco é o rigor técnico do comissionamento em si — os testes concretos (isolamento elétrico, curva I-V dos strings, ajuste do relé de proteção, sincronismo com a rede) feitos por engenheiros antes de qualquer conexão à CELESC-D, reforçando qualidade e segurança da entrega, com CTA de WhatsApp para variar dos CTAs recentes (comentar, site, diagnóstico, salvar)",
+      "dados_usados": [
+        "cerca de 15 verificações técnicas no comissionamento de um sistema (estimativa ilustrativa, varia com porte e complexidade do projeto)"
+      ]
     }
   ]
 }

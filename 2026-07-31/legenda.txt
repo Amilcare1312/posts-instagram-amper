@@ -1,0 +1,11 @@
+Antes de energizar qualquer sistema, nossa equipe roda uma bateria de testes que o cliente nunca vê. ⚡
+
+Isolamento elétrico com megômetro, curva de corrente e tensão (I-V) de cada string, ajuste e teste do relé de proteção e verificação de sincronismo com a rede — tudo registrado por engenheiros habilitados antes de qualquer conexão à CELESC-D.
+São cerca de 15 verificações técnicas*, não só uma checagem visual do instalador.
+É esse rigor no comissionamento que garante segurança, homologação sem retrabalho e geração estável desde o primeiro dia de operação.
+
+*Estimativa ilustrativa; o número de testes varia com porte e complexidade do projeto (FV, BESS e/ou EVSE).
+
+Quer entender como funciona o comissionamento do seu projeto? Chama a gente no WhatsApp 📲
+
+#energiasolar #geracaodistribuida #fotovoltaica #santacatarina #comissionamentofv #engenhariaeletrica #energiasolarsc #grupoa #celescd #qualidadedeengenharia #bastidoresdaengenharia #ampenergia
