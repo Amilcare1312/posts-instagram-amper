@@ -204,6 +204,16 @@
       "dados_usados": [
         "cerca de 15 verificações técnicas no comissionamento de um sistema (estimativa ilustrativa, varia com porte e complexidade do projeto)"
       ]
+    },
+    {
+      "data": "2026-08-01",
+      "dia_semana": "sabado",
+      "pilar": "Sustentabilidade / propósito",
+      "tema": "Perdas técnicas de transmissão e distribuição evitadas pela geração distribuída, que aproxima geração e consumo",
+      "angulo": "Diferente do CO2 evitado (11/07), do ecossistema integrado FV+BESS+EVSE (18/07) e da vida útil/reciclabilidade dos módulos (25/07), o foco de hoje é a eficiência sistêmica da rede elétrica: gerar energia perto de onde ela é consumida encurta o trajeto de transmissão, reduz perdas técnicas e alivia a rede local nos horários de pico em SC, reposicionando sustentabilidade como algo além do CO2 evitado, com CTA de visitar o site para variar dos CTAs recentes (comentar, salvar, whatsapp, diagnóstico)",
+      "dados_usados": [
+        "perdas técnicas de transmissão e distribuição no Brasil entre 13% e 17% da energia gerada (estimativa ilustrativa, com base em dados públicos do setor elétrico)"
+      ]
     }
   ]
 }
