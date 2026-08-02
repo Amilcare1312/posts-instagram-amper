@@ -214,6 +214,14 @@
       "dados_usados": [
         "perdas técnicas de transmissão e distribuição no Brasil entre 13% e 17% da energia gerada (estimativa ilustrativa, com base em dados públicos do setor elétrico)"
       ]
+    },
+    {
+      "data": "2026-08-02",
+      "dia_semana": "domingo",
+      "pilar": "Institucional / CTA comercial",
+      "tema": "Anotação de Responsabilidade Técnica (ART) da Amper Energia como garantia formal de segurança, conformidade e resultado no projeto FV/BESS/EVSE",
+      "angulo": "Diferente do institucional de 12/07 (engenharia vs. vendedor de painéis), 19/07 (exclusividade Grupo A/CELESC-D) e 26/07 (uma única equipe integrando FV+BESS+EVSE), o foco de hoje é a ART como garantia formal — um engenheiro habilitado assume legalmente o resultado do projeto, protegendo o cliente contra reprovação na homologação CELESC-D e problemas de garantia, com CTA de comentar para variar dos CTAs recentes do pilar (diagnóstico gratuito, site, whatsapp)",
+      "dados_usados": []
     }
   ]
 }
