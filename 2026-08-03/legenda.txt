@@ -1,0 +1,11 @@
+Instalando energia solar, sua fatura de energia vira R$ 0? 🤔
+
+Mito. Mesmo com 100% da energia consumida vindo do seu próprio sistema, duas parcelas continuam aparecendo na fatura de quem é atendido em média tensão pela CELESC-D: a demanda contratada (kW) e a fração não compensável do Fio B, referente ao uso da rede de distribuição.
+
+Na prática, "zerar a fatura" não é a meta real de um projeto bem feito — reduzir o maior peso possível dela, sim. É por isso que o dimensionamento correto parte da curva de carga completa, e não só do total de kWh consumido no mês.
+
+Mesmo com autoconsumo bem dimensionado, essas parcelas residuais costumam representar entre 10% e 25% do valor original da fatura em Grupo A/CELESC-D (estimativa ilustrativa, varia por caso).
+
+Quer entender quanto do seu custo real dá pra reduzir? Visite nosso site (link na bio) e conheça o diagnóstico técnico gratuito da Amper.
+
+#energiasolar #geracaodistribuida #fotovoltaica #santacatarina #grupoa #celescd #tarifadeenergia #demandacontratada #engenhariaeletrica #mitoouverdade #ampenergia

@@ -222,6 +222,16 @@
       "tema": "Anotação de Responsabilidade Técnica (ART) da Amper Energia como garantia formal de segurança, conformidade e resultado no projeto FV/BESS/EVSE",
       "angulo": "Diferente do institucional de 12/07 (engenharia vs. vendedor de painéis), 19/07 (exclusividade Grupo A/CELESC-D) e 26/07 (uma única equipe integrando FV+BESS+EVSE), o foco de hoje é a ART como garantia formal — um engenheiro habilitado assume legalmente o resultado do projeto, protegendo o cliente contra reprovação na homologação CELESC-D e problemas de garantia, com CTA de comentar para variar dos CTAs recentes do pilar (diagnóstico gratuito, site, whatsapp)",
       "dados_usados": []
+    },
+    {
+      "data": "2026-08-03",
+      "dia_semana": "segunda",
+      "pilar": "Educativo — mito vs. verdade",
+      "tema": "Mito de que a fatura de energia \"zera\" completamente com energia solar em Grupo A/CELESC-D",
+      "angulo": "Diferente dos mitos de 13/07 (tarifa binômia inviabilizando retorno), 20/07 (superdimensionamento pelo espaço disponível) e 27/07 (clima nublado em SC), o foco de hoje é explicar que a demanda contratada (kW) e a fração não compensável do Fio B continuam sendo cobradas mesmo com 100% de autoconsumo, reposicionando a meta do projeto como reduzir o maior peso possível da fatura, não zerá-la, com CTA de visitar o site para variar dos CTAs recentes (diagnóstico, comentar, whatsapp, salvar)",
+      "dados_usados": [
+        "parcelas residuais de demanda contratada e Fio B não compensável podem representar entre 10% e 25% do valor original da fatura em Grupo A/CELESC-D, mesmo com autoconsumo bem dimensionado (estimativa ilustrativa)"
+      ]
     }
   ]
 }
