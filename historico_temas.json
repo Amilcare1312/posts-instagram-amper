@@ -232,6 +232,18 @@
       "dados_usados": [
         "parcelas residuais de demanda contratada e Fio B não compensável podem representar entre 10% e 25% do valor original da fatura em Grupo A/CELESC-D, mesmo com autoconsumo bem dimensionado (estimativa ilustrativa)"
       ]
+    },
+    {
+      "data": "2026-08-04",
+      "dia_semana": "terca",
+      "pilar": "Dado/número de impacto — economia, geração distribuída, tarifa CELESC-D",
+      "tema": "Quantidade de anos de geração com custo operacional mínimo após o payback do investimento em autoconsumo FV, combinando payback médio com vida útil dos módulos",
+      "angulo": "Diferente dos dados de 14/07 (economia mensal % e R$ na fatura), 21/07 (payback de usinas PPA para investidores) e 28/07 (efeito composto do reajuste tarifário em 10 anos), aqui o foco cruza o payback médio de autoconsumo (4 a 7 anos) com a vida útil dos módulos (25 a 30 anos, mantendo 80-85% da capacidade) para chegar ao número de anos de energia praticamente grátis após o retorno do investimento, com CTA de WhatsApp para variar dos CTAs recentes (site, comentar)",
+      "dados_usados": [
+        "payback estimado de 4 a 7 anos para autoconsumo em média tensão Grupo A/CELESC-D (estimativa ilustrativa)",
+        "vida útil de 25 a 30 anos, mantendo entre 80% e 85% da capacidade original de geração ao final do período (estimativa ilustrativa)",
+        "entre 18 e 26 anos de energia gerada com custo operacional mínimo após o payback, derivado do cruzamento dos dois ranges anteriores (estimativa ilustrativa)"
+      ]
     }
   ]
 }
