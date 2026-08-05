@@ -1,0 +1,12 @@
+Câmara fria não liga só de dia — e isso quase custou caro pra uma indústria em SC. 🧊
+
+Uma indústria de laticínios genérica no Planalto Norte catarinense nos procurou querendo repetir o que viu em outras fábricas: sistema solar dimensionado pelo consumo total do mês.
+Só que boa parte do consumo dela vem das câmaras frias funcionando 24 horas — inclusive de madrugada, quando não existe geração solar nenhuma.
+No estudo da curva de carga, ficou claro que dimensionar pelo total mensal geraria excedente mal aproveitado durante o dia e manteria a dependência da rede à noite.
+A engenharia ajustou o projeto para cobrir bem o consumo diurno (produção + parte da refrigeração), deixando a expansão com BESS mapeada como próxima etapa, para quando o retorno dela também fizer sentido no caixa.
+
+Resultado estimado: redução de 15% a 25% na fatura de energia, já que a geração cobre principalmente o consumo diurno, com payback de autoconsumo em média tensão Grupo A/CELESC-D estimado em 5 a 7 anos (estimativa ilustrativa, depende de estudo de viabilidade).
+
+Sua operação é mais diurna ou roda 24h? Comenta aqui embaixo que te ajudamos a entender o que muda no seu caso 👇💡
+
+#energiasolar #geracaodistribuida #fotovoltaica #santacatarina #industria #curvadecarga #celescd #grupoa #engenhariasolar #amperenergia #bess

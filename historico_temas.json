@@ -244,6 +244,17 @@
         "vida útil de 25 a 30 anos, mantendo entre 80% e 85% da capacidade original de geração ao final do período (estimativa ilustrativa)",
         "entre 18 e 26 anos de energia gerada com custo operacional mínimo após o payback, derivado do cruzamento dos dois ranges anteriores (estimativa ilustrativa)"
       ]
+    },
+    {
+      "data": "2026-08-05",
+      "dia_semana": "quarta",
+      "pilar": "Caso de sucesso / prova social",
+      "tema": "Indústria de laticínios genérica no Planalto Norte catarinense com operação de câmaras frias 24h, onde o dimensionamento pelo consumo total mensal seria um erro de engenharia",
+      "angulo": "Diferente dos casos de 15/07 (metalúrgica + BESS para custo total de energia), 22/07 (têxtil, redimensionamento pela curva de carga por superdimensionamento no telhado) e 29/07 (cerâmica, fator de potência), aqui o foco é o perfil de consumo 24h (câmaras frias funcionando de madrugada, sem geração solar) exigindo dimensionar pelo consumo diurno em vez do total mensal, com expansão futura em BESS mapeada para a operação noturna, com CTA de comentar para variar dos CTAs recentes do pilar (whatsapp, salvar, site)",
+      "dados_usados": [
+        "redução de 15% a 25% na fatura de energia, já que a geração cobre principalmente o consumo diurno (estimativa ilustrativa)",
+        "payback estimado de 5 a 7 anos para autoconsumo em média tensão Grupo A/CELESC-D, levemente maior por conta da cobertura parcial do consumo (estimativa ilustrativa)"
+      ]
     }
   ]
 }
