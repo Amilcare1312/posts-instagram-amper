@@ -1,0 +1,14 @@
+Seu inversor pode estar "cortando" parte da geração bem no horário de pico de sol — e isso não aparece como defeito no painel de monitoramento. ⚡
+
+É normal (e até desejável) instalar mais potência em painéis do que a potência nominal do inversor — isso se chama fator de dimensionamento DC/AC, e dentro da faixa certa melhora o aproveitamento do investimento.
+O problema é quando esse fator é definido só pelo menor custo do inversor, sem cruzar com a curva de irradiância local, a temperatura de operação e o perfil de consumo do cliente.
+Passar do ponto ideal faz o inversor limitar (clipping) o excedente de geração justamente ao meio-dia, quando o sol está mais forte — e essa perda não gera alarme nenhum, só menos energia entregue.
+Um bom memorial de engenharia calcula esse fator caso a caso, para sistemas em Grupo A/CELESC-D, em vez de aplicar uma regra genérica de mercado.
+
+Clipping mal dimensionado pode custar entre 3% e 8% da geração anual*, de forma silenciosa e recorrente.
+
+*Estimativa ilustrativa; a perda real varia com o fator DC/AC adotado, irradiância local e perfil de consumo.
+
+Salva esse post pra revisar o fator de dimensionamento do inversor do seu sistema na próxima manutenção 📌
+
+#energiasolar #geracaodistribuida #fotovoltaica #santacatarina #engenhariasolar #inversorsolar #dimensionamentofv #clipping #celescd #grupoa #amperenergia

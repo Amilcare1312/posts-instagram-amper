@@ -255,6 +255,16 @@
         "redução de 15% a 25% na fatura de energia, já que a geração cobre principalmente o consumo diurno (estimativa ilustrativa)",
         "payback estimado de 5 a 7 anos para autoconsumo em média tensão Grupo A/CELESC-D, levemente maior por conta da cobertura parcial do consumo (estimativa ilustrativa)"
       ]
+    },
+    {
+      "data": "2026-08-06",
+      "dia_semana": "quinta",
+      "pilar": "Dica prática — economia, dimensionamento, cuidados com o sistema",
+      "tema": "Fator de dimensionamento DC/AC do inversor e o risco de clipping (corte de geração) em sistemas FV Grupo A/CELESC-D",
+      "angulo": "Diferente das dicas de 16/07 (monitoramento/limpeza contra perda de geração), 23/07 (proteção contra surtos — DPS/aterramento/SPDA) e 30/07 (dimensionamento do cabeamento CC/CA), aqui o foco é mostrar que definir o fator DC/AC do inversor só pelo menor custo do equipamento, sem cruzar com irradiância local, temperatura e perfil de consumo, causa clipping (corte do excedente de geração) justamente no horário de pico de sol, sem gerar nenhum alarme, com CTA de salvar para variar dos CTAs recentes (comentar, site, whatsapp)",
+      "dados_usados": [
+        "perda de geração por clipping mal dimensionado entre 3% e 8% ao ano (estimativa ilustrativa)"
+      ]
     }
   ]
 }
