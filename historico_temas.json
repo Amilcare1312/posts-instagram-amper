@@ -265,6 +265,16 @@
       "dados_usados": [
         "perda de geração por clipping mal dimensionado entre 3% e 8% ao ano (estimativa ilustrativa)"
       ]
+    },
+    {
+      "data": "2026-08-07",
+      "dia_semana": "sexta",
+      "pilar": "Bastidores / equipe / processo de engenharia",
+      "tema": "Visita técnica de campo antes de qualquer proposta — medição da curva de carga real, inspeção do quadro de entrada e avaliação do telhado/solo",
+      "angulo": "Diferente dos bastidores de 17/07 (etapas gerais do processo, da fatura à homologação), 24/07 (perfis técnicos e papéis do time) e 31/07 (bateria de testes de comissionamento antes da energização), hoje o foco é a própria visita técnica em campo — o que a engenharia mede e inspeciona in loco antes de montar o EVTE — reforçando que isso é o que diferencia uma proposta de engenharia de uma estimativa de simulador online, com CTA de agendar diagnóstico gratuito para variar dos CTAs recentes do pilar (salvar, site, whatsapp)",
+      "dados_usados": [
+        "estimativas feitas só com dados de satélite, sem visita técnica, podem errar a geração real projetada em 15% a 30% (estimativa ilustrativa)"
+      ]
     }
   ]
 }
