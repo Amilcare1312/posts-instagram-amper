@@ -275,6 +275,16 @@
       "dados_usados": [
         "estimativas feitas só com dados de satélite, sem visita técnica, podem errar a geração real projetada em 15% a 30% (estimativa ilustrativa)"
       ]
+    },
+    {
+      "data": "2026-08-08",
+      "dia_semana": "sabado",
+      "pilar": "Sustentabilidade / propósito",
+      "tema": "Consumo de água na geração de energia: evaporação em reservatórios hidrelétricos vs. baixo consumo hídrico da geração solar FV",
+      "angulo": "Diferente do CO2 evitado (11/07), do ecossistema integrado FV+BESS+EVSE (18/07), da vida útil/reciclabilidade dos módulos (25/07) e das perdas técnicas de T&D evitadas (01/08), hoje o foco é o consumo de água como recurso: contrasta a evaporação em reservatórios hidrelétricos com o baixo uso hídrico da geração solar FV (apenas limpeza ocasional dos módulos), relevante no contexto catarinense de matriz predominantemente hídrica e anos de estiagem, com CTA de WhatsApp para variar dos CTAs recentes do pilar (diagnóstico, comentar, site)",
+      "dados_usados": [
+        "geração hidrelétrica pode consumir entre 5.000 e 20.000 litros de água por MWh gerado, principalmente por evaporação em reservatórios (estimativa ilustrativa, com base em dados públicos do setor elétrico)"
+      ]
     }
   ]
 }
