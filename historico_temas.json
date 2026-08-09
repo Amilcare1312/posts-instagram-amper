@@ -285,6 +285,14 @@
       "dados_usados": [
         "geração hidrelétrica pode consumir entre 5.000 e 20.000 litros de água por MWh gerado, principalmente por evaporação em reservatórios (estimativa ilustrativa, com base em dados públicos do setor elétrico)"
       ]
+    },
+    {
+      "data": "2026-08-09",
+      "dia_semana": "domingo",
+      "pilar": "Institucional / CTA comercial",
+      "tema": "Especialização regional da Amper Energia em Santa Catarina e conhecimento profundo das regras específicas da CELESC-D",
+      "angulo": "Diferente dos institucionais de 12/07 (engenharia vs. \"vendedor de painéis\"), 19/07 (exclusividade Grupo A/CELESC-D como recorte de mercado), 26/07 (uma única equipe integrando FV+BESS+EVSE) e 02/08 (ART como garantia formal), hoje o foco é o contraste entre players nacionais que aplicam um projeto padrão em qualquer estado e a Amper, que atua só em SC e domina de perto os prazos, exigências técnicas e particularidades de homologação da CELESC-D, com CTA de salvar para variar dos CTAs recentes do pilar (diagnóstico, site, whatsapp, comentar)",
+      "dados_usados": []
     }
   ]
 }
