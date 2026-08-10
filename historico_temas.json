@@ -293,6 +293,16 @@
       "tema": "Especialização regional da Amper Energia em Santa Catarina e conhecimento profundo das regras específicas da CELESC-D",
       "angulo": "Diferente dos institucionais de 12/07 (engenharia vs. \"vendedor de painéis\"), 19/07 (exclusividade Grupo A/CELESC-D como recorte de mercado), 26/07 (uma única equipe integrando FV+BESS+EVSE) e 02/08 (ART como garantia formal), hoje o foco é o contraste entre players nacionais que aplicam um projeto padrão em qualquer estado e a Amper, que atua só em SC e domina de perto os prazos, exigências técnicas e particularidades de homologação da CELESC-D, com CTA de salvar para variar dos CTAs recentes do pilar (diagnóstico, site, whatsapp, comentar)",
       "dados_usados": []
+    },
+    {
+      "data": "2026-08-10",
+      "dia_semana": "segunda",
+      "pilar": "Educativo — mito vs. verdade",
+      "tema": "Mito de que o painel solar alimenta o equipamento em tempo real, cortando o consumo da rede na hora",
+      "angulo": "Diferente dos mitos de 13/07 (tarifa binômia inviabilizando retorno), 20/07 (superdimensionamento pelo espaço disponível), 27/07 (clima nublado em SC) e 03/08 (fatura não zera — demanda contratada e Fio B), o foco de hoje é explicar que um sistema on-grid (sem bateria) em Grupo A/CELESC-D funciona por compensação de créditos dentro do ciclo de faturamento, não por sincronização em tempo real com o consumo, e que apenas o BESS entrega energia no momento exato do uso fora do horário solar, com CTA de visitar o site para variar dos CTAs recentes do pilar (comentar, whatsapp, salvar)",
+      "dados_usados": [
+        "em operações com consumo relevante fora do horário solar, a parcela de consumo \"fora de sincronia\" com a geração pode representar entre 20% e 40% do consumo total (estimativa ilustrativa, varia com o perfil de carga)"
+      ]
     }
   ]
 }

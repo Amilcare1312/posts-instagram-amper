@@ -1,0 +1,13 @@
+Seu painel solar alimenta a máquina no exato momento em que ela liga, cortando o consumo da rede na hora? 🤔
+
+🔍 Mito: parece lógico pensar que a energia gerada vai direto pro equipamento e "desconta" o consumo em tempo real, como se fosse um gerador isolado.
+
+✅ Verdade: em Grupo A/CELESC-D, um sistema solar on-grid (sem bateria) funciona por compensação — a energia gerada é injetada na rede e convertida em créditos, abatidos do consumo total dentro do ciclo de faturamento. Não é uma troca sincronizada watt a watt com o que sua operação está usando naquele segundo.
+
+Isso importa porque parte da geração do meio-dia pode não coincidir com o pico de consumo da sua operação — turno da noite, máquina que liga antes do sol nascer, câmara fria 24h. Quem entrega energia no momento exato do uso, inclusive fora do horário solar, é o BESS (sistema de armazenamento), não o painel isolado.
+
+Em operações com consumo relevante fora do horário solar, essa parcela "fora de sincronia" pode representar entre 20% e 40% do consumo total (estimativa ilustrativa, varia com o perfil de carga).
+
+Isso muda como você pensa a viabilidade do seu projeto? Visite nosso site (link na bio) e entenda como o dimensionamento parte do perfil real de consumo da sua operação, não só da conta de kWh.
+
+#energiasolar #geracaodistribuida #fotovoltaica #santacatarina #grupoa #celescd #bess #mitoouverdade #engenhariasolar #compensacaodeenergia #sistemaongrid #ampenergia
