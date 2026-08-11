@@ -1,0 +1,13 @@
+Você sabe quanto da sua fatura de energia é só demanda contratada (kW), separado do consumo (kWh)? 📊
+
+No Grupo A/CELESC-D, a demanda contratada costuma representar entre 20% e 35% do valor total da fatura* — e esse número pesa mesmo em meses de consumo mais baixo, porque é cobrado pelo kW reservado, não pelo kWh usado.
+
+Com engenharia de ajuste de contrato de demanda combinada a um sistema BESS para corte de pico (peak shaving), é possível reduzir entre 10% e 20% o valor pago só nessa parcela*.
+
+É uma economia que não depende de gerar mais energia — depende de gerenciar melhor o pico que sua operação já paga todo mês.
+
+*Estimativas ilustrativas, variam conforme modalidade tarifária, perfil de demanda e dimensionamento; não substituem estudo técnico específico.
+
+Quer entender quanto isso pesa na sua fatura? Salva esse post e chama a gente pra um diagnóstico técnico gratuito 💾
+
+#energiasolar #geracaodistribuida #fotovoltaica #santacatarina #celescd #grupoa #demandacontratada #bess #tarifadeenergia #engenhariasolar #amperenergia #eficienciaenergetica

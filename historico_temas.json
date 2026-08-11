@@ -303,6 +303,17 @@
       "dados_usados": [
         "em operações com consumo relevante fora do horário solar, a parcela de consumo \"fora de sincronia\" com a geração pode representar entre 20% e 40% do consumo total (estimativa ilustrativa, varia com o perfil de carga)"
       ]
+    },
+    {
+      "data": "2026-08-11",
+      "dia_semana": "terca",
+      "pilar": "Dado/número de impacto — economia, geração distribuída, tarifa CELESC-D",
+      "tema": "Peso da demanda contratada (kW) dentro da fatura de energia de Grupo A/CELESC-D e o quanto BESS + ajuste técnico de contrato pode reduzir dessa parcela",
+      "angulo": "Diferente dos dados de 14/07 (economia mensal % e R$ na fatura), 21/07 (payback de usinas PPA para investidores), 28/07 (efeito composto do reajuste tarifário em 10 anos) e 04/08 (payback + vida útil = anos de energia quase grátis), aqui o foco isola a parcela de demanda contratada dentro da fatura — cobrada mesmo com consumo baixo — e mostra que peak shaving com BESS combinado a ajuste técnico de contrato reduz especificamente essa fatia, sem depender de gerar mais energia, com CTA de salvar para variar dos CTAs recentes do pilar (whatsapp, comentar, diagnóstico, site)",
+      "dados_usados": [
+        "demanda contratada pode representar entre 20% e 35% do valor total da fatura em Grupo A/CELESC-D (estimativa ilustrativa)",
+        "otimização técnica da demanda (ajuste de contrato + BESS para corte de pico) pode reduzir entre 10% e 20% o valor pago com essa parcela (estimativa ilustrativa)"
+      ]
     }
   ]
 }
