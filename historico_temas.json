@@ -314,6 +314,17 @@
         "demanda contratada pode representar entre 20% e 35% do valor total da fatura em Grupo A/CELESC-D (estimativa ilustrativa)",
         "otimização técnica da demanda (ajuste de contrato + BESS para corte de pico) pode reduzir entre 10% e 20% o valor pago com essa parcela (estimativa ilustrativa)"
       ]
+    },
+    {
+      "data": "2026-08-12",
+      "dia_semana": "quarta",
+      "pilar": "Caso de sucesso / prova social",
+      "tema": "Transportadora genérica no litoral catarinense que dimensionou o sistema FV considerando também a curva de recarga da frota elétrica migrada (integração FV + EVSE)",
+      "angulo": "Diferente dos casos de 15/07 (metalúrgica + BESS para custo total de energia), 22/07 (têxtil, redimensionamento pela curva de carga), 29/07 (cerâmica, fator de potência) e 05/08 (laticínios, consumo 24h em câmaras frias), aqui o foco é a integração entre geração solar e eletrificação de frota (EVSE), mostrando que o dimensionamento precisa considerar a curva de recarga dos veículos e não só o consumo do galpão, com CTA de agendar diagnóstico gratuito para variar dos CTAs recentes do pilar (whatsapp, salvar, site, comentar)",
+      "dados_usados": [
+        "redução de 30% a 50% no gasto com combustível na fração da frota já migrada para elétrico, usando excedente solar para recarga (estimativa ilustrativa)",
+        "payback estimado de 5 a 8 anos para projeto integrado FV + EVSE (estimativa ilustrativa, maior que o de autoconsumo puro por incluir infraestrutura de recarga)"
+      ]
     }
   ]
 }
