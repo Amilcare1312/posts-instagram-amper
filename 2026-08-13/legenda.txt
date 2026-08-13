@@ -1,0 +1,14 @@
+Seu projeto solar foi calculado pro calor do litoral catarinense — ou também pro frio da Serra? ❄️☀️
+
+A tensão que os módulos entregam muda com a temperatura: sobe em dias frios, cai em dias muito quentes. Se o número de módulos por string for calculado só com a ficha técnica padrão do fabricante (a 25°C), sem cruzar com as temperaturas mínimas e máximas reais da região do projeto, o sistema fica exposto a dois riscos opostos.
+Numa madrugada fria, a string pode ultrapassar a tensão máxima suportada pelo inversor — risco de desligamento de segurança ou dano ao equipamento. Num dia muito quente, o efeito é o oposto: a tensão cai abaixo do mínimo de operação e o sistema perde geração sem disparar alarme nenhum.
+Em Santa Catarina, essa diferença é concreta: madrugadas geladas na Serra e verões intensos no litoral pedem contas de string diferentes para o mesmo modelo de módulo.
+Um bom memorial de engenharia recalcula o dimensionamento da string pelas temperaturas extremas registradas na região do projeto — não pela média genérica do catálogo.
+
+Erro no dimensionamento de string por temperatura pode causar desligamento de segurança do inversor ou perda de geração entre 5% e 15% ao ano*.
+
+*Estimativa ilustrativa; a perda real varia com o modelo do inversor, a string adotada e o clima local do projeto.
+
+Seu sistema (ou o de algum cliente seu) já desligou sozinho num dia muito frio ou muito quente? Comenta aqui embaixo 👇
+
+#energiasolar #geracaodistribuida #fotovoltaica #santacatarina #engenhariasolar #dimensionamentofv #inversorsolar #stringfotovoltaica #celescd #grupoa #amperenergia #serracatarinense

@@ -325,6 +325,16 @@
         "redução de 30% a 50% no gasto com combustível na fração da frota já migrada para elétrico, usando excedente solar para recarga (estimativa ilustrativa)",
         "payback estimado de 5 a 8 anos para projeto integrado FV + EVSE (estimativa ilustrativa, maior que o de autoconsumo puro por incluir infraestrutura de recarga)"
       ]
+    },
+    {
+      "data": "2026-08-13",
+      "dia_semana": "quinta",
+      "pilar": "Dica prática — economia, dimensionamento, cuidados com o sistema",
+      "tema": "Dimensionamento de string fotovoltaica considerando a variação de tensão com a temperatura (frio da Serra Catarinense x calor do litoral)",
+      "angulo": "Diferente das dicas de 16/07 (monitoramento/limpeza contra perda de geração), 23/07 (proteção contra surtos — DPS/aterramento/SPDA), 30/07 (dimensionamento do cabeamento CC/CA) e 06/08 (fator DC/AC do inversor e clipping), aqui o foco é o cálculo do número de módulos por string considerando a tensão de circuito aberto variando com temperatura — se calculada só pela ficha técnica padrão (25°C), sem cruzar com os extremos reais de frio (Serra) e calor (litoral) de SC, o sistema corre risco de desligamento de segurança do inversor por sobretensão ou de perda de geração por operar abaixo da tensão mínima, com CTA de comentar para variar dos CTAs recentes do pilar (salvar, diagnóstico, whatsapp, site)",
+      "dados_usados": [
+        "erro no dimensionamento de string por temperatura pode causar desligamento de segurança do inversor ou perda de geração entre 5% e 15% ao ano (estimativa ilustrativa)"
+      ]
     }
   ]
 }
