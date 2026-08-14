@@ -1,0 +1,13 @@
+Antes da CELESC-D aprovar o paralelismo da sua usina, alguém já provou no papel que ela desliga sozinha na hora certa ⚡
+
+Esse "alguém" é o estudo de proteção e seletividade. Ali a engenharia define as funções ANSI do relé (sobrecorrente, subtensão/sobretensão, anti-ilhamento), calcula a curva de tempo x corrente e ajusta o dial para que a proteção atue rápido numa falha real — sem desarmar à toa num evento normal da rede.
+É um cálculo, não um "equipamento de prateleira": o mesmo relé pode estar certo para uma indústria e errado para outra, dependendo do TC instalado, da corrente de curto e do ponto de conexão.
+Sem esse memorial aprovado, não existe homologação — e sem parametrização correta, o risco é equipamento queimado ou falha em desligar quando precisa.
+
+Em projetos de médio porte, normalmente entre 5 e 8 funções ANSI diferentes são parametrizadas no mesmo relé*.
+
+*Estimativa ilustrativa; o número real de funções varia com o porte, o ponto de conexão e as exigências específicas do projeto.
+
+Já ouviu falar em relé de proteção ou função ANSI? Comenta aqui embaixo se quiser que a gente explique numa próxima postagem 👇
+
+#energiasolar #geracaodistribuida #fotovoltaica #santacatarina #engenhariaeletrica #estudodeprotecao #paralelismo #celescd #grupoa #protecaoeletrica #amperenergia

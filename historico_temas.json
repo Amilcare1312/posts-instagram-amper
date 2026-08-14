@@ -335,6 +335,16 @@
       "dados_usados": [
         "erro no dimensionamento de string por temperatura pode causar desligamento de segurança do inversor ou perda de geração entre 5% e 15% ao ano (estimativa ilustrativa)"
       ]
+    },
+    {
+      "data": "2026-08-14",
+      "dia_semana": "sexta",
+      "pilar": "Bastidores / equipe / processo de engenharia",
+      "tema": "Estudo de proteção e seletividade — ajuste das funções ANSI do relé de proteção antes da aprovação de paralelismo pela CELESC-D",
+      "angulo": "Diferente dos bastidores de 17/07 (etapas gerais do processo, da fatura à homologação), 24/07 (perfis técnicos e papéis do time), 31/07 (bateria de testes de comissionamento) e 07/08 (visita técnica de campo), aqui o foco é o cálculo por trás do relé de proteção — funções ANSI, curva de tempo x corrente e dial de ajuste — que precisa ser aprovado pela CELESC-D antes do paralelismo, reforçando que é engenharia calculada sob medida e não um equipamento padrão de prateleira, com CTA de comentar para variar dos CTAs recentes do pilar (salvar, site, whatsapp, diagnóstico)",
+      "dados_usados": [
+        "normalmente entre 5 e 8 funções ANSI diferentes são parametrizadas no mesmo relé em projetos de médio porte (estimativa ilustrativa)"
+      ]
     }
   ]
 }
