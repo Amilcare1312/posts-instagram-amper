@@ -1,0 +1,13 @@
+Um painel solar gasta energia pra ser fabricado. Você sabe quanto tempo ele leva pra "pagar" essa energia de volta? ☀️
+
+É o chamado retorno energético (EPBT): o tempo que o módulo precisa operar até gerar a mesma quantidade de energia que foi usada em toda a sua cadeia de fabricação — do silício ao módulo pronto.
+Depois desse período, ele segue gerando energia limpa por décadas praticamente sem nenhum "débito" energético.
+É uma conta diferente do payback financeiro (que depende de tarifa, dimensionamento e consumo) — aqui o que se mede é energia gasta vs. energia devolvida.
+
+Estimativa ilustrativa: entre 1 e 2,5 anos de operação já cobrem a energia usada na fabricação de um módulo*. O resto dos 25 a 30 anos de vida útil é geração limpa acumulada.
+
+*Estimativa ilustrativa com base em estudos públicos do setor fotovoltaico; o valor real varia com a tecnologia do módulo e o processo de fabricação.
+
+Sustentabilidade também é olhar pra essa conta. Salva esse post pra explicar o conceito de retorno energético pra quem só pensa em payback financeiro 📌
+
+#energiasolar #geracaodistribuida #fotovoltaica #santacatarina #sustentabilidade #retornoenergetico #energialimpa #esg #energiasolarfv #amperenergia

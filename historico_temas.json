@@ -345,6 +345,17 @@
       "dados_usados": [
         "normalmente entre 5 e 8 funções ANSI diferentes são parametrizadas no mesmo relé em projetos de médio porte (estimativa ilustrativa)"
       ]
+    },
+    {
+      "data": "2026-08-15",
+      "dia_semana": "sabado",
+      "pilar": "Sustentabilidade / propósito",
+      "tema": "Tempo de retorno energético (EPBT) dos módulos fotovoltaicos — a energia gasta na fabricação do painel é devolvida em pouco tempo de operação",
+      "angulo": "Diferente do CO2 evitado (11/07, fora da janela de 30 dias), do ecossistema integrado FV+BESS+EVSE (18/07), da vida útil/reciclabilidade dos módulos (25/07), das perdas técnicas de T&D evitadas (01/08) e do consumo de água vs. hidrelétrica (08/08), hoje o foco é o retorno energético (EPBT) do próprio processo produtivo do painel: quanto tempo de operação é necessário para gerar a mesma energia gasta na fabricação, distinto do payback financeiro, com CTA de salvar por ser o único ainda não usado no ciclo recente do pilar (diagnóstico, comentar, site, whatsapp)",
+      "dados_usados": [
+        "tempo de retorno energético (EPBT) de um módulo fotovoltaico entre 1 e 2,5 anos de operação (estimativa ilustrativa com base em estudos públicos do setor)",
+        "vida útil do módulo de 25 a 30 anos, a maior parte operando como geração limpa após o EPBT"
+      ]
     }
   ]
 }
