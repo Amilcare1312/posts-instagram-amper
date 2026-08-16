@@ -356,6 +356,17 @@
         "tempo de retorno energético (EPBT) de um módulo fotovoltaico entre 1 e 2,5 anos de operação (estimativa ilustrativa com base em estudos públicos do setor)",
         "vida útil do módulo de 25 a 30 anos, a maior parte operando como geração limpa após o EPBT"
       ]
+    },
+    {
+      "data": "2026-08-16",
+      "dia_semana": "domingo",
+      "pilar": "Institucional / CTA comercial",
+      "tema": "O que entra no diagnóstico técnico gratuito da Amper Energia antes de qualquer proposta — análise de fatura, curva de carga, demanda contratada e exigências da CELESC-D",
+      "angulo": "Diferente dos institucionais de 12/07 (engenharia vs. \"vendedor de painéis\"), 19/07 (exclusividade Grupo A/CELESC-D), 26/07 (uma única equipe integrando FV+BESS+EVSE), 02/08 (ART como garantia formal) e 09/08 (especialização regional em SC), hoje o foco é o próprio processo do diagnóstico técnico gratuito — o que ele analisa antes de qualquer número, contrastando com propostas genéricas feitas só a partir do valor médio da fatura, com CTA de agendar diagnóstico gratuito para reiniciar o ciclo de CTAs do pilar (site, whatsapp, comentar, salvar já usados desde o último diagnóstico em 12/07)",
+      "dados_usados": [
+        "diagnóstico técnico costuma analisar entre 6 e 12 meses de histórico de consumo, conforme dados disponíveis na fatura do cliente (estimativa ilustrativa)",
+        "prazo médio de entrega do diagnóstico entre 3 e 5 dias úteis, podendo variar conforme complexidade do ponto de conexão (estimativa ilustrativa)"
+      ]
     }
   ]
 }
