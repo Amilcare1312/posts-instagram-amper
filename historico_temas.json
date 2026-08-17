@@ -367,6 +367,16 @@
         "diagnóstico técnico costuma analisar entre 6 e 12 meses de histórico de consumo, conforme dados disponíveis na fatura do cliente (estimativa ilustrativa)",
         "prazo médio de entrega do diagnóstico entre 3 e 5 dias úteis, podendo variar conforme complexidade do ponto de conexão (estimativa ilustrativa)"
       ]
+    },
+    {
+      "data": "2026-08-17",
+      "dia_semana": "segunda",
+      "pilar": "Educativo — mito vs. verdade",
+      "tema": "Mito de que o dimensionamento do sistema FV, uma vez definido, está resolvido para sempre",
+      "angulo": "Diferente dos mitos de 13/07 (tarifa binômia inviabilizando retorno), 20/07 (superdimensionamento pelo espaço disponível), 27/07 (clima nublado em SC), 03/08 (fatura não zera — demanda contratada e Fio B) e 10/08 (compensação de créditos x tempo real), o foco de hoje é mostrar que expansão de carga instalada (nova máquina, nova linha), troca de modalidade tarifária (Verde/Azul) ou aumento da demanda contratada mudam o cenário que gerou o projeto original, exigindo revisão técnica do dimensionamento e, às vezes, do estudo de proteção, com CTA de agendar diagnóstico gratuito para variar dos CTAs recentes do pilar (whatsapp, salvar, site)",
+      "dados_usados": [
+        "defasagem de dimensionamento após expansão de carga pode representar uma fatia relevante do potencial de economia perdido, variando conforme o crescimento da operação (estimativa ilustrativa, sem percentual fixo)"
+      ]
     }
   ]
 }
