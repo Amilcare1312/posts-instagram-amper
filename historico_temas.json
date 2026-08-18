@@ -377,6 +377,16 @@
       "dados_usados": [
         "defasagem de dimensionamento após expansão de carga pode representar uma fatia relevante do potencial de economia perdido, variando conforme o crescimento da operação (estimativa ilustrativa, sem percentual fixo)"
       ]
+    },
+    {
+      "data": "2026-08-18",
+      "dia_semana": "terca",
+      "pilar": "Dado/número de impacto — economia, geração distribuída, tarifa CELESC-D",
+      "tema": "Ritmo de crescimento da geração distribuída em Santa Catarina e o que isso significa para empresas do Grupo A/CELESC-D",
+      "angulo": "Diferente dos dados de 14/07 (economia mensal % e R$ na fatura), 21/07 (payback de usinas PPA para investidores), 28/07 (efeito composto do reajuste tarifário em 10 anos), 04/08 (payback + vida útil = anos de energia quase grátis) e 11/08 (peso da demanda contratada + BESS peak shaving), aqui o foco sai da economia individual na fatura e vai para o crescimento do mercado de GD no estado, reforçando que mais volume de conexões tende a destravar prazos de homologação para projetos bem instruídos, mas que o retorno real segue dependendo do estudo de viabilidade específico do cliente, com CTA de visitar o site para reiniciar o ciclo de CTAs do pilar (comentar, diagnóstico, whatsapp, salvar já usados desde 14/07)",
+      "dados_usados": [
+        "crescimento estimado de 20% a 35% ao ano na potência instalada de geração distribuída em Santa Catarina nos últimos anos (estimativa ilustrativa, com base em tendência pública do setor de GD, sem caráter de dado oficial certificado)"
+      ]
     }
   ]
 }
