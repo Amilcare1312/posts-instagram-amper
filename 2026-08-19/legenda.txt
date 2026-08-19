@@ -1,0 +1,15 @@
+Antes de falar em painel solar, tem uma pergunta que toda proposta séria precisa fazer primeiro: o quadro elétrico aguenta? 💡
+
+Em um centro de distribuição genérico na Grande Florianópolis, o diagnóstico técnico da Amper identificou um problema antes mesmo de fechar o dimensionamento do sistema FV: o quadro de entrada e o aterramento da instalação estavam desatualizados frente aos padrões de segurança e às exigências de paralelismo da CELESC-D.
+
+Corrigir isso não era opcional — era pré-requisito para qualquer geração própria entrar em operação com segurança e ser aprovada na homologação.
+
+O projeto seguiu em duas frentes: adequação elétrica primeiro, dimensionamento do sistema FV depois, com o custo extra já embutido no estudo de viabilidade desde o início.
+
+Resultado estimado*: mesmo com o investimento adicional em adequação, o payback ficou entre 5 e 8 anos — prova de que resolver o básico de segurança elétrica não inviabiliza o retorno, só exige transparência desde o diagnóstico.
+
+*Estimativa ilustrativa; o cenário real depende do estudo de viabilidade específico de cada operação.
+
+Sua empresa já passou por uma surpresa técnica assim? Chama a gente no WhatsApp e vamos conversar sobre o diagnóstico da sua instalação. 📲
+
+#energiasolar #geracaodistribuida #fotovoltaica #santacatarina #grupoa #celescd #engenhariaeletrica #mediatensao #segurancaeletrica #diagnosticotecnico #casosolar #ampenergia

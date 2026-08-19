@@ -387,6 +387,17 @@
       "dados_usados": [
         "crescimento estimado de 20% a 35% ao ano na potência instalada de geração distribuída em Santa Catarina nos últimos anos (estimativa ilustrativa, com base em tendência pública do setor de GD, sem caráter de dado oficial certificado)"
       ]
+    },
+    {
+      "data": "2026-08-19",
+      "dia_semana": "quarta",
+      "pilar": "Caso de sucesso / prova social",
+      "tema": "Centro de distribuição genérico na Grande Florianópolis onde o diagnóstico técnico revelou quadro de entrada e aterramento desatualizados, exigindo adequação elétrica antes da instalação do sistema FV",
+      "angulo": "Diferente dos casos de 07/22 (têxtil, redimensionamento pela curva de carga), 07/29 (cerâmica, fator de potência), 08/05 (laticínios, consumo 24h em câmaras frias) e 08/12 (transportadora, integração FV+EVSE), aqui o foco é uma infraestrutura elétrica legada (quadro de entrada e aterramento) descoberta no diagnóstico antes de qualquer dimensionamento de FV, reforçando que segurança elétrica é pré-requisito e não opcional para a homologação junto à CELESC-D, com CTA de WhatsApp para variar dos CTAs recentes do pilar (salvar, site, comentar, diagnóstico)",
+      "dados_usados": [
+        "cerca de 20% a 30% dos diagnósticos técnicos em instalações mais antigas revelam necessidade de adequação do quadro de entrada e/ou aterramento antes da instalação do FV (estimativa ilustrativa)",
+        "payback estimado de 5 a 8 anos para o projeto FV mesmo considerando o custo adicional de adequação elétrica (estimativa ilustrativa)"
+      ]
     }
   ]
 }
