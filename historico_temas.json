@@ -398,6 +398,16 @@
         "cerca de 20% a 30% dos diagnósticos técnicos em instalações mais antigas revelam necessidade de adequação do quadro de entrada e/ou aterramento antes da instalação do FV (estimativa ilustrativa)",
         "payback estimado de 5 a 8 anos para o projeto FV mesmo considerando o custo adicional de adequação elétrica (estimativa ilustrativa)"
       ]
+    },
+    {
+      "data": "2026-08-20",
+      "dia_semana": "quinta",
+      "pilar": "Dica prática — economia, dimensionamento, cuidados com o sistema",
+      "tema": "Qualidade de energia (distorção harmônica/THD) gerada por cargas industriais não lineares e seu impacto na aprovação de paralelismo do sistema FV em Grupo A/CELESC-D",
+      "angulo": "Diferente das dicas de 16/07 (monitoramento/limpeza), 23/07 (proteção contra surtos — DPS/SPDA), 30/07 (dimensionamento do cabeamento CC/CA), 06/08 (fator DC/AC e clipping) e 13/08 (dimensionamento de string por temperatura), aqui o foco é mostrar que cargas não lineares comuns em indústria — motores com inversor de frequência (VFD), retificadores, solda a arco — geram distorção harmônica que precisa ficar dentro de limites técnicos exigidos pela distribuidora, e que pular a medição de qualidade de energia antes do projeto FV aumenta o risco de desarme falso de proteção e perda de vida útil do inversor, com CTA de WhatsApp para variar dos CTAs recentes do pilar (comentar, diagnóstico, salvar)",
+      "dados_usados": [
+        "cargas não lineares mal diagnosticadas podem elevar entre 15% e 30% o risco de desarme falso de proteção ou perda de vida útil do inversor (estimativa ilustrativa)"
+      ]
     }
   ]
 }

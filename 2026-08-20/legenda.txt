@@ -1,0 +1,15 @@
+Sua indústria tem motor com inversor de frequência, retificador ou solda a arco? Isso pode estar sabotando seu projeto solar antes mesmo de ele sair do papel. ⚡
+
+Esse tipo de carga não linear gera distorção harmônica na instalação — e a distribuidora exige que essa "sujeira elétrica" fique dentro de limites técnicos regulatados para aprovar o paralelismo do sistema FV.
+
+Quando o dimensionamento não passa por uma medição de qualidade de energia antes do projeto, o risco não é só reprovação na homologação: é desarme falso de proteção, aquecimento extra e redução da vida útil do inversor ao longo dos anos.
+
+Por isso, antes de definir potência de inversor e ajuste de proteção, a engenharia mede o nível de harmônicos existente na instalação — não só a curva de carga.
+
+Resultado estimado*: cargas não lineares mal diagnosticadas podem elevar entre 15% e 30% o risco de desarme falso de proteção ou perda de vida útil do inversor.
+
+*Estimativa ilustrativa; o cenário real depende da medição de qualidade de energia específica de cada instalação.
+
+Sua operação tem esse tipo de carga? Chama a gente no WhatsApp e vamos avaliar isso antes de qualquer proposta. 📲
+
+#energiasolar #geracaodistribuida #fotovoltaica #santacatarina #qualidadedeenergia #distorcaoharmonica #engenhariaeletrica #grupoa #celescd #eficienciaenergetica #industria #ampenergia
