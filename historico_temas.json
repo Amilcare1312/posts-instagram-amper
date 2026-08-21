@@ -408,6 +408,16 @@
       "dados_usados": [
         "cargas não lineares mal diagnosticadas podem elevar entre 15% e 30% o risco de desarme falso de proteção ou perda de vida útil do inversor (estimativa ilustrativa)"
       ]
+    },
+    {
+      "data": "2026-08-21",
+      "dia_semana": "sexta-feira",
+      "pilar": "Bastidores / equipe / processo de engenharia",
+      "tema": "Processo de homologação junto à CELESC-D após o comissionamento — parecer de acesso, vistoria técnica e troca do medidor bidirecional antes da liberação do paralelismo",
+      "angulo": "Diferente dos bastidores de 17/07 (etapas gerais do processo, da fatura à homologação), 24/07 (perfis técnicos e papéis do time), 31/07 (bateria de testes de comissionamento), 07/08 (visita técnica de campo) e 14/08 (estudo de proteção e seletividade), aqui o foco é a etapa burocrático-técnica final entre o comissionamento aprovado e a liberação real do paralelismo pela CELESC-D — parecer de acesso, vistoria da distribuidora e troca do medidor bidirecional — reforçando que esse prazo faz parte do planejamento de engenharia do projeto, com CTA de salvar para variar dos CTAs recentes do pilar (diagnóstico, whatsapp, site, comentar)",
+      "dados_numericos": {
+        "prazo_tipico_homologacao_dias": "30-60 (estimativa ilustrativa)"
+      }
     }
   ]
 }
