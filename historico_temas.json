@@ -434,6 +434,16 @@
       "tema": "Acompanhamento pós-instalação da Amper Energia — monitoramento de geração e engenheiro responsável disponível durante toda a vida útil do sistema",
       "angulo": "Diferente dos institucionais de 12/07 (engenharia vs. \"vendedor de painéis\"), 19/07 (exclusividade Grupo A/CELESC-D), 26/07 (uma única equipe integrando FV+BESS+EVSE), 02/08 (ART como garantia formal), 09/08 (especialização regional em SC) e 16/08 (o que entra no diagnóstico técnico gratuito), hoje o foco é o pós-instalação: a Amper continua responsável pelo resultado depois que o sistema liga, com monitoramento de performance e suporte técnico de engenheiro, não apenas entrega e garantia de fábrica. CTA de visitar o site, reiniciando o ciclo de CTAs do pilar (diagnóstico, site, whatsapp, comentar, salvar).",
       "dados_usados": []
+    },
+    {
+      "data": "2026-08-24",
+      "dia_semana": "segunda",
+      "pilar": "Educativo — mito vs. verdade",
+      "tema": "Mito de que o excedente de energia solar gerado é vendido para a distribuidora e retorna como dinheiro depositado na conta do cliente",
+      "angulo": "Diferente dos mitos de 13/07 (tarifa binômia inviabilizando retorno), 20/07 (superdimensionamento pelo espaço disponível), 27/07 (clima nublado em SC), 03/08 (fatura não zera — demanda contratada e Fio B), 10/08 (compensação de créditos x tempo real) e 17/08 (dimensionamento não é pra sempre), o foco de hoje é explicar que na geração distribuída o excedente vira crédito em kWh compensado na fatura — não uma venda/transação financeira —, com validade de até 60 meses e possibilidade de uso em outras unidades da mesma titularidade (autoconsumo remoto), reservando a venda real de energia a modelos específicos como usinas de investimento em PPA, com CTA de comentar para variar dos CTAs recentes do pilar (whatsapp, site, salvar, diagnóstico)",
+      "dados_usados": [
+        "validade dos créditos de energia de até 60 meses para compensação (estimativa ilustrativa, regra pode variar conforme modalidade e legislação vigente)"
+      ]
     }
   ]
 }
