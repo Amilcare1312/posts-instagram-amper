@@ -444,6 +444,16 @@
       "dados_usados": [
         "validade dos créditos de energia de até 60 meses para compensação (estimativa ilustrativa, regra pode variar conforme modalidade e legislação vigente)"
       ]
+    },
+    {
+      "data": "2026-08-25",
+      "dia_semana": "terca",
+      "pilar": "Dado/número de impacto — economia, geração distribuída, tarifa CELESC-D",
+      "tema": "Prazo médio entre o protocolo do projeto fotovoltaico e a liberação do paralelismo pela CELESC-D (parecer de acesso, vistoria técnica e troca do medidor bidirecional)",
+      "angulo": "Diferente dos dados de 14/07 (economia mensal % e R$ na fatura), 21/07 (payback de usinas PPA para investidores), 28/07 (efeito composto do reajuste tarifário em 10 anos), 04/08 (payback + vida útil = anos de energia quase grátis), 11/08 (peso da demanda contratada + BESS peak shaving) e 18/08 (ritmo de crescimento da GD em SC), aqui o foco sai do dado financeiro (economia/payback/tarifa) e vai para um dado de prazo — o tempo entre o protocolo do projeto e a liberação do paralelismo —, reforçando que o planejamento de fluxo de caixa precisa considerar o tempo até o sistema entrar em operação, não só o payback financeiro, com CTA de comentar para reiniciar o ciclo de CTAs do pilar (diagnóstico, whatsapp, salvar, site já usados desde 21/07)",
+      "dados_usados": [
+        "prazo de 2 a 4 meses entre o protocolo do projeto e a liberação do paralelismo pela CELESC-D para projetos de médio porte no Grupo A (estimativa ilustrativa, sem caráter de dado oficial certificado, prazo real depende do estudo específico e do trâmite junto à distribuidora)"
+      ]
     }
   ]
 }
