@@ -1,0 +1,13 @@
+Serragem no ar e quadro elétrico comum: essa combinação já reduziu a vida útil de inversor solar antes mesmo do payback começar a contar. 🪵
+
+Em uma indústria moveleira genérica do Meio-Oeste catarinense, o diagnóstico técnico da Amper identificou algo que uma simulação padrão de painel solar não enxerga: o ambiente com alta concentração de pó de serragem exigia grau de proteção elétrica (IP) bem acima do quadro comum de instalação interna.
+
+A solução de engenharia trocou o padrão genérico por quadros e local de instalação do inversor com IP compatível com atmosfera empoeirada, além de ajuste na ventilação para evitar superaquecimento por obstrução de filtros.
+
+Resultado estimado*: mesmo com o custo extra da proteção elevada, o payback do sistema de autoconsumo ficou entre 4 e 7 anos — a faixa típica de projetos em Grupo A/CELESC-D, mostrando que o ambiente da operação não inviabiliza o retorno, só exige o projeto certo desde o diagnóstico.
+
+*Estimativa ilustrativa; o cenário real depende do estudo de viabilidade específico de cada operação.
+
+Sua indústria tem poeira, umidade ou vapores que podem pesar no projeto elétrico? Salva esse post e usa como lembrete na hora de pedir o diagnóstico. 📌
+
+#energiasolar #geracaodistribuida #fotovoltaica #santacatarina #grupoa #celescd #industriamoveleira #engenhariaeletrica #protecaoeletrica #diagnosticotecnico #casosolar #ampenergia

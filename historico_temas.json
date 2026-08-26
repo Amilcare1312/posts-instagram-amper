@@ -454,6 +454,17 @@
       "dados_usados": [
         "prazo de 2 a 4 meses entre o protocolo do projeto e a liberação do paralelismo pela CELESC-D para projetos de médio porte no Grupo A (estimativa ilustrativa, sem caráter de dado oficial certificado, prazo real depende do estudo específico e do trâmite junto à distribuidora)"
       ]
+    },
+    {
+      "data": "2026-08-26",
+      "dia_semana": "quarta",
+      "pilar": "Caso de sucesso / prova social",
+      "tema": "Indústria moveleira genérica no Meio-Oeste catarinense onde o diagnóstico técnico identificou que o ambiente com pó de serragem exigia grau de proteção elétrica (IP) mais elevado nos quadros e no local de instalação do inversor",
+      "angulo": "Diferente dos casos de 15/07 (metalúrgica + BESS para custo total de energia), 22/07 (têxtil, redimensionamento pela curva de carga), 29/07 (cerâmica, fator de potência), 05/08 (laticínios, consumo 24h em câmaras frias), 12/08 (transportadora, integração FV+EVSE) e 19/08 (centro de distribuição, quadro de entrada/aterramento desatualizado), aqui o foco é uma condição ambiental da operação — poeira de serragem — exigindo grau de proteção elétrica (IP) elevado nos quadros e no local do inversor, reforçando que o diagnóstico técnico avalia o ambiente físico de instalação e não só a fatura, com CTA de salvar para reiniciar o ciclo de CTAs do pilar (site, comentar, diagnóstico, whatsapp já usados desde 22/07)",
+      "dados_usados": [
+        "upgrade de grau de proteção elétrica de referência IP20 (quadro padrão) para IP54 (ambiente com pó de serragem) — estimativa ilustrativa de referência técnica, o grau real depende do laudo de classificação de área e do projeto específico",
+        "payback do sistema de autoconsumo, mesmo com o custo extra de proteção elevada, na faixa de 4 a 7 anos — estimativa ilustrativa típica de projetos em Grupo A/CELESC-D, sem caráter de dado oficial certificado"
+      ]
     }
   ]
 }
