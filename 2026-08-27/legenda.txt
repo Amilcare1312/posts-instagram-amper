@@ -1,0 +1,15 @@
+Seu telhado não aponta pro norte nem tem a inclinação "de manual"? Isso pode custar até 20% da geração solar que você imaginava ter. ☀️
+
+Na teoria, o painel ideal fica voltado para o norte geográfico com inclinação próxima da latitude local. Na prática, a maioria dos telhados industriais e comerciais em SC não nasceu pensando em energia solar: águas viradas para leste/oeste, inclinações baixas ou telhado misto.
+
+Isso não inviabiliza o projeto — mas exige engenharia de verdade. Antes de definir o layout, simulamos a perda esperada por desvio de azimute e inclinação e comparamos com o custo de corrigir isso com estrutura metálica de suporte.
+
+Às vezes vale reforçar a estrutura para ganhar geração. Às vezes é mais barato aceitar a perda estimada e dimensionar um pouco mais de potência para compensar. A decisão certa depende de conta, não de achismo.
+
+Resultado estimado*: desvio de orientação/inclinação fora do ideal pode reduzir entre 5% e 20% da geração anual, variando com a severidade do desvio.
+
+*Estimativa ilustrativa; o impacto real depende do estudo técnico específico do telhado e da localização.
+
+Quer saber se o seu telhado pede correção de estrutura ou não? Visita ampenergia.com.br e fala com a engenharia antes de fechar o projeto. 🔧
+
+#energiasolar #geracaodistribuida #fotovoltaica #santacatarina #grupoa #celescd #orientacaosolar #inclinacaosolar #engenhariasolar #telhadoindustrial #dicasolar #ampenergia

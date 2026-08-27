@@ -465,6 +465,16 @@
         "upgrade de grau de proteção elétrica de referência IP20 (quadro padrão) para IP54 (ambiente com pó de serragem) — estimativa ilustrativa de referência técnica, o grau real depende do laudo de classificação de área e do projeto específico",
         "payback do sistema de autoconsumo, mesmo com o custo extra de proteção elevada, na faixa de 4 a 7 anos — estimativa ilustrativa típica de projetos em Grupo A/CELESC-D, sem caráter de dado oficial certificado"
       ]
+    },
+    {
+      "data": "2026-08-27",
+      "dia_semana": "quinta",
+      "pilar": "Dica prática — economia, dimensionamento, cuidados com o sistema",
+      "tema": "Orientação (azimute) e inclinação (tilt) dos módulos fotovoltaicos em telhados industriais fora do padrão ideal em SC",
+      "angulo": "Diferente das dicas de 16/07 (monitoramento/limpeza), 23/07 (proteção contra surtos — DPS/SPDA), 30/07 (dimensionamento do cabeamento CC/CA), 06/08 (fator DC/AC e clipping), 13/08 (dimensionamento de string por temperatura) e 20/08 (qualidade de energia/THD), aqui o foco é mostrar que telhados industriais e comerciais em SC raramente têm orientação norte perfeita ou inclinação igual à latitude local, e que a engenharia calcula a perda esperada por desvio de azimute/inclinação antes de decidir se vale corrigir com estrutura metálica ou compensar com mais potência instalada, com CTA de visitar o site para reiniciar o ciclo de CTAs do pilar (whatsapp, diagnóstico, comentar, salvar já usados desde 16/07)",
+      "dados_usados": [
+        "desvio de orientação (azimute) ou inclinação fora do ideal pode reduzir entre 5% e 20% da geração anual esperada, variando com a severidade do desvio (estimativa ilustrativa)"
+      ]
     }
   ]
 }
