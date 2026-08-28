@@ -475,6 +475,16 @@
       "dados_usados": [
         "desvio de orientação (azimute) ou inclinação fora do ideal pode reduzir entre 5% e 20% da geração anual esperada, variando com a severidade do desvio (estimativa ilustrativa)"
       ]
+    },
+    {
+      "data": "2026-08-28",
+      "dia_semana": "sexta",
+      "pilar": "Bastidores / equipe / processo de engenharia",
+      "tema": "Cálculo estrutural das estruturas de fixação (trilhos, ganchos, parafusos) de sistemas FV considerando carga de vento conforme NBR 6123 em Santa Catarina",
+      "angulo": "Contraste entre kit de fixação padrão de catálogo e projeto estrutural com memorial de cálculo assinado, considerando variação regional de carga de vento (litoral x planalto) e altura da edificação, com CTA de visitar o site",
+      "dados_usados": [
+        "carga de vento de projeto pode variar entre 20% e 30% de uma região para outra dentro de Santa Catarina (estimativa ilustrativa)"
+      ]
     }
   ]
 }
