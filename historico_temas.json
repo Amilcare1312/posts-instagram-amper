@@ -485,6 +485,16 @@
       "dados_usados": [
         "carga de vento de projeto pode variar entre 20% e 30% de uma região para outra dentro de Santa Catarina (estimativa ilustrativa)"
       ]
+    },
+    {
+      "data": "2026-08-29",
+      "dia_semana": "sabado",
+      "pilar": "Sustentabilidade / propósito",
+      "tema": "Aproveitamento de telhados industriais já existentes para geração solar, evitando ocupação de solo agricultável ou áreas verdes com usinas de chão",
+      "angulo": "Reposicionar sustentabilidade como uso eficiente do espaço já construído (telhados de galpões em SC) em vez de converter novas áreas em usinas solares de solo, preservando biodiversidade e uso agrícola do terreno, com CTA de agendar diagnóstico gratuito",
+      "dados_usados": [
+        "telhado industrial de 5 mil a 15 mil m² pode acomodar entre 500 kWp e 1,5 MWp de painéis, dependendo da estrutura (estimativa ilustrativa)"
+      ]
     }
   ]
 }
