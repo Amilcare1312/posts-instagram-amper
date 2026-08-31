@@ -506,6 +506,16 @@
         "Garantia de performance de módulos Tier 1: 25 a 30 anos (estimativa ilustrativa, varia por fabricante)",
         "Garantia de inversores Tier 1: 10 a 12 anos, acima da média de equipamentos genéricos (estimativa ilustrativa)"
       ]
+    },
+    {
+      "data": "2026-08-31",
+      "dia_semana": "segunda",
+      "pilar": "Educativo — mito vs. verdade",
+      "tema": "Mito de que o sistema de energia solar mantém a empresa funcionando normalmente durante uma queda de energia (blecaute) da rede da CELESC-D",
+      "angulo": "Diferente dos mitos de 13/07 (tarifa binômia), 20/07 (superdimensionamento pelo espaço disponível), 27/07 (clima nublado em SC), 03/08 (fatura não zera), 10/08 (compensação de créditos x tempo real), 17/08 (dimensionamento não é pra sempre) e 24/08 (excedente vira dinheiro), o foco de hoje é explicar a proteção anti-ilhamento: sistemas on-grid comuns (sem banco de baterias) desligam automaticamente durante um blecaute por segurança das equipes de manutenção da distribuidora, e que manter cargas essenciais funcionando exige projeto específico com BESS e comutação automática, com CTA de WhatsApp para variar dos CTAs recentes do pilar (comentar, diagnóstico, site, salvar).",
+      "dados_usados": [
+        "autonomia estimada de backup com BESS entre 2 e 8 horas, dependendo da carga essencial mantida (estimativa ilustrativa, sem caráter de dado oficial certificado)"
+      ]
     }
   ]
 }

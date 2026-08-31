@@ -1,0 +1,13 @@
+Se a rede da CELESC cair, sua empresa com energia solar continua funcionando normalmente? ⚡
+
+🔍 Mito: painel solar instalado = energia garantida mesmo em blecaute, porque "a usina está bem ali no telhado".
+
+✅ Verdade: sistema on-grid comum (sem banco de baterias) desliga automaticamente durante uma queda da rede. É proteção anti-ilhamento — evita que sua instalação energize a rede enquanto as equipes da distribuidora trabalham na linha, o que colocaria vidas em risco.
+
+Pra manter cargas essenciais funcionando durante uma interrupção, o projeto precisa prever um sistema com BESS (banco de baterias) e comutação automática, dimensionado para autonomia estimada de 2 a 8 horas conforme a carga a ser mantida (faixa ilustrativa, varia por projeto).
+
+Isso muda completamente o escopo e o investimento — por isso essa definição entra lá no início do projeto, não depois que o sistema já está instalado.
+
+Sua empresa já parou por falta de energia da rede? Chama no WhatsApp e a gente te explica como funciona um projeto com backup de verdade. 📲
+
+#energiasolar #geracaodistribuida #fotovoltaica #santacatarina #bess #bancodebaterias #antiilhamento #mitoouverdade #engenhariaeletrica #grupoa #celescd #ampenergia
