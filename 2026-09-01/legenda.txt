@@ -1,0 +1,13 @@
+Quantos m² de telhado sua indústria precisa pra ter 100 kWp de energia solar? 📐
+
+A conta não é "cabe o telhado inteiro". Na prática, cada 1 kWp instalado costuma exigir entre 5 e 7 m² de área útil de cobertura (estimativa ilustrativa — varia com o modelo do módulo, a inclinação do telhado e o espaçamento técnico entre fileiras para manutenção e sombreamento).
+
+Isso significa que uma indústria buscando 150 kWp — potência capaz de abater boa parte do consumo em média tensão Grupo A/CELESC-D — pode precisar de algo entre 750 e 1.050 m² de telhado realmente aproveitável, não da área total do galpão. Estruturas, equipamentos no telhado, shed e orientação ruim reduzem essa área disponível.
+
+É por isso que o levantamento técnico do telhado vem antes de fechar a potência do projeto: telhado subaproveitado deixa economia na mesa; potência definida só "no papel" gera frustração quando a obra começa.
+
+Quer saber quanta potência cabe no telhado da sua empresa? Agenda um diagnóstico técnico gratuito com a nossa engenharia (link na bio) 🔧
+
+*Estimativas ilustrativas, variam conforme modelo de módulo, geometria do telhado e projeto específico; não substituem levantamento técnico.
+
+#energiasolar #geracaodistribuida #fotovoltaica #santacatarina #dimensionamentofv #telhadoindustrial #grupoa #celescd #engenhariasolar #areadeinstalacao #mediatensao #ampenergia

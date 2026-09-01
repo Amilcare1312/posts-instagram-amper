@@ -516,6 +516,17 @@
       "dados_usados": [
         "autonomia estimada de backup com BESS entre 2 e 8 horas, dependendo da carga essencial mantida (estimativa ilustrativa, sem caráter de dado oficial certificado)"
       ]
+    },
+    {
+      "data": "2026-09-01",
+      "dia_semana": "terca",
+      "pilar": "Dado/número de impacto — economia, geração distribuída, tarifa CELESC-D",
+      "tema": "Área de telhado (m²) necessária por kWp instalado em sistemas fotovoltaicos industriais/comerciais no Grupo A/CELESC-D",
+      "angulo": "Diferente dos dados de 14/07 (economia % e R$ na fatura), 21/07 (payback de usinas PPA para investidores), 28/07 (efeito composto do reajuste tarifário em 10 anos), 04/08 (payback + vida útil = anos de energia quase grátis), 11/08 (peso da demanda contratada + BESS peak shaving), 18/08 (ritmo de crescimento da GD em SC) e 25/08 (prazo protocolo → liberação do paralelismo), hoje o foco sai de dado financeiro/temporal e vai para um dado de área física: quantos m² de telhado útil são necessários por kWp instalado, ajudando o público a avaliar antes do projeto se o telhado disponível comporta a potência desejada — reforçando que a área total do galpão não é igual à área realmente aproveitável (sombras, equipamentos, orientação e espaçamento técnico entre fileiras reduzem essa área), com CTA de diagnóstico técnico gratuito, retomando o ciclo de CTAs do pilar (comentar, diagnóstico, whatsapp, salvar, site).",
+      "dados_usados": [
+        "entre 5 e 7 m² de área útil de telhado por kWp instalado (estimativa ilustrativa, varia conforme modelo do módulo, inclinação do telhado e espaçamento técnico entre fileiras)",
+        "para 150 kWp, algo entre 750 e 1.050 m² de telhado realmente aproveitável (estimativa ilustrativa derivada do range anterior, não considera a área total do galpão)"
+      ]
     }
   ]
 }
