@@ -527,6 +527,14 @@
         "entre 5 e 7 m² de área útil de telhado por kWp instalado (estimativa ilustrativa, varia conforme modelo do módulo, inclinação do telhado e espaçamento técnico entre fileiras)",
         "para 150 kWp, algo entre 750 e 1.050 m² de telhado realmente aproveitável (estimativa ilustrativa derivada do range anterior, não considera a área total do galpão)"
       ]
+    },
+    {
+      "data": "2026-09-02",
+      "dia_semana": "quarta",
+      "pilar": "Caso de sucesso / prova social",
+      "tema": "Indústria de tintas e vernizes genérica no Vale do Itajaí onde o diagnóstico técnico identificou que a cobertura ideal para os módulos ficava sobre área classificada (zona de risco por armazenamento de solventes inflamáveis)",
+      "angulo": "Diferente dos casos de 15/07 (metalúrgica + BESS para custo total de energia), 22/07 (têxtil, redimensionamento pela curva de carga), 29/07 (cerâmica, fator de potência), 05/08 (laticínios, consumo 24h em câmaras frias), 12/08 (transportadora, integração FV+EVSE), 19/08 (centro de distribuição, quadro de entrada/aterramento desatualizado) e 26/08 (moveleira, grau de proteção IP por poeira de serragem), aqui o foco é uma restrição de segurança da planta — área classificada por armazenamento de solventes inflamáveis interferindo no layout do FV, exigindo afastamento e componentes certificados para atmosferas explosivas —, reforçando que o diagnóstico técnico avalia riscos de segurança da instalação, não só geração e telhado, com CTA de comentar/WhatsApp para variar dos CTAs recentes do pilar (whatsapp em 19/08, salvar em 26/08).",
+      "dados_usados": []
     }
   ]
 }
