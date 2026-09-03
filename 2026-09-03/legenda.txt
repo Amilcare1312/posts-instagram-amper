@@ -1,0 +1,15 @@
+Uma sombra do tamanho de uma caixa d'água pode derrubar a geração de uma fileira inteira de painéis. 🌤️
+
+Em um sistema fotovoltaico, os módulos costumam ser ligados em série (strings). Quando parte de uma célula fica sombreada — por um duto, antena, caixa d'água ou até sujeira acumulada em um canto — ela passa a se comportar como uma resistência, dissipando energia em vez de gerar.
+
+Esse fenômeno cria os chamados "pontos quentes" (hot spots): áreas do módulo que esquentam muito mais que o resto, acelerando a degradação da célula e, em casos severos, comprometendo a garantia do fabricante.
+
+Por isso, no projeto elétrico avaliamos cada obstáculo do telhado antes de definir o layout das strings, dimensionamos corretamente os diodos de bypass e, quando o sombreamento parcial é inevitável, indicamos otimizadores de potência por módulo em vez do inversor string tradicional.
+
+Resultado estimado*: sombreamento parcial mal gerenciado pode reduzir entre 10% e 30% da geração da string afetada, variando com a posição e o tamanho da sombra.
+
+*Estimativa ilustrativa; o impacto real depende do layout específico do telhado e do horário de incidência da sombra.
+
+Guarda esse post 📌 e dá uma olhada no seu telhado: tem antena, caixa d'água ou duto projetando sombra sobre os painéis em algum horário do dia?
+
+#energiasolar #geracaodistribuida #fotovoltaica #santacatarina #grupoa #celescd #sombreamento #hotspot #manutencaosolar #engenhariasolar #dicasolar #ampenergia

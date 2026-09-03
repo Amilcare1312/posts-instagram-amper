@@ -535,6 +535,16 @@
       "tema": "Indústria de tintas e vernizes genérica no Vale do Itajaí onde o diagnóstico técnico identificou que a cobertura ideal para os módulos ficava sobre área classificada (zona de risco por armazenamento de solventes inflamáveis)",
       "angulo": "Diferente dos casos de 15/07 (metalúrgica + BESS para custo total de energia), 22/07 (têxtil, redimensionamento pela curva de carga), 29/07 (cerâmica, fator de potência), 05/08 (laticínios, consumo 24h em câmaras frias), 12/08 (transportadora, integração FV+EVSE), 19/08 (centro de distribuição, quadro de entrada/aterramento desatualizado) e 26/08 (moveleira, grau de proteção IP por poeira de serragem), aqui o foco é uma restrição de segurança da planta — área classificada por armazenamento de solventes inflamáveis interferindo no layout do FV, exigindo afastamento e componentes certificados para atmosferas explosivas —, reforçando que o diagnóstico técnico avalia riscos de segurança da instalação, não só geração e telhado, com CTA de comentar/WhatsApp para variar dos CTAs recentes do pilar (whatsapp em 19/08, salvar em 26/08).",
       "dados_usados": []
+    },
+    {
+      "data": "2026-09-03",
+      "dia_semana": "quinta",
+      "pilar": "Dica prática — economia, dimensionamento, cuidados com o sistema",
+      "tema": "Sombreamento parcial em módulos fotovoltaicos e o fenômeno de pontos quentes (hot spots), com cuidados de projeto no layout das strings, diodos de bypass e otimizadores de potência",
+      "angulo": "Diferente das dicas de 16/07 (monitoramento/limpeza), 23/07 (proteção contra surtos — DPS/SPDA), 30/07 (dimensionamento do cabeamento CC/CA), 06/08 (fator DC/AC e clipping), 13/08 (dimensionamento de string por temperatura), 20/08 (qualidade de energia/THD) e 27/08 (orientação/inclinação dos módulos), aqui o foco é sombreamento parcial (por dutos, antenas, caixas d'água ou sujeira) e o fenômeno de pontos quentes (hot spots) em células sombreadas, mostrando que a engenharia trata isso no layout das strings, no dimensionamento dos diodos de bypass e na escolha entre inversor string e otimizadores de potência por módulo, com CTA de salvar para variar dos CTAs recentes do pilar (site em 27/08; whatsapp, diagnóstico e comentar usados no ciclo anterior desde 16/07)",
+      "dados_usados": [
+        "sombreamento parcial mal gerenciado pode reduzir entre 10% e 30% da geração da string afetada, variando com a posição e o tamanho da sombra sobre o módulo (estimativa ilustrativa)"
+      ]
     }
   ]
 }
