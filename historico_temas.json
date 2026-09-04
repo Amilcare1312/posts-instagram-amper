@@ -545,6 +545,16 @@
       "dados_usados": [
         "sombreamento parcial mal gerenciado pode reduzir entre 10% e 30% da geração da string afetada, variando com a posição e o tamanho da sombra sobre o módulo (estimativa ilustrativa)"
       ]
+    },
+    {
+      "data": "2026-09-04",
+      "dia_semana": "sexta",
+      "pilar": "Bastidores / equipe / processo de engenharia",
+      "tema": "Segurança do trabalho da equipe de campo (NR-35 trabalho em altura, NR-10, Permissão de Trabalho) antes de qualquer instalação em telhado industrial",
+      "angulo": "Diferente dos bastidores de 17/07 (etapas gerais do processo), 24/07 (perfis técnicos do time), 31/07 (testes de comissionamento), 07/08 (visita técnica de campo), 14/08 (estudo de proteção/relé), 21/08 (homologação CELESC-D) e 28/08 (cálculo estrutural NBR 6123), aqui o foco sai do cálculo técnico do projeto em si e vai para a segurança da própria equipe em campo — capacitação NR-35/NR-10 e Permissão de Trabalho (PT) específica assinada antes de subir no telhado —, reforçando que segurança do time é planejada dentro do cronograma de engenharia, não um detalhe operacional deixado para a obra, com CTA de WhatsApp para variar dos CTAs recentes do pilar (comentar em 14/08, salvar em 21/08, site em 28/08)",
+      "dados_usados": [
+        "quedas de altura respondem por uma fatia relevante dos acidentes fatais na construção civil brasileira, estimada entre 20% e 35% (estimativa ilustrativa, referência geral do setor, não específica de projetos FV)"
+      ]
     }
   ]
 }
