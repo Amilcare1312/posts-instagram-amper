@@ -555,6 +555,16 @@
       "dados_usados": [
         "quedas de altura respondem por uma fatia relevante dos acidentes fatais na construção civil brasileira, estimada entre 20% e 35% (estimativa ilustrativa, referência geral do setor, não específica de projetos FV)"
       ]
+    },
+    {
+      "data": "2026-09-05",
+      "dia_semana": "sabado",
+      "pilar": "Sustentabilidade / propósito",
+      "tema": "Geração de empregos técnicos qualificados em Santa Catarina por MW solar instalado",
+      "angulo": "Deslocar o foco do pilar ambiental (CO2, água, EPBT, uso do solo) para o pilar social da sustentabilidade, mostrando que cada projeto FV sustenta engenheiros, técnicos de instalação e equipe de O&M dentro do próprio estado, fortalecendo a cadeia técnica local, com CTA de visitar o site",
+      "dados_usados": [
+        "cada MW instalado sustenta entre 8 e 15 empregos diretos e indiretos ao longo da implantação e operação (estimativa ilustrativa, setor fotovoltaico)"
+      ]
     }
   ]
 }
