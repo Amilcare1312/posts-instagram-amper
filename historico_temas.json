@@ -565,6 +565,14 @@
       "dados_usados": [
         "cada MW instalado sustenta entre 8 e 15 empregos diretos e indiretos ao longo da implantação e operação (estimativa ilustrativa, setor fotovoltaico)"
       ]
+    },
+    {
+      "data": "2026-09-06",
+      "dia_semana": "domingo",
+      "pilar": "Institucional / CTA comercial",
+      "tema": "Atendimento chave-na-mão da Amper Energia — um único time de engenharia responsável por todo o processo, do diagnóstico à homologação técnica junto à CELESC-D até o comissionamento final",
+      "angulo": "Diferente dos institucionais de 12/07 (engenharia vs. \"vendedor de painéis\"), 19/07 (exclusividade Grupo A/CELESC-D), 26/07 (uma única equipe integrando FV+BESS+EVSE), 02/08 (ART como garantia formal), 09/08 (especialização regional em SC), 16/08 (o que entra no diagnóstico técnico gratuito), 23/08 (acompanhamento pós-instalação) e 30/08 (equipamentos Tier 1), hoje o foco é o processo de ponta a ponta gerenciado por um único responsável técnico — do diagnóstico ao protocolo/homologação na CELESC-D até o comissionamento —, reforçando que o cliente não precisa lidar com múltiplos fornecedores nem correr atrás sozinho da burocracia com a distribuidora, com CTA de comentar, retomando o ciclo de CTAs do pilar (diagnóstico, site, whatsapp, comentar, salvar).",
+      "dados_usados": []
     }
   ]
 }
