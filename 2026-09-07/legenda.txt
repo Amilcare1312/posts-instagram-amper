@@ -1,0 +1,15 @@
+Depois de alguns anos de uso, o painel solar já perde a maior parte da eficiência? ☀️
+
+🔍 Mito: placa solar "desgasta" rápido — em poucos anos a geração despenca e o sistema vira um investimento parado no telhado.
+
+✅ Verdade: a degradação de módulos Tier 1 é lenta e praticamente linear, entre 0,4% e 0,6% ao ano (estimativa ilustrativa, varia por fabricante), mantendo entre 82% e 88% da capacidade original de geração depois de 25 anos de operação.
+
+Esse comportamento não é surpresa nem "letra miúda": está na garantia de performance do fabricante, documento técnico que acompanha o projeto e serve de referência para calcular a geração ao longo de décadas.
+
+No dimensionamento, essa curva já entra na conta — o payback e o retorno estimado consideram que o sistema gera um pouco menos a cada ano, não a potência máxima do primeiro dia para sempre.
+
+Ou seja: o painel não "envelhece mal". Ele perde eficiência de forma previsível, lenta e já prevista dentro do projeto de engenharia.
+
+Salva esse post pra consultar quando alguém tentar te vender (ou te desanimar) com esse mito. 📌
+
+#energiasolar #geracaodistribuida #fotovoltaica #santacatarina #mitoouverdade #degradacaosolar #garantiadeperformance #engenhariaeletrica #grupoa #celescd #ampenergia
