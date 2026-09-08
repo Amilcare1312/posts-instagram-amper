@@ -584,6 +584,16 @@
         "degradação anual de módulos Tier 1 entre 0,4% e 0,6% ao ano (estimativa ilustrativa, varia por fabricante)",
         "mantendo entre 82% e 88% da capacidade original de geração após 25 anos de operação (estimativa ilustrativa)"
       ]
+    },
+    {
+      "data": "2026-09-08",
+      "dia_semana": "terca",
+      "pilar": "Dado/número de impacto — economia, geração distribuída, tarifa CELESC-D",
+      "tema": "Cronograma regressivo de compensação do Fio B (REN ANEEL 1000/2021) e seu impacto no retorno de projetos FV no Grupo A/CELESC-D",
+      "angulo": "Diferente dos dados de 14/07 (economia % e R$ na fatura), 21/07 (payback de usinas PPA), 28/07 (efeito composto do reajuste tarifário em 10 anos), 04/08 (payback + vida útil), 11/08 (peso da demanda contratada + BESS), 18/08 (ritmo de crescimento da GD em SC), 25/08 (prazo protocolo → paralelismo) e 01/09 (m² de telhado por kWp), hoje o foco é o percentual crescente do Fio B cobrado sobre a energia solar injetada e compensada, mostrando que em 2026 essa cobrança já chega a ~60% e sobe até quase 100% em 2029, reforçando a importância do autoconsumo instantâneo e do dimensionamento técnico (incluindo BESS) para preservar o retorno do projeto, com CTA de WhatsApp para dar sequência ao ciclo de CTAs do pilar (site, comentar, diagnóstico, whatsapp, salvar, site, comentar, diagnóstico já usados desde 14/07).",
+      "dados_usados": [
+        "cronograma da REN ANEEL nº 1000/2021 de cobrança progressiva do Fio B sobre energia injetada: 15% (2023), 30% (2024), 45% (2025), 60% (2026), 75% (2027), 90% (2028), 100% (2029)"
+      ]
     }
   ]
 }
