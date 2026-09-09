@@ -1,0 +1,13 @@
+O couro que sai do curtume é resistente. A estrutura metálica exposta aos vapores do processo, nem tanto. ⚙️
+
+Num curtume genérico do Alto Vale do Itajaí, o diagnóstico técnico da Amper identificou um ponto que passa longe da simulação padrão de painel solar: os vapores químicos do processo de curtimento (sulfetos e compostos à base de cromo) criam uma atmosfera quimicamente agressiva, capaz de acelerar a corrosão de estruturas metálicas comuns em poucos anos.
+
+A engenharia especificou estrutura de fixação e quadros elétricos com tratamento anticorrosivo reforçado (galvanização a fogo e vedação IP elevada), além de reposicionar parte dos cabos para longe do fluxo direto dos gases da produção.
+
+Resultado estimado: mesmo com o custo adicional do tratamento anticorrosivo, o payback do sistema de autoconsumo ficou entre 5 e 7 anos* — dentro da faixa típica de projetos em média tensão Grupo A/CELESC-D, mostrando que o ambiente químico da planta não inviabiliza o retorno, só muda a especificação do projeto.
+
+*Estimativa ilustrativa; o cenário real depende do estudo de viabilidade técnico específico de cada operação.
+
+Sua indústria lida com vapores químicos, sal ou maresia perto da área do telhado? Visita nosso site e conhece o diagnóstico técnico gratuito da Amper 💻☀️
+
+#energiasolar #geracaodistribuida #fotovoltaica #santacatarina #grupoa #celescd #engenhariaeletrica #atmosferacorrosiva #protecaoeletrica #diagnosticotecnico #casosolar #ampenergia

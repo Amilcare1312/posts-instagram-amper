@@ -594,6 +594,16 @@
       "dados_usados": [
         "cronograma da REN ANEEL nº 1000/2021 de cobrança progressiva do Fio B sobre energia injetada: 15% (2023), 30% (2024), 45% (2025), 60% (2026), 75% (2027), 90% (2028), 100% (2029)"
       ]
+    },
+    {
+      "data": "2026-09-09",
+      "dia_semana": "quarta",
+      "pilar": "Caso de sucesso / prova social",
+      "tema": "Curtume genérico no Alto Vale do Itajaí onde o diagnóstico técnico identificou atmosfera quimicamente agressiva (vapores de sulfetos e compostos de cromo do curtimento) exigindo tratamento anticorrosivo reforçado na estrutura de fixação e nos quadros elétricos",
+      "angulo": "Diferente dos casos de 15/07 (metalúrgica + BESS), 22/07 (têxtil, curva de carga), 29/07 (cerâmica, fator de potência), 05/08 (laticínios, câmaras frias 24h), 12/08 (transportadora, integração FV+EVSE), 19/08 (centro de distribuição, quadro/aterramento desatualizado), 26/08 (moveleira, grau de proteção IP por poeira de serragem) e 02/09 (tintas/vernizes, área classificada por atmosfera explosiva), aqui o foco é uma atmosfera quimicamente corrosiva (vapores de curtimento) exigindo tratamento anticorrosivo reforçado na estrutura metálica e nos quadros elétricos — distinto de poeira (IP) e de área classificada (risco de explosão) já retratados — reforçando que o diagnóstico técnico avalia o ambiente químico da operação antes do projeto, com CTA de visitar o site para reiniciar o ciclo de CTAs do pilar (whatsapp em 19/08, salvar em 26/08, comentar/whatsapp em 02/09).",
+      "dados_usados": [
+        "payback estimado do sistema de autoconsumo em média tensão Grupo A/CELESC-D com tratamento anticorrosivo reforçado: 5 a 7 anos (estimativa ilustrativa)"
+      ]
     }
   ]
 }
