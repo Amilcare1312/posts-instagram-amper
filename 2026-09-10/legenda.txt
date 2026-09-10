@@ -1,0 +1,13 @@
+Seu sistema solar está "gerando normal" hoje — mas alguém já olhou ele com uma câmera térmica? 🌡️
+
+Falha elétrica silenciosa é assim: sem alarme, sem queda visível na geração, até o dia em que evolui. Conectores MC4, barramentos do quadro CC/CA e emendas no string box podem desenvolver pontos de resistência elevada por torque insuficiente, oxidação ou vibração — e esse ponto aquece bem antes de qualquer indicador do inversor perceber algo.
+
+A inspeção termográfica periódica (em geral anual, ou semestral em ambientes mais agressivos) identifica esses pontos quentes antes que virem perda de geração ou, em casos extremos, risco de falha no quadro elétrico. Ponto de conexão não tratado a tempo pode custar entre 3% e 8% da geração anual do trecho afetado*.
+
+Em sistemas de média tensão Grupo A/CELESC-D, essa checagem costuma entrar no plano de manutenção preventiva junto com a revisão de torque das conexões e a análise de qualidade de energia.
+
+*Estimativa ilustrativa; o impacto real depende da severidade e do tempo até a correção do ponto identificado.
+
+Seu sistema já passou por inspeção termográfica este ano? Agenda um diagnóstico técnico gratuito com a Amper e descobre 🔎⚡
+
+#energiasolar #geracaodistribuida #fotovoltaica #santacatarina #grupoa #celescd #manutencaopreventiva #termografia #engenhariaeletrica #inspecaotermografica #diagnosticotecnico #ampenergia

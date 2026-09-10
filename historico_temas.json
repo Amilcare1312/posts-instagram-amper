@@ -604,6 +604,16 @@
       "dados_usados": [
         "payback estimado do sistema de autoconsumo em média tensão Grupo A/CELESC-D com tratamento anticorrosivo reforçado: 5 a 7 anos (estimativa ilustrativa)"
       ]
+    },
+    {
+      "data": "2026-09-10",
+      "dia_semana": "quinta",
+      "pilar": "Dica prática — economia, dimensionamento, cuidados com o sistema",
+      "tema": "Inspeção termográfica periódica de conexões elétricas (conectores MC4, quadro CC/CA, string box) para detectar pontos de resistência elevada antes que virem perda de geração ou falha",
+      "angulo": "Diferente das dicas de 16/07 (manutenção/monitoramento geral), 23/07 (proteção contra surtos — DPS/SPDA), 30/07 (dimensionamento do cabeamento CC/CA), 06/08 (fator DC/AC e clipping), 13/08 (dimensionamento de string por temperatura), 20/08 (qualidade de energia/THD), 27/08 (orientação/inclinação dos módulos) e 03/09 (sombreamento/hot spots), aqui o foco é a inspeção termográfica das conexões elétricas do sistema como prática de manutenção preventiva, mostrando que pontos de resistência elevada por mau torque, oxidação ou vibração aquecem antes de qualquer alarme do inversor, com CTA de agendar diagnóstico técnico gratuito para variar dos CTAs recentes do pilar (comentar em 13/08, whatsapp em 20/08, site em 27/08, salvar em 03/09)",
+      "dados_usados": [
+        "ponto de conexão com resistência elevada não tratado pode custar entre 3% e 8% da geração anual do trecho afetado (estimativa ilustrativa)"
+      ]
     }
   ]
 }
