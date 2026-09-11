@@ -614,6 +614,16 @@
       "dados_usados": [
         "ponto de conexão com resistência elevada não tratado pode custar entre 3% e 8% da geração anual do trecho afetado (estimativa ilustrativa)"
       ]
+    },
+    {
+      "data": "2026-09-11",
+      "dia_semana": "sexta",
+      "pilar": "Bastidores / equipe / processo de engenharia",
+      "tema": "Comissionamento elétrico pré-energização: testes de isolamento, aterramento e curva I-V de cada string antes da homologação",
+      "angulo": "Mostrar a etapa de testes elétricos de start-up que o cliente não vê entre a instalação física e a energização do sistema, reforçando rigor técnico da Amper antes de pedir homologação junto à CELESC-D, com CTA de comentar para variar dos CTAs recentes",
+      "dados_usados": [
+        "ponto de conexão ou string mal aferida não identificada no comissionamento pode custar entre 3% e 10% de geração perdida no primeiro ano de operação (estimativa ilustrativa)"
+      ]
     }
   ]
 }

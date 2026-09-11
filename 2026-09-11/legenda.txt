@@ -1,0 +1,15 @@
+Sabe qual etapa fica entre "painel instalado no telhado" e "sistema realmente gerando energia"? ⚡
+
+Instalação física pronta não significa sistema liberado para operar. Antes de qualquer pedido de homologação junto à CELESC-D, a equipe roda uma bateria de testes elétricos de comissionamento — sem gerar 1 kWh ainda.
+
+Isso inclui teste de isolamento (megger) entre condutores e terra, medição de continuidade e resistência de aterramento, verificação de polaridade e torque de cada conexão, e o levantamento da curva I-V de cada string fotovoltaica comparada ao valor teórico de projeto.
+
+É essa curva que denuncia string mal conectada, módulo com defeito de fábrica ou perda por sombreamento não prevista — problemas que, se passarem despercebidos, podem custar entre 3% e 10% de geração perdida* já no primeiro ano de operação.
+
+Só depois de todos os parâmetros dentro da tolerância é que o sistema é liberado para energização e o processo de homologação segue adiante.
+
+*Estimativa ilustrativa; o impacto real varia conforme o porte do sistema e o tipo de falha identificada.
+
+Já ouviu falar de curva I-V ou teste de isolamento antes? Comenta aqui 👇 e a gente explica mais sobre bastidores de engenharia.
+
+#energiasolar #geracaodistribuida #fotovoltaica #santacatarina #comissionamento #testeeletrico #curvaiv #engenhariaeletrica #grupoa #celescd #energiasolarsc #ampenergia
