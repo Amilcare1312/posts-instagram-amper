@@ -624,6 +624,16 @@
       "dados_usados": [
         "ponto de conexão ou string mal aferida não identificada no comissionamento pode custar entre 3% e 10% de geração perdida no primeiro ano de operação (estimativa ilustrativa)"
       ]
+    },
+    {
+      "data": "2026-09-12",
+      "dia_semana": "sabado",
+      "pilar": "Sustentabilidade / propósito",
+      "tema": "Resiliência energética diante de eventos climáticos extremos em SC — FV + BESS reduzindo a dependência da rede centralizada",
+      "angulo": "Diferente do consumo de água vs. hidrelétrica (08/08), do EPBT/retorno energético (15/08), da pressão ESG da cadeia de fornecedores (22/08), do aproveitamento de telhados industriais (29/08) e da geração de empregos técnicos em SC (05/09), hoje o foco é resiliência: eventos climáticos extremos (enchentes, vendavais) tornam quedas de energia mais frequentes, e sistemas FV com armazenamento (BESS) dão autonomia às operações críticas quando a rede cai — sustentabilidade também é se preparar para os efeitos já em curso das mudanças climáticas, não só evitá-los. CTA de WhatsApp por ser o item que faltava no ciclo recente (salvar, comentar, diagnóstico e site já usados em 15/08, 22/08, 29/08 e 05/09).",
+      "dados_usados": [
+        "sistemas FV + BESS bem dimensionados sustentam cargas críticas por 2 a 6 horas de autonomia durante quedas de energia da rede (estimativa ilustrativa, varia por porte da bateria e carga priorizada)"
+      ]
     }
   ]
 }
