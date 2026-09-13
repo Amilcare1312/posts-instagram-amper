@@ -634,6 +634,16 @@
       "dados_usados": [
         "sistemas FV + BESS bem dimensionados sustentam cargas críticas por 2 a 6 horas de autonomia durante quedas de energia da rede (estimativa ilustrativa, varia por porte da bateria e carga priorizada)"
       ]
+    },
+    {
+      "data": "2026-09-13",
+      "dia_semana": "domingo",
+      "pilar": "Institucional / CTA comercial",
+      "tema": "Postura consultiva da Amper Energia de dizer \"ainda não é a hora\" quando o diagnóstico técnico mostra que o investimento em energia solar ainda não compensa para o cliente",
+      "angulo": "Diferente dos institucionais de 12/07 (engenharia vs. \"vendedor de painéis\"), 19/07 (exclusividade Grupo A/CELESC-D), 26/07 (uma única equipe integrando FV+BESS+EVSE), 02/08 (ART como garantia formal), 09/08 (especialização regional em SC), 16/08 (o que entra no diagnóstico técnico gratuito), 23/08 (acompanhamento pós-instalação), 30/08 (equipamentos Tier 1) e 06/09 (atendimento chave-na-mão ponta a ponta), hoje o foco é a honestidade técnica: o diagnóstico gratuito pode concluir que o momento ainda não é ideal (baixo consumo fora do horário solar, tarifa desfavorável, ajustes elétricos pendentes), e a Amper comunica isso em vez de empurrar um projeto que não vai performar, reforçando confiança de longo prazo, com CTA de salvar, completando o ciclo de CTAs do pilar (diagnóstico em 16/08, site em 23/08, whatsapp em 30/08, comentar em 06/09).",
+      "dados_usados": [
+        "em uma parcela dos diagnósticos técnicos, estimada entre 10% e 20% dos casos, a conclusão é que o investimento ainda não é vantajoso no momento (estimativa ilustrativa, sem caráter de dado oficial certificado)"
+      ]
     }
   ]
 }
