@@ -644,6 +644,17 @@
       "dados_usados": [
         "em uma parcela dos diagnósticos técnicos, estimada entre 10% e 20% dos casos, a conclusão é que o investimento ainda não é vantajoso no momento (estimativa ilustrativa, sem caráter de dado oficial certificado)"
       ]
+    },
+    {
+      "data": "2026-09-14",
+      "dia_semana": "segunda",
+      "pilar": "Educativo — mito vs. verdade sobre energia solar",
+      "tema": "Mito de que o sistema fotovoltaico é \"instala e esquece\" por 25 anos, sem nenhum investimento adicional ao longo da vida útil",
+      "angulo": "Diferente dos mitos de 13/07 (tarifa binômia), 20/07 (superdimensionamento pelo espaço disponível), 27/07 (clima nublado em SC), 03/08 (fatura não zera), 10/08 (painel alimenta em tempo real), 17/08 (dimensionamento não é pra sempre), 24/08 (excedente vira dinheiro), 31/08 (blecaute mantém a empresa funcionando) e 07/09 (degradação rápida dos painéis), o foco de hoje é mostrar que, apesar dos módulos terem vida útil longa (25-30 anos), o inversor tem vida útil média bem menor (10-15 anos) e precisa ser considerado como custo de reposição previsto no fluxo de caixa e no cálculo de payback do projeto desde o dimensionamento, com destaque adicional para operações Grupo A/CELESC-D onde o inversor trabalha perto da carga máxima com mais frequência, com CTA de visitar o site para variar dos CTAs recentes do pilar (diagnóstico em 17/08, comentar em 24/08, whatsapp em 31/08, salvar em 07/09)",
+      "dados_numericos": {
+        "vida_util_paineis_anos": "25-30 (estimativa ilustrativa)",
+        "vida_util_inversor_anos": "10-15 (estimativa ilustrativa, varia por fabricante/modelo/uso)"
+      }
     }
   ]
 }
