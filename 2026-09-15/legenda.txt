@@ -1,0 +1,13 @@
+Quanto 1 kWp de painel solar realmente gera por mês aqui em Santa Catarina? ☀️
+
+Esse é um dos números que mais gente calcula errado antes de fechar um projeto — geralmente puxando uma média de "sol forte" de outra região do Brasil.
+
+Em SC, com a irradiação solar típica do estado (menor que no Nordeste, mas plenamente viável), a estimativa ilustrativa fica em torno de 90 a 115 kWh gerados por kWp instalado, por mês — o que dá algo entre 1.100 e 1.350 kWh/kWp por ano, variando com orientação do telhado, sombreamento e região.
+
+Esse número é a base de qualquer dimensionamento sério: é ele que define quantos kWp seu sistema precisa ter para cobrir o consumo (ou a demanda) da sua operação em Grupo A/CELESC-D, sem superdimensionar nem deixar exposição na conta.
+
+Salva esse post pra usar como referência rápida na próxima vez que for estimar a geração do seu sistema 📌
+
+*Faixa de geração é uma estimativa ilustrativa; o número exato do seu projeto depende de irradiação local, orientação, sombreamento e estudo técnico específico.
+
+#energiasolar #geracaodistribuida #fotovoltaica #santacatarina #kwp #irradiacaosolar #dimensionamentofv #celescd #grupoa #engenhariasolar #ampenergia

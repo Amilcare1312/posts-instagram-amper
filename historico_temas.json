@@ -655,6 +655,17 @@
         "vida_util_paineis_anos": "25-30 (estimativa ilustrativa)",
         "vida_util_inversor_anos": "10-15 (estimativa ilustrativa, varia por fabricante/modelo/uso)"
       }
+    },
+    {
+      "data": "2026-09-15",
+      "dia_semana": "terca",
+      "pilar": "Dado/número de impacto — economia, geração distribuída, tarifa CELESC-D",
+      "tema": "Geração média mensal estimada por kWp instalado em Santa Catarina (kWh/kWp/mês) como base para dimensionamento correto",
+      "angulo": "Diferente dos dados de 14/07 (economia % e R$ na fatura), 21/07 (payback de usinas PPA), 28/07 (efeito composto do reajuste tarifário em 10 anos), 04/08 (payback + vida útil), 11/08 (peso da demanda contratada + BESS), 18/08 (ritmo de crescimento da GD em SC), 25/08 (prazo protocolo → paralelismo), 01/09 (m² de telhado por kWp) e 08/09 (cronograma regressivo do Fio B), hoje o foco é um dado técnico de geração — quantos kWh são gerados por kWp instalado, por mês, em SC — reforçando que esse número (não uma média nacional genérica) é a base de um dimensionamento correto para consumidores Grupo A/CELESC-D, com CTA de salvar para dar sequência ao ciclo de CTAs do pilar (comentar em 25/08, diagnóstico em 01/09, whatsapp em 08/09, salvar hoje).",
+      "dados_numericos": {
+        "geracao_kwh_por_kwp_mes": "90-115 (estimativa ilustrativa)",
+        "geracao_kwh_por_kwp_ano": "1100-1350 (estimativa ilustrativa)"
+      }
     }
   ]
 }
