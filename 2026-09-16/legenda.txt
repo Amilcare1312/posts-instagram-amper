@@ -1,0 +1,15 @@
+Numa fábrica de bebidas, a maior ameaça ao sistema solar não é o sol — é a mangueira de limpeza. 💦
+
+Numa indústria de bebidas genérica do Vale do Itajaí, o diagnóstico técnico da Amper identificou um detalhe que passa longe do "catálogo padrão" de painel solar: a rotina diária de limpeza industrial usa jato de água de alta pressão em toda a área de produção, inclusive perto de quadros elétricos e caixas de conexão do sistema fotovoltaico.
+
+Proteção contra poeira (IP5X/6X) não é a mesma coisa que proteção contra jato d'água direcionado (IPX5/IPX6) — e projetar com o grau errado significa risco real de infiltração, curto-circuito e desarme do sistema.
+
+A engenharia especificou quadros e string box com selagem IP66, reposicionamento de conexões fora da linha direta dos jatos e prensa-cabos reforçados, sem alterar o cronograma de limpeza da planta.
+
+Resultado: sistema em operação sem intercorrências desde a partida, com o payback do projeto seguindo dentro da faixa típica de 4 a 7 anos* para autoconsumo em média tensão Grupo A/CELESC-D.
+
+*Estimativa ilustrativa; o cenário real depende do estudo de viabilidade técnico específico de cada operação.
+
+Sua planta tem rotina de lavagem/washdown perto da área do telhado ou do quadro elétrico? Agenda o diagnóstico técnico gratuito da Amper e descubra o grau de proteção certo para o seu caso 🔧☀️
+
+#energiasolar #geracaodistribuida #fotovoltaica #santacatarina #grupoa #celescd #engenhariaeletrica #industriadebebidas #grauip #protecaoeletrica #diagnosticotecnico #ampenergia

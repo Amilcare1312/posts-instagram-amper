@@ -666,6 +666,16 @@
         "geracao_kwh_por_kwp_mes": "90-115 (estimativa ilustrativa)",
         "geracao_kwh_por_kwp_ano": "1100-1350 (estimativa ilustrativa)"
       }
+    },
+    {
+      "data": "2026-09-16",
+      "dia_semana": "quarta",
+      "pilar": "Caso de sucesso / prova social",
+      "tema": "Indústria de bebidas genérica no Vale do Itajaí onde o diagnóstico técnico identificou que a rotina de limpeza com jato de água de alta pressão (washdown) exigia grau de proteção IP66 contra jato d'água direcionado nos quadros elétricos e string box do sistema fotovoltaico",
+      "angulo": "Diferente dos casos de 15/07 (metalúrgica + BESS), 22/07 (têxtil, curva de carga), 29/07 (cerâmica, fator de potência), 05/08 (laticínios, câmaras frias 24h), 12/08 (transportadora, integração FV+EVSE), 19/08 (centro de distribuição, quadro/aterramento desatualizado), 26/08 (moveleira, grau de proteção IP por poeira de serragem), 02/09 (tintas/vernizes, área classificada por atmosfera explosiva) e 09/09 (curtume, atmosfera quimicamente corrosiva), aqui o foco é uma condição operacional distinta — proteção contra jato d'água direcionado (IPX5/IPX6) por rotina de washdown, e não poeira, corrosão química ou atmosfera explosiva —, reforçando que o diagnóstico técnico avalia também a rotina operacional da planta, com CTA de agendar diagnóstico técnico gratuito para variar dos CTAs recentes do pilar (whatsapp em 19/08, salvar em 26/08, comentar/whatsapp em 02/09, site em 09/09).",
+      "dados_numericos": {
+        "payback_autoconsumo_anos": "4-7 (estimativa ilustrativa)"
+      }
     }
   ]
 }
