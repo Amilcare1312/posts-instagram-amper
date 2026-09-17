@@ -1,0 +1,13 @@
+Inversor "sufocado" numa sala fechada rende menos que o mesmo inversor ao ar livre — mesmo com o sol idêntico lá fora. 🌡️
+
+Um erro comum em projetos apressados: instalar inversores (e bancos de baterias BESS) numa sala técnica pequena, fechada, sem entrada e saída de ar dimensionadas. O equipamento esquenta, a proteção térmica interna entra em ação e reduz a potência entregue sozinha — sem alarme, sem aviso na fatura, só menos energia aproveitada.
+
+Isso também encurta a vida útil dos componentes eletrônicos e, em sistemas com BESS, acelera a degradação das baterias expostas a temperatura acima da faixa recomendada pelo fabricante.
+
+A engenharia certa prevê ventilação natural ou forçada, distância mínima entre equipamentos e das paredes, e simulação térmica da sala antes da instalação — não depois que o cliente reclama de geração abaixo do esperado.
+
+*Redução de potência por derating térmico em ambiente confinado sem ventilação adequada: estimativa ilustrativa entre 5% e 15% da geração aproveitada em dias quentes, variando com o projeto da sala e o equipamento.
+
+A sala do seu inversor (ou BESS) tem ventilação dimensionada ou foi "o espaço que sobrou"? Chama a gente no WhatsApp e a engenharia avalia seu caso 📲🔧
+
+#energiasolar #geracaodistribuida #fotovoltaica #santacatarina #grupoa #celescd #engenhariaeletrica #bess #inversorsolar #manutencaopreventiva #salatecnica #ampenergia

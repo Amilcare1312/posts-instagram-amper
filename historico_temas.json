@@ -676,6 +676,16 @@
       "dados_numericos": {
         "payback_autoconsumo_anos": "4-7 (estimativa ilustrativa)"
       }
+    },
+    {
+      "data": "2026-09-17",
+      "dia_semana": "quinta",
+      "pilar": "Dica prática — economia, dimensionamento, cuidados com o sistema",
+      "tema": "Ventilação e temperatura ambiente da sala técnica de inversores e BESS em sistemas FV Grupo A/CELESC-D",
+      "angulo": "Diferente das dicas já publicadas sobre monitoramento/limpeza (16/07), DPS/surtos (23/07), cabeamento CC/CA (30/07), fator DC/AC e clipping (06/08), tensão de string por temperatura (13/08), THD (20/08), azimute/tilt (27/08), sombreamento/hot spots (03/09) e termografia de conexões (10/09), aqui o foco é o ambiente físico da sala técnica: confinamento sem ventilação dimensionada causa derating térmico silencioso do inversor e acelera degradação de eletrônica e baterias BESS, reforçando que a simulação térmica da sala faz parte do projeto de engenharia, com CTA de WhatsApp para variar dos CTAs recentes do pilar (diagnóstico em 10/09, salvar em 03/09, site em 27/08)",
+      "dados_usados": [
+        "redução de potência por derating térmico em ambiente confinado sem ventilação adequada entre 5% e 15% da geração aproveitada em dias quentes (estimativa ilustrativa)"
+      ]
     }
   ]
 }
