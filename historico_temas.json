@@ -686,6 +686,17 @@
       "dados_usados": [
         "redução de potência por derating térmico em ambiente confinado sem ventilação adequada entre 5% e 15% da geração aproveitada em dias quentes (estimativa ilustrativa)"
       ]
+    },
+    {
+      "data": "2026-09-18",
+      "dia_semana": "sexta",
+      "pilar": "Bastidores / equipe / processo de engenharia",
+      "tema": "Simulação computacional de geração (sombreamento, temperatura, perdas de cabo) rodada em software especializado entre a visita técnica e a proposta comercial final",
+      "angulo": "Diferente dos bastidores de 17/07 (etapas gerais do processo), 24/07 (perfis técnicos do time), 31/07 (testes de comissionamento), 07/08 (visita técnica de campo), 14/08 (estudo de proteção/relé ANSI), 21/08 (homologação pós-comissionamento CELESC-D), 28/08 (cálculo estrutural NBR 6123), 04/09 (segurança do trabalho NR-35/10) e 11/09 (comissionamento elétrico pré-energização), aqui o foco é a etapa de processamento técnico entre a coleta de dados em campo e a proposta comercial — simulação em software especializado cruzando orientação, sombreamento, temperatura e perdas de cabo —, reforçando que o número de geração do orçamento vem de engenharia processada e não de estimativa genérica, com CTA de agendar diagnóstico técnico gratuito para variar dos CTAs recentes do pilar (salvar em 21/08, site em 28/08, whatsapp em 04/09, comentar em 11/09)",
+      "dados_numericos": {
+        "margem_erro_satelite_sem_visita_pct": "15-30 (estimativa ilustrativa, já usada em 07/08)",
+        "margem_erro_simulacao_com_dados_campo_pct": "5-10 (estimativa ilustrativa)"
+      }
     }
   ]
 }
