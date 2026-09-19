@@ -697,6 +697,16 @@
         "margem_erro_satelite_sem_visita_pct": "15-30 (estimativa ilustrativa, já usada em 07/08)",
         "margem_erro_simulacao_com_dados_campo_pct": "5-10 (estimativa ilustrativa)"
       }
+    },
+    {
+      "data": "2026-09-19",
+      "dia_semana": "sabado",
+      "pilar": "Sustentabilidade / propósito",
+      "tema": "Eletrificação de frotas corporativas (EVSE) carregadas com energia solar própria em Santa Catarina",
+      "angulo": "Estender a sustentabilidade além do telhado: pontos de recarga (EVSE) dimensionados junto com o sistema FV para carregar empilhadeiras, vans e veículos leves da operação com energia própria, reduzindo dependência de diesel/gasolina; CTA de salvar por ser o item que faltava no ciclo recente do pilar (comentar, diagnóstico, site e whatsapp já usados em 22/08, 29/08, 05/09 e 12/09).",
+      "dados_numericos": {
+        "reducao_custo_por_km_vs_diesel_gasolina_pct": "50-75 (estimativa ilustrativa, varia com perfil de uso e porte da frota)"
+      }
     }
   ]
 }
