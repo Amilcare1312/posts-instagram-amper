@@ -707,6 +707,16 @@
       "dados_numericos": {
         "reducao_custo_por_km_vs_diesel_gasolina_pct": "50-75 (estimativa ilustrativa, varia com perfil de uso e porte da frota)"
       }
+    },
+    {
+      "data": "2026-09-20",
+      "dia_semana": "domingo",
+      "pilar": "Institucional / CTA comercial",
+      "tema": "Capacidade limitada de diagnósticos técnicos gratuitos simultâneos por semana, como prova de profundidade de engenharia em vez de produção em série de propostas",
+      "angulo": "Diferente dos institucionais de 12/07 (engenharia vs. \"vendedor de painéis\"), 19/07 (exclusividade Grupo A/CELESC-D), 26/07 (uma única equipe integrando FV+BESS+EVSE), 02/08 (ART como garantia formal), 09/08 (especialização regional em SC), 16/08 (o que entra no diagnóstico técnico gratuito), 23/08 (acompanhamento pós-instalação), 30/08 (equipamentos Tier 1), 06/09 (atendimento chave-na-mão ponta a ponta) e 13/09 (postura consultiva \"ainda não é a hora\"), hoje o foco é mostrar que a equipe técnica limita de propósito o número de diagnósticos ativos por semana para manter tempo real de engenharia (fatura, curva de carga, exigências da CELESC-D) em cada caso, em vez de gerar propostas padronizadas em série, com CTA de agendar diagnóstico gratuito, reiniciando o ciclo de CTAs do pilar (site em 23/08, whatsapp em 30/08, comentar em 06/09, salvar em 13/09).",
+      "dados_numericos": {
+        "diagnosticos_completos_por_semana": "4-8 (estimativa ilustrativa, varia com a complexidade dos projetos em andamento)"
+      }
     }
   ]
 }
