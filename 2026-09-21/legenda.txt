@@ -1,0 +1,11 @@
+Instalar energia solar corrige sozinho o fator de potência baixo e acaba com a multa da CELESC-D? 🤔
+
+Mito. O sistema fotovoltaico reduz o consumo de energia ativa vindo da rede — mas fator de potência é outra grandeza, ligada a motores, transformadores e cargas indutivas da própria planta.
+
+Um inversor mal dimensionado, inclusive, pode piorar o fator de potência em vez de corrigi-lo. A correção de verdade vem de um banco de capacitores (compensação reativa) calculado e ajustado à parte, dentro do projeto elétrico — não do sistema FV isolado.
+
+Por isso o diagnóstico técnico avalia a planta como um todo, não só a fatura de energia ativa.
+
+Sua indústria já teve multa por baixo fator de potência? Agende um diagnóstico técnico gratuito e descubra a causa real ⚡
+
+#energiasolar #geracaodistribuida #fotovoltaica #santacatarina #fatordepotencia #energiareativa #grupoa #celescd #engenhariasolar #industriasc #energiaindustrial #amperenergia
