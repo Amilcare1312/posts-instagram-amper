@@ -735,6 +735,16 @@
       "dados_usados": [
         "investimento estimado entre R$ 2.800 e R$ 4.200 por kWp instalado em sistemas fotovoltaicos comerciais/industriais no Grupo A/CELESC-D (estimativa ilustrativa, sem caráter de orçamento fechado; varia com porte do sistema, tipo de estrutura e distância até o ponto de conexão)"
       ]
+    },
+    {
+      "data": "2026-09-23",
+      "dia_semana": "quarta",
+      "pilar": "Caso de sucesso / prova social",
+      "tema": "Fundição genérica no Sul de SC onde o diagnóstico técnico identificou que a proximidade dos quadros elétricos e do local previsto para os inversores com os fornos de fusão elevava a temperatura ambiente a ponto de exigir reposicionamento e ventilação reforçada para evitar derating térmico dos inversores",
+      "angulo": "Diferente dos casos de 15/07 (metalúrgica + BESS), 22/07 (têxtil, curva de carga), 29/07 (cerâmica, fator de potência), 05/08 (laticínios, câmaras frias 24h), 12/08 (transportadora, integração FV+EVSE), 19/08 (centro de distribuição, quadro/aterramento desatualizado), 26/08 (moveleira, grau de proteção IP por poeira de serragem), 02/09 (tintas/vernizes, área classificada por atmosfera explosiva), 09/09 (curtume, atmosfera quimicamente corrosiva) e 16/09 (bebidas, washdown IP66), aqui o foco é a carga térmica do ambiente — calor irradiado por fornos de fusão exigindo reposicionamento dos inversores e ventilação reforçada para evitar derating (redução automática de potência por superaquecimento) — distinto de poeira, corrosão, atmosfera explosiva e umidade já retratados, reforçando que o diagnóstico técnico avalia também a temperatura ambiente da operação, com CTA de chamar no WhatsApp para variar dos CTAs recentes do pilar (salvar em 26/08, comentar/whatsapp em 02/09, site em 09/09, diagnóstico em 16/09).",
+      "dados_usados": [
+        "payback estimado do sistema de autoconsumo em média tensão Grupo A/CELESC-D: 4 a 7 anos (estimativa ilustrativa, sem caráter de dado oficial certificado)"
+      ]
     }
   ]
 }

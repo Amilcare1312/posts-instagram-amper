@@ -1,0 +1,15 @@
+O maior risco para o inversor solar de uma fundição não é a poeira nem a chuva — é o calor do próprio forno. 🔥
+
+Numa fundição genérica do Sul de Santa Catarina, o diagnóstico técnico da Amper identificou algo que nenhum catálogo padrão de painel solar prevê: a proximidade dos quadros elétricos e do local previsto para os inversores com os fornos de fusão elevava a temperatura ambiente muito acima da faixa segura de operação desses equipamentos.
+
+Inversor superaquecido não desarma por acaso — ele reduz potência automaticamente (derating) para se proteger, e isso significa menos energia gerada exatamente quando a fábrica mais precisa.
+
+A engenharia reposicionou o ponto de instalação dos inversores para uma área ventilada e afastada da radiação térmica dos fornos, reforçou a ventilação forçada dos quadros e ajustou o projeto elétrico para operar dentro da faixa térmica segura o ano todo.
+
+Resultado: geração estável mesmo nos dias mais quentes do galpão, com payback do investimento seguindo dentro da faixa típica de 4 a 7 anos* para autoconsumo em média tensão Grupo A/CELESC-D.
+
+*Estimativa ilustrativa; o cenário real depende do estudo de viabilidade técnico específico de cada operação.
+
+Sua planta tem pontos quentes perto de fornos, caldeiras ou equipamentos que liberam muito calor? Chama a Amper no WhatsApp e descubra se o seu projeto precisa desse cuidado térmico extra 🔧☀️
+
+#energiasolar #geracaodistribuida #fotovoltaica #santacatarina #grupoa #celescd #engenhariaeletrica #fundicao #derating #inversorsolar #diagnosticotecnico #ampenergia
