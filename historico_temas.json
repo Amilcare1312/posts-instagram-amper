@@ -745,6 +745,16 @@
       "dados_usados": [
         "payback estimado do sistema de autoconsumo em média tensão Grupo A/CELESC-D: 4 a 7 anos (estimativa ilustrativa, sem caráter de dado oficial certificado)"
       ]
+    },
+    {
+      "data": "2026-09-24",
+      "dia_semana": "quinta",
+      "pilar": "Dica prática — economia, dimensionamento, cuidados com o sistema",
+      "tema": "Vedação e impermeabilização inadequada dos pontos de fixação dos módulos fotovoltaicos no telhado industrial, gerando risco de infiltração e perda de garantia da cobertura",
+      "angulo": "Diferente das dicas já publicadas sobre monitoramento/limpeza (16/07), DPS/surtos (23/07), cabeamento CC/CA (30/07), fator DC/AC e clipping (06/08), tensão de string por temperatura (13/08), THD (20/08), azimute/tilt (27/08), sombreamento/hot spots (03/09), termografia de conexões (10/09) e ventilação da sala técnica (17/09), aqui o foco é o próprio ponto de furação da estrutura de fixação no telhado — vedação/manta incompatível com o material da cobertura cede com dilatação térmica e chuva ao longo dos anos, gerando infiltração que só aparece depois e pode invalidar a garantia da telha —, reforçando que a especificação do vedante e o torque correto fazem parte do projeto de engenharia, não da mão de obra de instalação apenas, com CTA de comentar para retomar o ciclo de CTAs do pilar (site em 27/08, salvar em 03/09, diagnóstico em 10/09, whatsapp em 17/09).",
+      "dados_numericos": {
+        "custo_reparo_infiltracao_vedacao_inadequada_reais": "5000-40000 (estimativa ilustrativa, varia com extensão do dano e tipo de cobertura)"
+      }
     }
   ]
 }
