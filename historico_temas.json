@@ -755,6 +755,14 @@
       "dados_numericos": {
         "custo_reparo_infiltracao_vedacao_inadequada_reais": "5000-40000 (estimativa ilustrativa, varia com extensão do dano e tipo de cobertura)"
       }
+    },
+    {
+      "data": "2026-09-25",
+      "dia_semana": "sexta",
+      "pilar": "Bastidores / equipe / processo de engenharia",
+      "tema": "Dossiê técnico final entregue ao cliente ao fim da obra (as-built, ART, memorial de cálculo, manual de operação, garantias dos equipamentos)",
+      "angulo": "Diferente dos bastidores de 17/07 (etapas gerais do processo), 24/07 (perfis técnicos do time), 31/07 (testes de comissionamento), 07/08 (visita técnica de campo), 14/08 (estudo de proteção/relé ANSI), 21/08 (homologação pós-comissionamento CELESC-D), 28/08 (cálculo estrutural NBR 6123), 04/09 (segurança do trabalho NR-35/10), 11/09 (comissionamento elétrico pré-energização) e 18/09 (simulação computacional de geração), aqui o foco sai da execução técnica em si e vai para a etapa final de entrega documental ao cliente — organizar o dossiê técnico completo (as-built, ART, memorial de cálculo, manual de operação, garantias) antes de considerar o projeto encerrado —, reforçando que a engenharia da Amper não termina na energização, com CTA de salvar, sendo o CTA mais atrasado no ciclo de rotação do pilar (salvar em 21/08, site em 28/08, whatsapp em 04/09, comentar em 11/09, diagnóstico em 18/09).",
+      "dados_numericos": "6 documentos técnicos por projeto, em média (estimativa ilustrativa; varia conforme porte e complexidade da instalação)"
     }
   ]
 }
