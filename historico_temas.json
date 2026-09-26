@@ -763,6 +763,16 @@
       "tema": "Dossiê técnico final entregue ao cliente ao fim da obra (as-built, ART, memorial de cálculo, manual de operação, garantias dos equipamentos)",
       "angulo": "Diferente dos bastidores de 17/07 (etapas gerais do processo), 24/07 (perfis técnicos do time), 31/07 (testes de comissionamento), 07/08 (visita técnica de campo), 14/08 (estudo de proteção/relé ANSI), 21/08 (homologação pós-comissionamento CELESC-D), 28/08 (cálculo estrutural NBR 6123), 04/09 (segurança do trabalho NR-35/10), 11/09 (comissionamento elétrico pré-energização) e 18/09 (simulação computacional de geração), aqui o foco sai da execução técnica em si e vai para a etapa final de entrega documental ao cliente — organizar o dossiê técnico completo (as-built, ART, memorial de cálculo, manual de operação, garantias) antes de considerar o projeto encerrado —, reforçando que a engenharia da Amper não termina na energização, com CTA de salvar, sendo o CTA mais atrasado no ciclo de rotação do pilar (salvar em 21/08, site em 28/08, whatsapp em 04/09, comentar em 11/09, diagnóstico em 18/09).",
       "dados_numericos": "6 documentos técnicos por projeto, em média (estimativa ilustrativa; varia conforme porte e complexidade da instalação)"
+    },
+    {
+      "data": "2026-09-26",
+      "dia_semana": "sabado",
+      "pilar": "Sustentabilidade / propósito",
+      "tema": "Segunda vida e reciclagem de baterias (BESS) em sistemas de energia solar — economia circular além do módulo fotovoltaico",
+      "angulo": "Diferente da vida útil/reciclabilidade dos módulos (25/07, focado no painel), aqui o foco é o ciclo de vida da bateria do BESS: quando ela deixa de atender aos ciclos intensos da operação industrial, ainda mantém boa parte da capacidade e pode ganhar segunda vida em aplicações menos exigentes antes da reciclagem final, reduzindo a mineração de matéria-prima nova. CTA de comentar por ser o item que faltava no ciclo recente do pilar (diagnóstico, site, whatsapp e salvar já usados em 29/08, 05/09, 12/09 e 19/09).",
+      "dados_usados": [
+        "baterias BESS mantêm entre 70% e 80% da capacidade original após cerca de 10 anos de uso intenso, podendo ser reaproveitadas em aplicações de menor exigência antes da reciclagem final (estimativa ilustrativa, tecnologia de íons de lítio LFP)"
+      ]
     }
   ]
 }

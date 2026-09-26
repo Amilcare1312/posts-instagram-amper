@@ -1,0 +1,71 @@
+<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0A2540"/>
+      <stop offset="100%" stop-color="#0D3054"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1080" height="1350" fill="url(#bg)"/>
+
+  <!-- Top bar -->
+  <text x="60" y="80" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="44" fill="#FFFFFF">AMPER ENERGIA</text>
+  <text x="60" y="118" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="20" letter-spacing="1" fill="#C9D6E3">SOLAR FV · BESS · EVSE · SANTA CATARINA</text>
+  <rect x="60" y="135" width="90" height="5" fill="#FF7A1A"/>
+
+  <!-- Illustration: battery with recycle arrows -->
+  <g transform="translate(20,20)">
+    <!-- battery body -->
+    <rect x="150" y="230" width="200" height="300" rx="16" fill="#12395F" stroke="#3E6890" stroke-width="3"/>
+    <rect x="210" y="204" width="80" height="30" rx="7" fill="#12395F" stroke="#3E6890" stroke-width="3"/>
+    <!-- charge level fill -->
+    <rect x="166" y="320" width="168" height="196" rx="9" fill="#1B4E7E"/>
+    <!-- lightning bolt -->
+    <path d="M266 290 L235 385 L258 385 L244 450 L300 365 L272 365 Z" fill="#FF7A1A"/>
+
+    <!-- circular recycle arrows around battery -->
+    <g fill="none" stroke="#FF7A1A" stroke-width="10" stroke-linecap="round">
+      <path d="M 420 300 A 170 170 0 0 1 400 470" />
+      <path d="M 340 555 A 170 170 0 0 1 170 545" />
+      <path d="M 105 460 A 170 170 0 0 1 150 300" />
+    </g>
+    <!-- arrow heads -->
+    <polygon points="388,462 420,472 393,500" fill="#FF7A1A"/>
+    <polygon points="185,570 148,562 172,530" fill="#FF7A1A"/>
+    <polygon points="168,282 138,300 178,314" fill="#FF7A1A"/>
+  </g>
+
+  <!-- small sun accent top right -->
+  <circle cx="900" cy="270" r="55" fill="#FF7A1A"/>
+  <g stroke="#FF7A1A" stroke-width="8" stroke-linecap="round">
+    <line x1="900" y1="160" x2="900" y2="190"/>
+    <line x1="900" y1="350" x2="900" y2="380"/>
+    <line x1="790" y1="270" x2="820" y2="270"/>
+    <line x1="980" y1="270" x2="1010" y2="270"/>
+    <line x1="826" y1="196" x2="846" y2="216"/>
+    <line x1="954" y1="324" x2="974" y2="344"/>
+    <line x1="974" y1="196" x2="954" y2="216"/>
+    <line x1="846" y1="324" x2="826" y2="344"/>
+  </g>
+
+  <!-- Headline -->
+  <text x="60" y="700" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="52" fill="#FFFFFF">SEGUNDA VIDA DAS</text>
+  <text x="60" y="762" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="52" fill="#FFFFFF">BATERIAS DO SEU BESS</text>
+
+  <line x1="60" y1="800" x2="1020" y2="800" stroke="#3E6890" stroke-width="2"/>
+
+  <!-- Big stat -->
+  <text x="60" y="930" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="110" fill="#FF7A1A">70% A 80%</text>
+  <text x="60" y="975" font-family="Arial, Helvetica, sans-serif" font-size="34" fill="#FFFFFF">da capacidade original mantida</text>
+  <text x="60" y="1015" font-family="Arial, Helvetica, sans-serif" font-size="34" fill="#FFFFFF">após ~10 anos de uso intenso*</text>
+  <text x="60" y="1050" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="22" fill="#C9D6E3">*estimativa ilustrativa, tecnologia de íons de lítio (LFP)</text>
+
+  <!-- Body -->
+  <text x="60" y="1105" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#FFFFFF">Antes da reciclagem final, a bateria pode ganhar</text>
+  <text x="60" y="1142" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#FFFFFF">segunda vida em aplicações menos exigentes.</text>
+
+  <!-- Bottom CTA bar -->
+  <rect x="0" y="1200" width="1080" height="150" fill="#FF7A1A"/>
+  <text x="60" y="1265" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="42" fill="#0A2540">COMENTA AQUI 💬</text>
+  <text x="60" y="1315" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#0A2540">@ampenergia</text>
+</svg>
