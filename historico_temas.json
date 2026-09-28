@@ -781,6 +781,14 @@
       "tema": "Transparência documental — o cliente recebe o memorial técnico completo (curva de carga, dimensionamento, retorno financeiro) em vez de uma proposta comercial resumida sem embasamento",
       "angulo": "Contraste entre propostas de mercado que são só uma página bonita com economia estimada, e o memorial técnico da Amper Energia com cada número explicado pela conta técnica por trás, reforçando a relevância de demanda contratada e posto tarifário para Grupo A/CELESC-D, com CTA de visitar o site, retomando o ciclo de CTAs do pilar",
       "dados_usados": []
+    },
+    {
+      "data": "2026-09-28",
+      "dia_semana": "segunda",
+      "pilar": "Educativo — mito vs. verdade sobre energia solar",
+      "tema": "Mito de que instalar energia solar aumenta o risco de incêndio elétrico na empresa",
+      "angulo": "Contraste entre a percepção de que painel solar é mais um risco elétrico e a realidade de que incidentes estão ligados a projeto malfeito (cabos subdimensionados, conectores mal crimpados, proteção CC ausente, aterramento fora de norma) e não à tecnologia em si; reforça que dimensionamento de disjuntores CC/CA, DPS e aterramento conforme NBR 5410 e NBR 16690 é decisão de projeto de engenharia desde o memorial técnico, com CTA de comentar (variando dos últimos CTAs do pilar: WhatsApp em 31/08, salvar em 07/09, site em 14/09, diagnóstico em 21/09)",
+      "dados_usados": []
     }
   ]
 }

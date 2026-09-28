@@ -1,0 +1,62 @@
+<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0A2540"/>
+      <stop offset="100%" stop-color="#0D3054"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1080" height="1350" fill="url(#bg)"/>
+
+  <!-- Top bar -->
+  <text x="60" y="80" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="44" fill="#FFFFFF">AMPER ENERGIA</text>
+  <text x="60" y="118" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="20" letter-spacing="1" fill="#C9D6E3">SOLAR FV · BESS · EVSE · SANTA CATARINA</text>
+  <rect x="60" y="135" width="90" height="5" fill="#FF7A1A"/>
+
+  <!-- Illustration: protection shield with solar panel, crossed-out flame (myth debunked) -->
+  <g transform="translate(90,190)">
+    <!-- shield -->
+    <path d="M170 0 L330 45 L330 210 C330 320 260 390 170 430 C80 390 10 320 10 210 L10 45 Z"
+          fill="#12395F" stroke="#FF7A1A" stroke-width="6"/>
+
+    <!-- solar panel icon inside shield -->
+    <g transform="translate(75,90)">
+      <rect x="0" y="0" width="190" height="130" rx="8" fill="#0A2540" stroke="#C9D6E3" stroke-width="3"/>
+      <line x1="0" y1="43" x2="190" y2="43" stroke="#C9D6E3" stroke-width="2"/>
+      <line x1="0" y1="86" x2="190" y2="86" stroke="#C9D6E3" stroke-width="2"/>
+      <line x1="63" y1="0" x2="63" y2="130" stroke="#C9D6E3" stroke-width="2"/>
+      <line x1="126" y1="0" x2="126" y2="130" stroke="#C9D6E3" stroke-width="2"/>
+    </g>
+
+    <!-- checkmark badge -->
+    <circle cx="170" cy="330" r="46" fill="#FF7A1A"/>
+    <path d="M148 330 L163 346 L194 310" stroke="#0A2540" stroke-width="9" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- crossed-out flame (myth) -->
+  <g transform="translate(430,220)">
+    <path d="M40 10 C55 40 15 55 30 90 C40 112 65 118 80 100 C95 118 100 85 85 65 C100 75 95 45 75 30 C78 50 65 45 60 30 C55 15 45 5 40 10 Z"
+          fill="none" stroke="#C9D6E3" stroke-width="6" opacity="0.85"/>
+    <line x1="5" y1="5" x2="115" y2="125" stroke="#C9D6E3" stroke-width="8" stroke-linecap="round"/>
+  </g>
+
+  <!-- Headline -->
+  <text x="60" y="700" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="50" fill="#FFFFFF">RISCO NÃO ESTÁ</text>
+  <text x="60" y="762" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="50" fill="#FFFFFF">NO PAINEL SOLAR.</text>
+  <text x="60" y="824" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="50" fill="#FF7A1A">ESTÁ NO PROJETO.</text>
+
+  <line x1="60" y1="862" x2="1020" y2="862" stroke="#3E6890" stroke-width="2"/>
+
+  <!-- Body -->
+  <text x="60" y="925" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#FFFFFF">Cabos dimensionados, proteção CC/CA e</text>
+  <text x="60" y="962" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#FFFFFF">aterramento correto seguem NBR 5410 e</text>
+  <text x="60" y="999" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#FFFFFF">NBR 16690 desde o memorial técnico.</text>
+
+  <text x="60" y="1055" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="24" fill="#C9D6E3">Segurança elétrica é decisão de projeto,</text>
+  <text x="60" y="1090" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="24" fill="#C9D6E3">não detalhe de execução.</text>
+
+  <!-- Bottom CTA bar -->
+  <rect x="0" y="1200" width="1080" height="150" fill="#FF7A1A"/>
+  <text x="60" y="1265" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="42" fill="#0A2540">COMENTA AQUI 💬</text>
+  <text x="60" y="1315" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#0A2540">@ampenergia</text>
+</svg>

@@ -1,0 +1,13 @@
+Instalar energia solar aumenta o risco de incêndio elétrico na sua empresa? 🔥
+
+🔍 Mito: painel solar no telhado é mais um equipamento elétrico, logo é mais um risco de curto-circuito e incêndio na instalação.
+
+✅ Verdade: o risco não está na tecnologia solar em si — está na qualidade do projeto. A maioria dos casos de aquecimento anormal ou falha em sistemas FV está associada a cabos subdimensionados, conectores mal crimpados, string box sem proteção CC adequada ou aterramento fora da norma, não ao painel em funcionamento normal.
+
+Um projeto de engenharia dimensiona disjuntores CC e CA, DPS (proteção contra surtos) e aterramento desde o memorial técnico, seguindo NBR 5410 e NBR 16690 — o mesmo rigor técnico de qualquer instalação elétrica industrial de médio porte.
+
+Segurança elétrica não é detalhe de execução: é decisão de projeto, tomada antes do primeiro cabo ser passado.
+
+Comenta aqui: o seu sistema solar veio com o memorial técnico das proteções elétricas documentado? 💬
+
+#energiasolar #geracaodistribuida #fotovoltaica #santacatarina #segurancaeletrica #mitoouverdade #protecaoeletrica #engenhariaeletrica #nbr5410 #grupoa #celescd #amperenergia
