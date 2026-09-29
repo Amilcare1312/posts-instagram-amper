@@ -789,6 +789,16 @@
       "tema": "Mito de que instalar energia solar aumenta o risco de incêndio elétrico na empresa",
       "angulo": "Contraste entre a percepção de que painel solar é mais um risco elétrico e a realidade de que incidentes estão ligados a projeto malfeito (cabos subdimensionados, conectores mal crimpados, proteção CC ausente, aterramento fora de norma) e não à tecnologia em si; reforça que dimensionamento de disjuntores CC/CA, DPS e aterramento conforme NBR 5410 e NBR 16690 é decisão de projeto de engenharia desde o memorial técnico, com CTA de comentar (variando dos últimos CTAs do pilar: WhatsApp em 31/08, salvar em 07/09, site em 14/09, diagnóstico em 21/09)",
       "dados_usados": []
+    },
+    {
+      "data": "2026-09-29",
+      "dia_semana": "terca",
+      "pilar": "Dado/número de impacto — economia, geração distribuída, tarifa CELESC-D",
+      "tema": "Taxa Interna de Retorno (TIR) média estimada de projetos de autoconsumo fotovoltaico no Grupo A/CELESC-D, comparada a aplicações financeiras tradicionais",
+      "angulo": "Diferente dos dados de 14/07 (economia % e R$ na fatura), 21/07 (payback de usinas PPA), 28/07 (efeito composto do reajuste tarifário), 04/08 (payback + vida útil), 11/08 (peso da demanda contratada), 18/08 (crescimento da GD em SC), 25/08 (prazo protocolo → paralelismo), 01/09 (m² de telhado por kWp), 08/09 (cronograma do Fio B) e 15/09 (geração kWh/kWp/mês) e 22/09 (investimento R$/kWp), aqui o foco sai de prazo/custo e vai para rentabilidade anual (TIR), mostrando que o retorno percentual do autoconsumo tende a superar aplicações financeiras tradicionais de baixo risco, com CTA de comentar, dando sequência ao ciclo de CTAs do pilar (diagnóstico, whatsapp, salvar, site, comentar)",
+      "dados_usados": [
+        "TIR estimada entre 15% e 30% ao ano para projetos de autoconsumo fotovoltaico bem dimensionados em média tensão Grupo A/CELESC-D (estimativa ilustrativa, sem garantia de rentabilidade)"
+      ]
     }
   ]
 }
