@@ -1,0 +1,13 @@
+Se você somar a potência de placa de todas as máquinas da fábrica, provavelmente vai contratar demanda a mais do que precisa — e pagar por isso todo mês. ⚡
+
+Numa indústria de plásticos por injeção genérica da região de Joinville/SC, o diagnóstico técnico da Amper encontrou um erro clássico de projeto elétrico: a demanda contratada tinha sido dimensionada somando a potência nominal de placa de cada injetora, sem considerar que elas não partem nem operam todas no pico ao mesmo tempo.
+
+Motor de injetora tem corrente de partida (inrush) várias vezes maior que a nominal, mas só por uma fração de segundo — e isso engana quem calcula demanda "no olho". A engenharia refez a conta pelo fator de demanda e diversidade real de operação da planta, cruzando isso com o dimensionamento do sistema fotovoltaico.
+
+Resultado: contrato de demanda até 15% a 25% mais enxuto* do que a soma nominal das placas indicava, sistema FV dimensionado para o consumo real, e payback do investimento dentro da faixa típica de 4 a 7 anos* para autoconsumo em média tensão Grupo A/CELESC-D.
+
+*Estimativa ilustrativa; o cenário real depende do estudo de viabilidade técnico específico de cada operação.
+
+Sua fábrica também tem motores de partida pesada (injetoras, compressores, prensas)? Salva esse post — na hora de revisar sua demanda contratada, ele vai ser útil 📌☀️
+
+#energiasolar #geracaodistribuida #fotovoltaica #santacatarina #grupoa #celescd #engenhariaeletrica #demandacontratada #industriaplastica #fatordedemanda #diagnosticotecnico #ampenergia

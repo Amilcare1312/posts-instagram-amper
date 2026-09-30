@@ -1,0 +1,71 @@
+<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0A2540"/>
+      <stop offset="100%" stop-color="#0D3054"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1080" height="1350" fill="url(#bg)"/>
+
+  <!-- Top bar -->
+  <text x="60" y="80" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="44" fill="#FFFFFF">AMPER ENERGIA</text>
+  <text x="60" y="118" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="20" letter-spacing="1" fill="#C9D6E3">SOLAR FV · BESS · EVSE · SANTA CATARINA</text>
+  <rect x="60" y="135" width="90" height="5" fill="#FF7A1A"/>
+
+  <!-- CASE REAL tag -->
+  <rect x="60" y="168" width="160" height="42" rx="6" fill="#FF7A1A"/>
+  <text x="140" y="196" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="22" fill="#0A2540" text-anchor="middle">CASO REAL</text>
+
+  <!-- Illustration: factory with gauge showing reduced demand -->
+  <g transform="translate(90,240)">
+    <!-- ground line -->
+    <line x1="0" y1="290" x2="440" y2="290" stroke="#3E6890" stroke-width="3"/>
+
+    <!-- factory building -->
+    <rect x="10" y="150" width="260" height="140" fill="#12395F" stroke="#C9D6E3" stroke-width="2"/>
+    <!-- roof zigzag (sawtooth factory roof) -->
+    <polyline points="10,150 60,110 60,150 120,110 120,150 180,110 180,150 240,110 270,150"
+      fill="#0F2E4E" stroke="#C9D6E3" stroke-width="2" stroke-linejoin="round"/>
+    <!-- chimney -->
+    <rect x="220" y="60" width="26" height="60" fill="#12395F" stroke="#C9D6E3" stroke-width="2"/>
+    <!-- windows -->
+    <rect x="35" y="190" width="40" height="40" fill="#3E6890"/>
+    <rect x="95" y="190" width="40" height="40" fill="#3E6890"/>
+    <rect x="155" y="190" width="40" height="40" fill="#FF7A1A"/>
+    <!-- door -->
+    <rect x="210" y="240" width="38" height="50" fill="#0A2540" stroke="#C9D6E3" stroke-width="2"/>
+
+    <!-- gauge / meter badge showing lower demand -->
+    <g transform="translate(345,110)">
+      <circle cx="0" cy="0" r="80" fill="#0F2E4E" stroke="#FF7A1A" stroke-width="4"/>
+      <path d="M -55 20 A 55 55 0 1 1 55 20" fill="none" stroke="#3E6890" stroke-width="10" stroke-linecap="round"/>
+      <path d="M -55 20 A 55 55 0 0 1 -10 -53" fill="none" stroke="#FF7A1A" stroke-width="10" stroke-linecap="round"/>
+      <!-- needle pointing to lower reading -->
+      <line x1="0" y1="0" x2="-32" y2="-38" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round"/>
+      <circle cx="0" cy="0" r="7" fill="#FFFFFF"/>
+      <text x="0" y="48" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="20" fill="#C9D6E3" text-anchor="middle">kW</text>
+    </g>
+  </g>
+
+  <!-- Headline -->
+  <text x="60" y="690" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="40" fill="#FFFFFF">DEMANDA CALCULADA</text>
+  <text x="60" y="738" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="40" fill="#FFFFFF">NO OLHO PODE CUSTAR</text>
+  <text x="60" y="815" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="70" fill="#FF7A1A">ATÉ 25% A MAIS</text>
+  <text x="60" y="865" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="34" fill="#FFFFFF">NA FATURA*</text>
+
+  <line x1="60" y1="900" x2="1020" y2="900" stroke="#3E6890" stroke-width="2"/>
+
+  <!-- Body -->
+  <text x="60" y="955" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#FFFFFF">Indústria de plásticos por injeção em SC:</text>
+  <text x="60" y="990" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#FFFFFF">demanda contratada estava somada pela</text>
+  <text x="60" y="1025" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#FFFFFF">placa das injetoras, não pelo uso real.</text>
+
+  <text x="60" y="1075" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="22" fill="#C9D6E3">*Estimativa ilustrativa. Depende do</text>
+  <text x="60" y="1106" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="22" fill="#C9D6E3">estudo de viabilidade técnico específico.</text>
+
+  <!-- Bottom CTA bar -->
+  <rect x="0" y="1200" width="1080" height="150" fill="#FF7A1A"/>
+  <text x="60" y="1265" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="42" fill="#0A2540">SALVA ESSE POST 📌</text>
+  <text x="60" y="1315" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#0A2540">@ampenergia</text>
+</svg>

@@ -799,6 +799,17 @@
       "dados_usados": [
         "TIR estimada entre 15% e 30% ao ano para projetos de autoconsumo fotovoltaico bem dimensionados em média tensão Grupo A/CELESC-D (estimativa ilustrativa, sem garantia de rentabilidade)"
       ]
+    },
+    {
+      "data": "2026-09-30",
+      "dia_semana": "quarta",
+      "pilar": "Caso de sucesso / prova social",
+      "tema": "Indústria de plásticos por injeção genérica na região de Joinville/SC, onde a demanda contratada havia sido dimensionada somando a potência nominal de placa das injetoras, e o diagnóstico técnico recalculou pelo fator de demanda/diversidade real da operação",
+      "angulo": "Diferente dos casos de 15/07 (metalúrgica + BESS), 22/07 (têxtil, curva de carga), 29/07 (cerâmica, fator de potência), 05/08 (laticínios, câmaras frias 24h), 12/08 (transportadora, integração FV+EVSE), 19/08 (centro de distribuição, quadro/aterramento desatualizado), 26/08 (moveleira, grau de proteção IP por poeira), 02/09 (tintas/vernizes, atmosfera explosiva), 09/09 (curtume, atmosfera corrosiva), 16/09 (bebidas, washdown IP66) e 23/09 (fundição, carga térmica/derating), aqui o foco é o cálculo da demanda contratada em si — corrente de partida (inrush) de motores de injetoras somada ingenuamente pela placa, em vez de pelo fator de demanda/diversidade real de operação —, reforçando que o diagnóstico técnico evita tanto sub quanto superdimensionamento do contrato de demanda antes mesmo de falar de painel solar, com CTA de salvar, retomando o ciclo de CTAs do pilar (comentar/whatsapp em 02/09, site em 09/09, diagnóstico em 16/09, whatsapp em 23/09).",
+      "dados_usados": [
+        "ajuste do fator de demanda real permitiu contrato de demanda até 15% a 25% mais enxuto do que a soma nominal das placas dos motores indicava (estimativa ilustrativa)",
+        "payback estimado de 4 a 7 anos para autoconsumo em média tensão Grupo A/CELESC-D (estimativa ilustrativa)"
+      ]
     }
   ]
 }
