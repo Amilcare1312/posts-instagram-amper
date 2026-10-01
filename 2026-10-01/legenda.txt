@@ -1,0 +1,13 @@
+O aterramento do seu sistema solar só foi medido uma vez — lá na instalação — e nunca mais? ⚡
+
+A resistência do aterramento não é fixa: o solo seca em períodos de estiagem, as hastes oxidam com o tempo, chuva e erosão podem deslocar a malha. Tudo isso muda — às vezes bastante — o valor que foi medido no dia da instalação.
+
+Mesmo com DPS instalado no quadro, se o aterramento não estiver dissipando corrente como deveria, uma descarga atmosférica ou uma falha elétrica tem mais chance de danificar inversores, string box e equipamentos — além do risco à segurança das pessoas na planta.
+
+Por isso a engenharia correta prevê, conforme NBR 5419/15749, a remedição periódica com terrômetro (método de queda de potencial)* — não só na entrega da obra, mas ao longo de toda a vida útil do sistema.
+
+*Periodicidade de referência: a cada 12-24 meses, ou após eventos de erosão/oxidação visível — intervalo pode variar conforme resistividade do solo e porte da instalação (estimativa ilustrativa, não é norma fechada).
+
+Quer saber se o aterramento da sua planta está dentro do esperado? No nosso site tem mais sobre como avaliamos isso 🔗
+
+#energiasolar #geracaodistribuida #fotovoltaica #santacatarina #grupoa #celescd #engenhariaeletrica #aterramento #spda #manutencaopreventiva #segurancaeletrica #ampenergia

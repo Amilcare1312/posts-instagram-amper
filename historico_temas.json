@@ -810,6 +810,16 @@
         "ajuste do fator de demanda real permitiu contrato de demanda até 15% a 25% mais enxuto do que a soma nominal das placas dos motores indicava (estimativa ilustrativa)",
         "payback estimado de 4 a 7 anos para autoconsumo em média tensão Grupo A/CELESC-D (estimativa ilustrativa)"
       ]
+    },
+    {
+      "data": "2026-10-01",
+      "dia_semana": "quinta",
+      "pilar": "Dica prática — economia, dimensionamento, cuidados com o sistema",
+      "tema": "Remedição periódica da resistência de aterramento do sistema fotovoltaico (hastes, malha de terra) ao longo da vida útil, não só na instalação",
+      "angulo": "Diferente das dicas já publicadas sobre monitoramento/limpeza (16/07), DPS/surtos (23/07), cabeamento CC/CA (30/07), fator DC/AC e clipping (06/08), tensão de string por temperatura (13/08), THD (20/08), azimute/tilt (27/08), sombreamento/hot spots (03/09), termografia de conexões (10/09), ventilação da sala técnica (17/09) e vedação/impermeabilização dos pontos de fixação (24/09), aqui o foco é a resistência de aterramento em si: solo que seca, hastes que oxidam e erosão que desloca a malha mudam o valor medido na instalação, exigindo remedição periódica (NBR 5419/15749, método de queda de potencial) para manter a proteção contra descargas atmosféricas e falhas elétricas mesmo com DPS instalado, com CTA de visitar o site para retomar o ciclo de CTAs do pilar (diagnóstico em 10/09, whatsapp em 17/09, comentar em 24/09).",
+      "dados_usados": [
+        "periodicidade de referência para remedição da resistência de aterramento: a cada 12 a 24 meses, ou após erosão/oxidação visível (estimativa ilustrativa, varia com resistividade do solo e porte da instalação)"
+      ]
     }
   ]
 }
