@@ -820,6 +820,16 @@
       "dados_usados": [
         "periodicidade de referência para remedição da resistência de aterramento: a cada 12 a 24 meses, ou após erosão/oxidação visível (estimativa ilustrativa, varia com resistividade do solo e porte da instalação)"
       ]
+    },
+    {
+      "data": "2026-10-02",
+      "dia_semana": "sexta",
+      "pilar": "Bastidores / equipe / processo de engenharia",
+      "tema": "Inspecao de recebimento de materiais em obra: conferencia fisica e documental de modulos e inversores (numero de serie, certificacao INMETRO, avarias de transporte) antes da instalacao",
+      "angulo": "Diferente dos bastidores de 17/07 (etapas gerais do processo), 24/07 (perfis tecnicos do time), 31/07 (testes de comissionamento), 07/08 (visita tecnica de campo), 14/08 (estudo de protecao/rele ANSI), 21/08 (homologacao pos-comissionamento CELESC-D), 28/08 (calculo estrutural NBR 6123), 04/09 (seguranca do trabalho NR-35/10), 11/09 (comissionamento eletrico pre-energizacao), 18/09 (simulacao computacional de geracao) e 25/09 (dossie tecnico final), aqui o foco e o controle de qualidade na chegada dos equipamentos em obra, antes de qualquer instalacao, com CTA de visitar o site para variar do CTA de salvar usado em 25/09",
+      "dados_usados": [
+        "entre 1% e 3% dos lotes recebidos apresentam alguma nao conformidade identificavel na inspecao de recebimento (estimativa ilustrativa)"
+      ]
     }
   ]
 }
