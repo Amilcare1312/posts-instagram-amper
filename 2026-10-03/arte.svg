@@ -1,0 +1,104 @@
+<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0A2540"/>
+      <stop offset="100%" stop-color="#0D3054"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1080" height="1350" fill="url(#bg)"/>
+
+  <!-- Top bar -->
+  <text x="60" y="80" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="44" fill="#FFFFFF">AMPER ENERGIA</text>
+  <text x="60" y="118" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="20" letter-spacing="1" fill="#C9D6E3">SOLAR FV · BESS · EVSE · SANTA CATARINA</text>
+  <rect x="60" y="135" width="90" height="5" fill="#FF7A1A"/>
+
+  <!-- PROPOSITO tag -->
+  <rect x="60" y="168" width="190" height="42" rx="6" fill="#FF7A1A"/>
+  <text x="155" y="196" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="22" fill="#0A2540" text-anchor="middle">PROPÓSITO</text>
+
+  <!-- Illustration: sun + solar array -> chain link -> thermal plant with reduced smoke -->
+  <g transform="translate(60,250)">
+    <!-- ground line -->
+    <line x1="0" y1="330" x2="960" y2="330" stroke="#3E6890" stroke-width="3"/>
+
+    <!-- sun -->
+    <g transform="translate(130,90)">
+      <circle cx="0" cy="0" r="52" fill="#FF7A1A"/>
+      <g stroke="#FF7A1A" stroke-width="6" stroke-linecap="round">
+        <line x1="0" y1="-78" x2="0" y2="-98"/>
+        <line x1="55" y1="-55" x2="69" y2="-69"/>
+        <line x1="78" y1="0" x2="98" y2="0"/>
+        <line x1="55" y1="55" x2="69" y2="69"/>
+        <line x1="-55" y1="55" x2="-69" y2="69"/>
+        <line x1="-78" y1="0" x2="-98" y2="0"/>
+        <line x1="-55" y1="-55" x2="-69" y2="-69"/>
+      </g>
+    </g>
+
+    <!-- solar panel array -->
+    <g transform="translate(30,200)">
+      <rect x="0" y="0" width="90" height="120" rx="3" fill="#12395F" stroke="#C9D6E3" stroke-width="2" transform="skewY(-8)"/>
+      <rect x="95" y="20" width="90" height="120" rx="3" fill="#12395F" stroke="#C9D6E3" stroke-width="2" transform="skewY(-8)"/>
+      <line x1="10" y1="-5" x2="10" y2="110" stroke="#3E6890" stroke-width="2" transform="skewY(-8)"/>
+      <line x1="40" y1="-5" x2="40" y2="110" stroke="#3E6890" stroke-width="2" transform="skewY(-8)"/>
+      <line x1="70" y1="-5" x2="70" y2="110" stroke="#3E6890" stroke-width="2" transform="skewY(-8)"/>
+    </g>
+
+    <!-- arrow from sun/panel toward grid -->
+    <g stroke="#FF7A1A" stroke-width="4" fill="none" stroke-linecap="round">
+      <path d="M 270 230 C 360 180, 420 180, 470 200" stroke-dasharray="10 10"/>
+      <path d="M 460 196 l 18 6 l -4 18" fill="none"/>
+    </g>
+
+    <!-- chain link symbolizing indirect systemic effect -->
+    <g transform="translate(510,170)">
+      <circle cx="0" cy="0" r="46" fill="none" stroke="#C9D6E3" stroke-width="7"/>
+      <circle cx="58" cy="0" r="46" fill="none" stroke="#C9D6E3" stroke-width="7"/>
+    </g>
+
+    <!-- arrow from chain to plant -->
+    <g stroke="#C9D6E3" stroke-width="4" fill="none" stroke-linecap="round">
+      <path d="M 610 185 C 660 200, 700 215, 740 225" stroke-dasharray="10 10"/>
+      <path d="M 728 215 l 18 8 l -10 17" fill="none"/>
+    </g>
+
+    <!-- thermal plant with reduced smoke -->
+    <g transform="translate(760,110)">
+      <rect x="0" y="140" width="150" height="90" fill="#12395F" stroke="#C9D6E3" stroke-width="2"/>
+      <rect x="35" y="30" width="26" height="110" fill="#12395F" stroke="#C9D6E3" stroke-width="2"/>
+      <rect x="90" y="60" width="26" height="80" fill="#12395F" stroke="#C9D6E3" stroke-width="2"/>
+      <!-- faint reduced smoke -->
+      <g fill="none" stroke="#C9D6E3" stroke-width="4" stroke-linecap="round" opacity="0.35">
+        <path d="M 48 25 C 40 10, 56 0, 48 -15"/>
+        <path d="M 103 55 C 95 40, 111 30, 103 15"/>
+      </g>
+      <!-- down arrow indicating reduction -->
+      <g transform="translate(70,-55)" stroke="#8FD19E" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <line x1="0" y1="0" x2="0" y2="42"/>
+        <path d="M -14 26 L 0 42 L 14 26"/>
+      </g>
+    </g>
+  </g>
+
+  <!-- Headline -->
+  <text x="60" y="690" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="40" fill="#FFFFFF">SEU SOLAR REDUZ CO2</text>
+  <text x="60" y="738" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="40" fill="#FFFFFF">MUITO ALÉM DO SEU</text>
+  <text x="60" y="815" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="70" fill="#FF7A1A">TELHADO</text>
+
+  <line x1="60" y1="855" x2="1020" y2="855" stroke="#3E6890" stroke-width="2"/>
+
+  <!-- Body -->
+  <text x="60" y="905" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#FFFFFF">Em horários de pico, cada ponto de geração</text>
+  <text x="60" y="940" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#FFFFFF">distribuída reduz o despacho de usinas</text>
+  <text x="60" y="975" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#FFFFFF">térmicas de reserva na matriz nacional.</text>
+
+  <text x="60" y="1030" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="22" fill="#C9D6E3">*Estimativa ilustrativa: térmicas de reserva</text>
+  <text x="60" y="1061" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="22" fill="#C9D6E3">podem responder por 5-15% da energia em</text>
+  <text x="60" y="1092" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="22" fill="#C9D6E3">dias de maior estresse na rede.</text>
+
+  <!-- Bottom CTA bar -->
+  <rect x="0" y="1200" width="1080" height="150" fill="#FF7A1A"/>
+  <text x="60" y="1265" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="42" fill="#0A2540">AGENDE UM DIAGNÓSTICO 🔗</text>
+  <text x="60" y="1315" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#0A2540">@ampenergia</text>
+</svg>

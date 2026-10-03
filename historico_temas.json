@@ -830,6 +830,14 @@
       "dados_usados": [
         "entre 1% e 3% dos lotes recebidos apresentam alguma nao conformidade identificavel na inspecao de recebimento (estimativa ilustrativa)"
       ]
+    },
+    {
+      "data": "2026-10-03",
+      "dia_semana": "Sábado",
+      "pilar": "Sustentabilidade / propósito",
+      "tema": "Efeito sistêmico indireto da geração distribuída na redução do despacho de usinas termelétricas de reserva em horários de pico",
+      "angulo": "Além do CO2 evitado diretamente no próprio sistema, a geração solar distribuída catarinense contribui indiretamente para reduzir o acionamento de usinas térmicas de reserva (diesel/gás) na matriz nacional em horários de pico, um efeito em cadeia que não aparece na fatura do cliente. CTA de agendar diagnóstico gratuito.",
+      "dados_numericos": "Estimativa ilustrativa: usinas térmicas de reserva podem responder por 5-15% da energia despachada no país em dias de maior estresse na rede (não é dado oficial, apenas referência de ordem de grandeza)."
     }
   ]
 }
