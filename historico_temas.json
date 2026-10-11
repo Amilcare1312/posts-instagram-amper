@@ -838,6 +838,16 @@
       "tema": "Efeito sistêmico indireto da geração distribuída na redução do despacho de usinas termelétricas de reserva em horários de pico",
       "angulo": "Além do CO2 evitado diretamente no próprio sistema, a geração solar distribuída catarinense contribui indiretamente para reduzir o acionamento de usinas térmicas de reserva (diesel/gás) na matriz nacional em horários de pico, um efeito em cadeia que não aparece na fatura do cliente. CTA de agendar diagnóstico gratuito.",
       "dados_numericos": "Estimativa ilustrativa: usinas térmicas de reserva podem responder por 5-15% da energia despachada no país em dias de maior estresse na rede (não é dado oficial, apenas referência de ordem de grandeza)."
+    },
+    {
+      "data": "2026-10-11",
+      "dia_semana": "domingo",
+      "pilar": "Institucional / CTA comercial",
+      "tema": "Revisão técnica cruzada — todo projeto passa por um segundo engenheiro sênior antes de ser entregue ao cliente",
+      "angulo": "Diferente dos institucionais de 12/07 (engenharia vs. \"vendedor de painéis\"), 19/07 (exclusividade Grupo A/CELESC-D), 26/07 (uma única equipe FV+BESS+EVSE), 02/08 (ART como garantia formal), 09/08 (especialização regional em SC), 16/08 (o que entra no diagnóstico técnico gratuito), 23/08 (acompanhamento pós-instalação), 30/08 (equipamentos Tier 1), 06/09 (atendimento chave-na-mão ponta a ponta), 13/09 (postura consultiva \"ainda não é a hora\"), 20/09 (capacidade limitada de diagnósticos/semana) e 27/09 (memorial técnico completo vs. proposta resumida), hoje o foco é o controle de qualidade interno: contraste entre empresas onde um único responsável técnico assina o projeto sozinho e o processo da Amper, em que um segundo engenheiro sênior revisa dimensionamento, proteção e cálculo estrutural antes de qualquer proposta sair para o cliente, com CTA de WhatsApp, retomando o ciclo de CTAs do pilar (diagnóstico em 20/09, site em 27/09).",
+      "dados_numericos": {
+        "ajustes_identificados_na_revisao_cruzada_pct": "10-20 (estimativa ilustrativa, parcela de projetos em que a revisão cruzada identifica algum ajuste técnico antes da entrega final)"
+      }
     }
   ]
 }

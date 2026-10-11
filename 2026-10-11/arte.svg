@@ -1,0 +1,90 @@
+<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0A2540"/>
+      <stop offset="100%" stop-color="#0D3054"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1080" height="1350" fill="url(#bg)"/>
+
+  <!-- Top bar -->
+  <text x="60" y="80" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="44" fill="#FFFFFF">AMPER ENERGIA</text>
+  <text x="60" y="118" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="20" letter-spacing="1" fill="#C9D6E3">SOLAR FV · BESS · EVSE · SANTA CATARINA</text>
+  <rect x="60" y="135" width="90" height="5" fill="#FF7A1A"/>
+
+  <!-- Illustration: technical drawing with two engineer seals doing cross-review -->
+  <g transform="translate(60,185)">
+    <!-- blueprint/document body -->
+    <rect x="0" y="0" width="960" height="330" rx="18" fill="#12395F" stroke="#3E6890" stroke-width="3"/>
+
+    <!-- blueprint grid lines -->
+    <g stroke="#3E6890" stroke-width="1.5">
+      <line x1="40" y1="40" x2="40" y2="290"/>
+      <line x1="120" y1="40" x2="120" y2="290"/>
+      <line x1="200" y1="40" x2="200" y2="290"/>
+      <line x1="280" y1="40" x2="280" y2="290"/>
+      <line x1="360" y1="40" x2="360" y2="290"/>
+      <line x1="40" y1="40" x2="400" y2="40"/>
+      <line x1="40" y1="120" x2="400" y2="120"/>
+      <line x1="40" y1="200" x2="400" y2="200"/>
+      <line x1="40" y1="280" x2="400" y2="280"/>
+    </g>
+    <!-- simple dimensioning marks over the blueprint -->
+    <line x1="40" y1="20" x2="360" y2="20" stroke="#C9D6E3" stroke-width="2"/>
+    <line x1="40" y1="14" x2="40" y2="26" stroke="#C9D6E3" stroke-width="2"/>
+    <line x1="360" y1="14" x2="360" y2="26" stroke="#C9D6E3" stroke-width="2"/>
+    <rect x="130" y="90" width="150" height="90" fill="none" stroke="#FF7A1A" stroke-width="3"/>
+
+    <!-- divider -->
+    <line x1="440" y1="30" x2="440" y2="300" stroke="#3E6890" stroke-width="2"/>
+
+    <!-- Engineer 1 seal (draft) -->
+    <g transform="translate(560,120)">
+      <circle cx="0" cy="0" r="50" fill="#0A2540" stroke="#3E6890" stroke-width="4"/>
+      <circle cx="0" cy="-16" r="18" fill="#C9D6E3"/>
+      <path d="M-34 24 Q0 -10 34 24 Z" fill="#C9D6E3"/>
+      <text x="0" y="82" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#C9D6E3" text-anchor="middle">PROJETO</text>
+    </g>
+
+    <!-- double arrow symbolizing cross-review -->
+    <g stroke="#FF7A1A" stroke-width="6" fill="none" stroke-linecap="round">
+      <line x1="630" y1="120" x2="740" y2="120"/>
+      <path d="M630 120 L650 106 M630 120 L650 134"/>
+      <path d="M740 120 L720 106 M740 120 L720 134"/>
+    </g>
+
+    <!-- Engineer 2 seal (review) -->
+    <g transform="translate(810,120)">
+      <circle cx="0" cy="0" r="50" fill="#0A2540" stroke="#FF7A1A" stroke-width="4"/>
+      <circle cx="0" cy="-16" r="18" fill="#C9D6E3"/>
+      <path d="M-34 24 Q0 -10 34 24 Z" fill="#C9D6E3"/>
+      <text x="0" y="82" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#C9D6E3" text-anchor="middle">REVISÃO</text>
+
+      <!-- checkmark badge on avatar corner -->
+      <circle cx="38" cy="-38" r="32" fill="#FF7A1A"/>
+      <path d="M22 -38 L34 -26 L56 -52" stroke="#0A2540" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+  </g>
+
+  <!-- Headline -->
+  <text x="60" y="610" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="48" fill="#FFFFFF">NENHUM PROJETO SAI</text>
+  <text x="60" y="672" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="48" fill="#FFFFFF">DA MESA DE UM</text>
+  <text x="60" y="734" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="48" fill="#FF7A1A">ENGENHEIRO SÓ</text>
+
+  <line x1="60" y1="772" x2="1020" y2="772" stroke="#3E6890" stroke-width="2"/>
+
+  <!-- Body -->
+  <text x="60" y="835" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#FFFFFF">Todo projeto passa por revisão técnica</text>
+  <text x="60" y="872" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#FFFFFF">cruzada: um segundo engenheiro sênior</text>
+  <text x="60" y="909" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#FFFFFF">confere o dimensionamento, a proteção</text>
+  <text x="60" y="946" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#FFFFFF">e o cálculo estrutural antes da entrega.</text>
+
+  <text x="60" y="1005" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="24" fill="#C9D6E3">Rigor que um projeto em média tensão</text>
+  <text x="60" y="1040" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="24" fill="#C9D6E3">Grupo A / CELESC-D exige desde o cálculo.</text>
+
+  <!-- Bottom CTA bar -->
+  <rect x="0" y="1200" width="1080" height="150" fill="#FF7A1A"/>
+  <text x="60" y="1265" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="42" fill="#0A2540">CHAME NO WHATSAPP 💬</text>
+  <text x="60" y="1315" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#0A2540">@ampenergia</text>
+</svg>
