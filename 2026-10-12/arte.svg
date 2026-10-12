@@ -1,0 +1,69 @@
+<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0A2540"/>
+      <stop offset="100%" stop-color="#0D3054"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1080" height="1350" fill="url(#bg)"/>
+
+  <!-- Top bar -->
+  <text x="60" y="80" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="44" fill="#FFFFFF">AMPER ENERGIA</text>
+  <text x="60" y="118" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="20" letter-spacing="1" fill="#C9D6E3">SOLAR FV · BESS · EVSE · SANTA CATARINA</text>
+  <rect x="60" y="135" width="90" height="5" fill="#FF7A1A"/>
+
+  <!-- Illustration: crossed-out roof (myth) next to ground-mount solar array (truth) -->
+  <g transform="translate(70,185)">
+    <!-- crossed-out roof/house -->
+    <g transform="translate(0,20)">
+      <path d="M10 140 L10 80 L130 10 L250 80 L250 140 Z" fill="#12395F" stroke="#C9D6E3" stroke-width="4"/>
+      <rect x="40" y="90" width="60" height="50" fill="#0A2540" stroke="#C9D6E3" stroke-width="3"/>
+      <line x1="-15" y1="5" x2="275" y2="175" stroke="#C9D6E3" stroke-width="9" stroke-linecap="round" opacity="0.9"/>
+    </g>
+
+    <!-- plus sign -->
+    <g transform="translate(290,90)">
+      <line x1="0" y1="20" x2="40" y2="20" stroke="#FF7A1A" stroke-width="8" stroke-linecap="round"/>
+      <line x1="20" y1="0" x2="20" y2="40" stroke="#FF7A1A" stroke-width="8" stroke-linecap="round"/>
+    </g>
+
+    <!-- ground-mount solar array with checkmark badge -->
+    <g transform="translate(360,30)">
+      <!-- stands -->
+      <line x1="40" y1="150" x2="55" y2="210" stroke="#C9D6E3" stroke-width="7"/>
+      <line x1="230" y1="150" x2="215" y2="210" stroke="#C9D6E3" stroke-width="7"/>
+      <line x1="135" y1="150" x2="135" y2="210" stroke="#C9D6E3" stroke-width="7"/>
+      <!-- tilted panel bank -->
+      <g transform="rotate(-8 135 90)">
+        <rect x="20" y="40" width="230" height="110" rx="6" fill="#0A2540" stroke="#FF7A1A" stroke-width="5"/>
+        <line x1="20" y1="76" x2="250" y2="76" stroke="#C9D6E3" stroke-width="2"/>
+        <line x1="20" y1="112" x2="250" y2="112" stroke="#C9D6E3" stroke-width="2"/>
+        <line x1="97" y1="40" x2="97" y2="150" stroke="#C9D6E3" stroke-width="2"/>
+        <line x1="174" y1="40" x2="174" y2="150" stroke="#C9D6E3" stroke-width="2"/>
+      </g>
+      <circle cx="265" cy="210" r="42" fill="#FF7A1A"/>
+      <path d="M245 210 L260 225 L288 192" stroke="#0A2540" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+  </g>
+
+  <!-- Headline -->
+  <text x="60" y="700" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="50" fill="#FFFFFF">SEM TELHADO</text>
+  <text x="60" y="762" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="50" fill="#FFFFFF">NÃO É SEM</text>
+  <text x="60" y="824" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="50" fill="#FF7A1A">SOLUÇÃO SOLAR.</text>
+
+  <line x1="60" y1="862" x2="1020" y2="862" stroke="#3E6890" stroke-width="2"/>
+
+  <!-- Body -->
+  <text x="60" y="925" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#FFFFFF">Sistema em solo, carport solar ou</text>
+  <text x="60" y="962" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#FFFFFF">estrutura metálica dedicada são</text>
+  <text x="60" y="999" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#FFFFFF">soluções reais de engenharia.</text>
+
+  <text x="60" y="1055" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="24" fill="#C9D6E3">Cada caso depende de diagnóstico</text>
+  <text x="60" y="1090" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="24" fill="#C9D6E3">técnico antes da proposta fechada.</text>
+
+  <!-- Bottom CTA bar -->
+  <rect x="0" y="1200" width="1080" height="150" fill="#FF7A1A"/>
+  <text x="60" y="1265" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="42" fill="#0A2540">CHAMA NO WHATSAPP 💬</text>
+  <text x="60" y="1315" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#0A2540">@ampenergia</text>
+</svg>

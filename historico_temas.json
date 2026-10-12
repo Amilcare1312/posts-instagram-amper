@@ -848,6 +848,14 @@
       "dados_numericos": {
         "ajustes_identificados_na_revisao_cruzada_pct": "10-20 (estimativa ilustrativa, parcela de projetos em que a revisão cruzada identifica algum ajuste técnico antes da entrega final)"
       }
+    },
+    {
+      "data": "2026-10-12",
+      "dia_semana": "segunda",
+      "pilar": "Educativo — mito vs. verdade sobre energia solar",
+      "tema": "Mito de que empresas sem telhado adequado (estrutura fraca, área insuficiente, nave alugada) não podem ter energia solar",
+      "angulo": "Diferente dos mitos já publicados em 13/07 (tarifa binômia Grupo A), 20/07 (quanto maior o sistema maior a economia), 27/07 (clima nublado de SC), 03/08 (fatura zera com FV), 10/08 (painel alimenta em tempo real), 17/08 (dimensionamento resolvido pra sempre), 24/08 (excedente vira dinheiro na conta), 31/08 (FV mantém funcionamento em blecaute), 07/09 (painéis envelhecem mal), 14/09 (instala e esquece por 25 anos), 21/09 (FV corrige fator de potência sozinho) e 28/09 (FV aumenta risco de incêndio), hoje o foco é a crença de que a falta de telhado grande/resistente inviabiliza o projeto, apresentando solo, carport solar e estrutura metálica dedicada como alternativas reais de engenharia, com CTA de WhatsApp (variando dos últimos 4 CTAs do pilar: salvar em 07/09, site em 14/09, diagnóstico em 21/09, comentar em 28/09).",
+      "dados_usados": []
     }
   ]
 }
