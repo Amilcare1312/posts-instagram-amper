@@ -856,6 +856,18 @@
       "tema": "Mito de que empresas sem telhado adequado (estrutura fraca, área insuficiente, nave alugada) não podem ter energia solar",
       "angulo": "Diferente dos mitos já publicados em 13/07 (tarifa binômia Grupo A), 20/07 (quanto maior o sistema maior a economia), 27/07 (clima nublado de SC), 03/08 (fatura zera com FV), 10/08 (painel alimenta em tempo real), 17/08 (dimensionamento resolvido pra sempre), 24/08 (excedente vira dinheiro na conta), 31/08 (FV mantém funcionamento em blecaute), 07/09 (painéis envelhecem mal), 14/09 (instala e esquece por 25 anos), 21/09 (FV corrige fator de potência sozinho) e 28/09 (FV aumenta risco de incêndio), hoje o foco é a crença de que a falta de telhado grande/resistente inviabiliza o projeto, apresentando solo, carport solar e estrutura metálica dedicada como alternativas reais de engenharia, com CTA de WhatsApp (variando dos últimos 4 CTAs do pilar: salvar em 07/09, site em 14/09, diagnóstico em 21/09, comentar em 28/09).",
       "dados_usados": []
+    },
+    {
+      "data": "2026-10-13",
+      "dia_semana": "terca",
+      "pilar": "Dado/número de impacto — economia, geração distribuída, tarifa CELESC-D",
+      "tema": "Degradação real e garantia de performance dos módulos fotovoltaicos ao longo de 25 anos",
+      "angulo": "Diferente dos dados de 14/07 (economia % e R$ na fatura), 21/07 (payback de usinas PPA), 28/07 (efeito composto do reajuste tarifário), 04/08 (payback + vida útil), 11/08 (peso da demanda contratada + BESS), 18/08 (crescimento da GD em SC), 25/08 (prazo protocolo → paralelismo), 01/09 (m² de telhado por kWp), 08/09 (cronograma do Fio B), 15/09 (geração kWh/kWp/mês), 22/09 (investimento R$/kWp) e 29/09 (TIR), hoje o foco é a curva real de degradação do módulo fotovoltaico — quanto da potência nominal ele ainda entrega ao longo da vida útil — reforçando que especificação de equipamento Tier 1 e garantia de performance entram direto na conta do payback, não são detalhe de ficha técnica. CTA de agendar diagnóstico gratuito, retomando o ciclo de CTAs do pilar (whatsapp em 08/09, salvar em 15/09, site em 22/09, comentar em 29/09, diagnóstico hoje).",
+      "dados_numericos": {
+        "capacidade_ano_1_percentual": "97-98 (estimativa ilustrativa, curva típica de garantia Tier 1)",
+        "degradacao_anual_percentual": "0.4-0.6 (estimativa ilustrativa, varia por fabricante)",
+        "capacidade_ano_25_percentual": "84-87 (estimativa ilustrativa, varia por fabricante e condição de instalação)"
+      }
     }
   ]
 }
