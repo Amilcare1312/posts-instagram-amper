@@ -868,6 +868,16 @@
         "degradacao_anual_percentual": "0.4-0.6 (estimativa ilustrativa, varia por fabricante)",
         "capacidade_ano_25_percentual": "84-87 (estimativa ilustrativa, varia por fabricante e condição de instalação)"
       }
+    },
+    {
+      "data": "2026-10-14",
+      "dia_semana": "quarta",
+      "pilar": "Caso de sucesso / prova social",
+      "tema": "Frigorífico genérico no Oeste catarinense onde compressores de amônia com inversores de frequência (VFDs) nas câmaras de resfriamento geravam distorção harmônica na rede interna, exigindo medição de qualidade de energia (THD) no diagnóstico antes do dimensionamento do sistema FV",
+      "angulo": "Ângulo de qualidade de energia/harmônicos inédito nos últimos 30 dias do pilar (que trouxeram grau de proteção IP66 contra washdown em 16/09, derating térmico por proximidade de fornos em 23/09, e erro de demanda contratada por soma de potência de placa em 30/09); novo setor genérico (frigorífico/processamento de proteína no Oeste de SC) ainda não usado nos exemplos anteriores (metalúrgica, têxtil, cerâmica, laticínios, transportadora, centro de distribuição, moveleira, tintas e vernizes, curtume, bebidas, fundição, plásticos por injeção). CTA de comentar, retomando o ciclo de CTAs do pilar (whatsapp em 23/09, salvar em 30/09).",
+      "dados_numericos": {
+        "payback_autoconsumo_anos": "4-7 (estimativa ilustrativa, faixa típica para autoconsumo em média tensão Grupo A/CELESC-D)"
+      }
     }
   ]
 }

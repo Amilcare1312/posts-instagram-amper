@@ -1,0 +1,72 @@
+<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0A2540"/>
+      <stop offset="100%" stop-color="#0D3054"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1080" height="1350" fill="url(#bg)"/>
+
+  <!-- Top bar -->
+  <text x="60" y="80" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="44" fill="#FFFFFF">AMPER ENERGIA</text>
+  <text x="60" y="118" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="20" letter-spacing="1" fill="#C9D6E3">SOLAR FV · BESS · EVSE · SANTA CATARINA</text>
+  <rect x="60" y="135" width="90" height="5" fill="#FF7A1A"/>
+
+  <!-- Illustration: panel box with distorted waveform (harmonics) vs clean sine -->
+  <g transform="translate(60,185)">
+    <rect x="0" y="0" width="960" height="330" rx="18" fill="#12395F" stroke="#3E6890" stroke-width="3"/>
+
+    <!-- clean sine wave label -->
+    <text x="40" y="55" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#C9D6E3">REDE LIMPA</text>
+    <path d="M40 110 C 90 50, 150 50, 200 110 C 250 170, 310 170, 360 110" fill="none" stroke="#4C7AA6" stroke-width="5" stroke-linecap="round"/>
+
+    <!-- distorted wave label -->
+    <text x="40" y="190" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#FF7A1A">COM HARMÔNICOS (VFD)</text>
+    <path d="M40 245 C 60 210, 80 275, 100 230 C 120 190, 140 270, 160 235 C 190 190, 210 280, 240 225 C 265 195, 290 270, 320 235 C 340 205, 360 260, 380 230" fill="none" stroke="#FF7A1A" stroke-width="5" stroke-linecap="round"/>
+
+    <!-- divider -->
+    <line x1="440" y1="30" x2="440" y2="300" stroke="#3E6890" stroke-width="2"/>
+
+    <!-- compressor / refrigeration unit icon -->
+    <g transform="translate(560,70)">
+      <rect x="0" y="0" width="220" height="190" rx="12" fill="#0A2540" stroke="#C9D6E3" stroke-width="3"/>
+      <!-- snowflake icon representing cold chamber -->
+      <g transform="translate(110,95)" stroke="#C9D6E3" stroke-width="5" stroke-linecap="round">
+        <line x1="0" y1="-55" x2="0" y2="55"/>
+        <line x1="-48" y1="-27" x2="48" y2="27"/>
+        <line x1="-48" y1="27" x2="48" y2="-27"/>
+        <line x1="0" y1="-55" x2="-14" y2="-38"/>
+        <line x1="0" y1="-55" x2="14" y2="-38"/>
+        <line x1="0" y1="55" x2="-14" y2="38"/>
+        <line x1="0" y1="55" x2="14" y2="38"/>
+      </g>
+      <text x="110" y="175" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#C9D6E3" text-anchor="middle">CÂMARA FRIA</text>
+
+      <!-- warning badge -->
+      <circle cx="195" cy="15" r="28" fill="#FF7A1A"/>
+      <text x="195" y="25" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="30" fill="#0A2540" text-anchor="middle">!</text>
+    </g>
+  </g>
+
+  <!-- Headline -->
+  <text x="60" y="610" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="48" fill="#FFFFFF">O COMPRESSOR</text>
+  <text x="60" y="672" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="48" fill="#FF7A1A">PODE SABOTAR</text>
+  <text x="60" y="734" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="48" fill="#FFFFFF">SEU INVERSOR</text>
+
+  <line x1="60" y1="772" x2="1020" y2="772" stroke="#3E6890" stroke-width="2"/>
+
+  <!-- Body -->
+  <text x="60" y="835" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#FFFFFF">Num frigorífico genérico do Oeste</text>
+  <text x="60" y="872" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#FFFFFF">catarinense, os VFDs dos compressores</text>
+  <text x="60" y="909" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#FFFFFF">de amônia injetavam harmônicos na rede</text>
+  <text x="60" y="946" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#FFFFFF">antes mesmo do projeto solar chegar.</text>
+
+  <text x="60" y="1005" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="24" fill="#C9D6E3">Medir qualidade de energia (THD) entrou</text>
+  <text x="60" y="1040" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="24" fill="#C9D6E3">no diagnóstico antes de qualquer proposta.</text>
+
+  <!-- Bottom CTA bar -->
+  <rect x="0" y="1200" width="1080" height="150" fill="#FF7A1A"/>
+  <text x="60" y="1265" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="38" fill="#0A2540">COMENTA AQUI EMBAIXO 💬</text>
+  <text x="60" y="1315" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#0A2540">@ampenergia</text>
+</svg>

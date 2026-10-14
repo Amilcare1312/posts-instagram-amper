@@ -1,0 +1,15 @@
+O maior risco pro seu inversor solar pode estar dentro do próprio quadro elétrico, não no telhado. ⚡
+
+Num frigorífico genérico do Oeste catarinense, o diagnóstico técnico da Amper encontrou um detalhe que nenhuma planta de telhado mostra: os compressores de amônia das câmaras de resfriamento usam inversores de frequência (VFDs), que injetam harmônicos na rede elétrica interna da fábrica.
+
+Sem medir a qualidade de energia (THD) antes do projeto, o inversor solar pode operar fora da faixa ideal, disparar proteção sem motivo aparente ou perder vida útil mais rápido do que o esperado.
+
+A engenharia incluiu a medição de harmônicos no escopo do diagnóstico antes de qualquer proposta fechada, e o projeto final previu ponto de conexão e proteções dimensionados para essa realidade de qualidade de energia.
+
+Resultado: sistema estável mesmo com a carga industrial pesada ligada, com payback do investimento dentro da faixa típica de 4 a 7 anos* para autoconsumo em média tensão Grupo A/CELESC-D.
+
+*Estimativa ilustrativa; o cenário real depende do estudo de viabilidade técnico específico de cada operação.
+
+Sua indústria tem compressores, câmaras frias ou motores com inversor de frequência? Comenta aqui embaixo se isso te deixou com alguma dúvida sobre o seu projeto 💬
+
+#energiasolar #geracaodistribuida #fotovoltaica #santacatarina #grupoa #celescd #engenhariaeletrica #qualidadedeenergia #harmonicos #frigorifico #diagnosticotecnico #ampenergia
