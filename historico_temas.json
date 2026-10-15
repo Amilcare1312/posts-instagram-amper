@@ -878,6 +878,17 @@
       "dados_numericos": {
         "payback_autoconsumo_anos": "4-7 (estimativa ilustrativa, faixa típica para autoconsumo em média tensão Grupo A/CELESC-D)"
       }
+    },
+    {
+      "data": "2026-10-15",
+      "dia_semana": "quinta",
+      "pilar": "Dica prática — economia, dimensionamento, cuidados com o sistema",
+      "tema": "Degradação anual garantida dos módulos fotovoltaicos e seu efeito no cálculo de geração e payback",
+      "angulo": "Diferente das dicas técnicas de perda física já publicadas (monitoramento/limpeza, DPS/surtos, cabeamento CC/CA, fator DC/AC/clipping, tensão de string por temperatura, THD, azimute/tilt, sombreamento/hot spots, termografia de conexões, ventilação da sala técnica, vedação/impermeabilização, remedição de aterramento), aqui o foco é o dimensionamento financeiro: mostrar que ignorar a curva de degradação garantida do módulo no cálculo de geração/payback deixa o retorno projetado otimista demais nos anos 15-25, reforçando que a engenharia desconta a degradação ano a ano no fluxo de caixa, com CTA de salvar, retomando o ciclo de CTAs do pilar (diagnóstico em 10/09, whatsapp em 17/09, comentar em 24/09, site em 01/10)",
+      "dados_usados": [
+        "degradação linear garantida típica entre 0,4% e 0,6% ao ano (estimativa ilustrativa)",
+        "perda acumulada estimada entre 10% e 15% ao longo de 25 anos (estimativa ilustrativa)"
+      ]
     }
   ]
 }

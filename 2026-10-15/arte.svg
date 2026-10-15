@@ -1,0 +1,63 @@
+<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0A2540"/>
+      <stop offset="100%" stop-color="#0D3054"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1080" height="1350" fill="url(#bg)"/>
+
+  <!-- Top bar -->
+  <text x="60" y="80" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="44" fill="#FFFFFF">AMPER ENERGIA</text>
+  <text x="60" y="118" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="20" letter-spacing="1" fill="#C9D6E3">SOLAR FV · BESS · EVSE · SANTA CATARINA</text>
+  <rect x="60" y="135" width="90" height="5" fill="#FF7A1A"/>
+
+  <!-- Illustration: declining generation curve over 25 years -->
+  <g transform="translate(60,185)">
+    <rect x="0" y="0" width="960" height="330" rx="18" fill="#12395F" stroke="#3E6890" stroke-width="3"/>
+
+    <text x="40" y="50" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#C9D6E3">GERAÇÃO DO SISTEMA AO LONGO DO TEMPO</text>
+
+    <!-- axes -->
+    <line x1="80" y1="270" x2="880" y2="270" stroke="#3E6890" stroke-width="2"/>
+    <line x1="80" y1="80" x2="80" y2="270" stroke="#3E6890" stroke-width="2"/>
+
+    <!-- declining curve -->
+    <path d="M80 100 C 300 112, 560 150, 880 190" fill="none" stroke="#FF7A1A" stroke-width="6" stroke-linecap="round"/>
+
+    <!-- markers -->
+    <circle cx="80" cy="100" r="9" fill="#FFFFFF"/>
+    <circle cx="470" cy="135" r="9" fill="#FFFFFF"/>
+    <circle cx="880" cy="190" r="9" fill="#FFFFFF"/>
+
+    <text x="80" y="80" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="24" fill="#FFFFFF" text-anchor="middle">100%</text>
+    <text x="470" y="115" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="24" fill="#C9D6E3" text-anchor="middle">~95%</text>
+    <text x="880" y="170" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="24" fill="#FF7A1A" text-anchor="middle">~85-90%</text>
+
+    <text x="80" y="300" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#C9D6E3" text-anchor="middle">ANO 1</text>
+    <text x="470" y="300" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#C9D6E3" text-anchor="middle">ANO 10</text>
+    <text x="880" y="300" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#C9D6E3" text-anchor="middle">ANO 25</text>
+  </g>
+
+  <!-- Headline -->
+  <text x="60" y="610" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="46" fill="#FFFFFF">SEU PAYBACK</text>
+  <text x="60" y="672" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="46" fill="#FF7A1A">CONSIDEROU A</text>
+  <text x="60" y="734" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="46" fill="#FFFFFF">DEGRADAÇÃO?</text>
+
+  <line x1="60" y1="772" x2="1020" y2="772" stroke="#3E6890" stroke-width="2"/>
+
+  <!-- Body -->
+  <text x="60" y="835" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#FFFFFF">Todo módulo perde potência com o</text>
+  <text x="60" y="872" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#FFFFFF">tempo. Se o projeto calcula a geração</text>
+  <text x="60" y="909" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#FFFFFF">só pela potência do ano 1, o retorno</text>
+  <text x="60" y="946" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#FFFFFF">financeiro prometido fica otimista demais.</text>
+
+  <text x="60" y="1005" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="24" fill="#C9D6E3">Degradação garantida típica: 0,4% a 0,6%/ano*</text>
+  <text x="60" y="1040" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="24" fill="#C9D6E3">*estimativa ilustrativa, varia por módulo/condição</text>
+
+  <!-- Bottom CTA bar -->
+  <rect x="0" y="1200" width="1080" height="150" fill="#FF7A1A"/>
+  <text x="60" y="1265" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="38" fill="#0A2540">SALVA ESSE POST 📌</text>
+  <text x="60" y="1315" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#0A2540">@ampenergia</text>
+</svg>
