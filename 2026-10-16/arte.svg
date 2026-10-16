@@ -1,0 +1,82 @@
+<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0A2540"/>
+      <stop offset="100%" stop-color="#0D3054"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1080" height="1350" fill="url(#bg)"/>
+
+  <!-- Top bar -->
+  <text x="60" y="80" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="44" fill="#FFFFFF">AMPER ENERGIA</text>
+  <text x="60" y="118" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="20" letter-spacing="1" fill="#C9D6E3">SOLAR FV · BESS · EVSE · SANTA CATARINA</text>
+  <rect x="60" y="135" width="90" height="5" fill="#FF7A1A"/>
+
+  <!-- BASTIDORES tag -->
+  <rect x="60" y="168" width="190" height="42" rx="6" fill="#FF7A1A"/>
+  <text x="155" y="196" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="22" fill="#0A2540" text-anchor="middle">BASTIDORES</text>
+
+  <!-- Illustration: blueprint sheet vs real roof structure, engineer adjusting -->
+  <g transform="translate(90,245)">
+    <!-- ground line -->
+    <line x1="0" y1="300" x2="440" y2="300" stroke="#3E6890" stroke-width="3"/>
+
+    <!-- Blueprint sheet (left, planned) -->
+    <g transform="translate(10,40)">
+      <rect x="0" y="0" width="190" height="240" rx="6" fill="#0F2E4E" stroke="#C9D6E3" stroke-width="2"/>
+      <text x="95" y="30" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="16" fill="#C9D6E3">PROJETO</text>
+      <line x1="20" y1="55" x2="170" y2="55" stroke="#3E6890" stroke-width="2"/>
+      <line x1="20" y1="90" x2="170" y2="90" stroke="#3E6890" stroke-width="2"/>
+      <line x1="20" y1="90" x2="20" y2="180" stroke="#3E6890" stroke-width="2"/>
+      <line x1="170" y1="90" x2="170" y2="180" stroke="#3E6890" stroke-width="2"/>
+      <line x1="20" y1="180" x2="170" y2="180" stroke="#3E6890" stroke-width="2"/>
+      <line x1="60" y1="90" x2="60" y2="180" stroke="#3E6890" stroke-width="2"/>
+      <line x1="110" y1="90" x2="110" y2="180" stroke="#3E6890" stroke-width="2"/>
+      <circle cx="95" cy="210" r="14" fill="none" stroke="#FF7A1A" stroke-width="3"/>
+      <line x1="85" y1="210" x2="105" y2="210" stroke="#FF7A1A" stroke-width="3"/>
+      <line x1="95" y1="200" x2="95" y2="220" stroke="#FF7A1A" stroke-width="3"/>
+    </g>
+
+    <!-- Arrow -->
+    <g transform="translate(205,150)">
+      <line x1="0" y1="0" x2="55" y2="0" stroke="#FF7A1A" stroke-width="5"/>
+      <polygon points="55,-10 75,0 55,10" fill="#FF7A1A"/>
+    </g>
+
+    <!-- Real roof structure (right, with beam offset) -->
+    <g transform="translate(290,40)">
+      <rect x="0" y="0" width="150" height="240" rx="6" fill="#FFFFFF"/>
+      <text x="75" y="30" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="16" fill="#0A2540">OBRA</text>
+      <!-- roof beams -->
+      <line x1="15" y1="60" x2="135" y2="60" stroke="#0A2540" stroke-width="4"/>
+      <line x1="15" y1="110" x2="135" y2="110" stroke="#0A2540" stroke-width="4"/>
+      <line x1="15" y1="160" x2="135" y2="160" stroke="#FF7A1A" stroke-width="6"/>
+      <line x1="15" y1="200" x2="135" y2="200" stroke="#0A2540" stroke-width="4"/>
+      <!-- offset marker -->
+      <circle cx="75" cy="160" r="16" fill="none" stroke="#FF7A1A" stroke-width="3"/>
+      <text x="75" y="178" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="22" fill="#FF7A1A">?</text>
+    </g>
+  </g>
+
+  <!-- Headline -->
+  <text x="60" y="690" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="40" fill="#FFFFFF">QUANDO A OBRA</text>
+  <text x="60" y="738" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="40" fill="#FFFFFF">NÃO BATE COM O</text>
+  <text x="60" y="815" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="70" fill="#FF7A1A">PROJETO</text>
+
+  <line x1="60" y1="855" x2="1020" y2="855" stroke="#3E6890" stroke-width="2"/>
+
+  <!-- Body -->
+  <text x="60" y="905" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#FFFFFF">O ajuste de campo sobe para o</text>
+  <text x="60" y="940" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#FFFFFF">engenheiro responsável antes de</text>
+  <text x="60" y="975" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#FFFFFF">qualquer parafuso ser apertado.</text>
+
+  <text x="60" y="1030" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="22" fill="#C9D6E3">*Estimativa ilustrativa: 10-20% dos</text>
+  <text x="60" y="1061" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="22" fill="#C9D6E3">projetos passam por algum ajuste</text>
+  <text x="60" y="1092" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="22" fill="#C9D6E3">de engenharia validado em campo.</text>
+
+  <!-- Bottom CTA bar -->
+  <rect x="0" y="1200" width="1080" height="150" fill="#FF7A1A"/>
+  <text x="60" y="1265" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="42" fill="#0A2540">CHAMA NO WHATSAPP 💬</text>
+  <text x="60" y="1315" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#0A2540">@ampenergia</text>
+</svg>

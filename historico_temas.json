@@ -889,6 +889,16 @@
         "degradação linear garantida típica entre 0,4% e 0,6% ao ano (estimativa ilustrativa)",
         "perda acumulada estimada entre 10% e 15% ao longo de 25 anos (estimativa ilustrativa)"
       ]
+    },
+    {
+      "data": "2026-10-16",
+      "dia_semana": "sexta",
+      "pilar": "Bastidores / equipe / processo de engenharia",
+      "tema": "Compatibilização de projeto em campo: ajustes de engenharia feitos quando a estrutura real da obra (vigas, laje, rota de eletrodutos) diverge do projeto executivo desenhado em escritório",
+      "angulo": "Diferente dos bastidores de 17/07 (etapas gerais do processo), 24/07 (perfis técnicos do time), 31/07 (testes de comissionamento), 07/08 (visita técnica de campo), 14/08 (estudo de proteção/relé ANSI), 21/08 (homologação pós-comissionamento CELESC-D), 28/08 (cálculo estrutural NBR 6123), 04/09 (segurança do trabalho NR-35/10), 11/09 (comissionamento elétrico pré-energização), 18/09 (simulação computacional de geração), 25/09 (dossiê técnico final) e 02/10 (inspeção de recebimento de materiais), aqui o foco é o momento em que a obra real diverge do projeto executivo — viga, laje ou rota de eletroduto diferente do levantado em campo — e o ajuste sobe para o engenheiro responsável antes de seguir a instalação, reforçando que toda alteração é validada e entra no as-built final, com CTA de chamar no WhatsApp para variar dos últimos CTAs do pilar (comentar em 11/09, diagnóstico em 18/09, salvar em 25/09, site em 02/10).",
+      "dados_usados": [
+        "estimativa ilustrativa: 10-20% dos projetos passam por algum ajuste de engenharia validado em campo"
+      ]
     }
   ]
 }
