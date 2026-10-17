@@ -899,6 +899,16 @@
       "dados_usados": [
         "estimativa ilustrativa: 10-20% dos projetos passam por algum ajuste de engenharia validado em campo"
       ]
+    },
+    {
+      "data": "2026-10-17",
+      "dia_semana": "sabado",
+      "pilar": "Sustentabilidade / propósito",
+      "tema": "Substituição parcial de geradores a diesel de contingência por sistemas FV + BESS em indústrias de SC, reduzindo poluição local (material particulado, NOx, ruído) além do CO2",
+      "angulo": "Contrastar a poluição local do gerador a diesel de reserva (ar, ruído, dentro do próprio pátio) com a energia solar armazenada em bateria assumindo parte da função de contingência, ampliando o conceito de sustentabilidade para além do CO2 global, com CTA de visitar o site",
+      "dados_usados": [
+        "redução estimada de 30% a 60% nas horas/ano de acionamento do gerador a diesel de contingência ao combinar FV com BESS como reforço de reserva (estimativa ilustrativa)"
+      ]
     }
   ]
 }
