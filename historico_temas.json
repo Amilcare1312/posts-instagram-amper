@@ -909,6 +909,16 @@
       "dados_usados": [
         "redução estimada de 30% a 60% nas horas/ano de acionamento do gerador a diesel de contingência ao combinar FV com BESS como reforço de reserva (estimativa ilustrativa)"
       ]
+    },
+    {
+      "data": "2026-10-18",
+      "dia_semana": "domingo",
+      "pilar": "Institucional / CTA comercial",
+      "tema": "Diversidade de segmentos industriais já diagnosticados pela Amper Energia em Santa Catarina, cada um com sua particularidade técnica própria",
+      "angulo": "Diferente dos institucionais de 12/07 (engenharia vs. \"vendedor de painéis\"), 19/07 (exclusividade Grupo A/CELESC-D), 26/07 (uma única equipe FV+BESS+EVSE), 02/08 (ART como garantia formal), 09/08 (especialização regional em SC), 16/08 (o que entra no diagnóstico técnico gratuito), 23/08 (acompanhamento pós-instalação), 30/08 (equipamentos Tier 1), 06/09 (atendimento chave-na-mão ponta a ponta), 13/09 (postura consultiva \"ainda não é a hora\"), 20/09 (capacidade limitada de diagnósticos/semana), 27/09 (memorial técnico completo vs. proposta resumida) e 11/10 (revisão técnica cruzada por segundo engenheiro sênior), hoje o foco é a diversidade de segmentos industriais já atendidos (frigorífico, curtume, fundição, têxtil, moveleira, cerâmica, laticínios, entre outros, referenciados nos casos de sucesso recentes), reforçando que o diagnóstico técnico da Amper se adapta a cada particularidade elétrica/ambiental do negócio em vez de aplicar um projeto padrão, com CTA de comentar, reiniciando o ciclo de rotação de CTAs do pilar (diagnóstico em 20/09, site em 27/09, whatsapp em 11/10).",
+      "dados_numericos": {
+        "segmentos_industriais_diagnosticados": "mais de 10 (estimativa ilustrativa, com base no histórico de projetos/casos de sucesso já publicados)"
+      }
     }
   ]
 }
