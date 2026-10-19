@@ -919,6 +919,14 @@
       "dados_numericos": {
         "segmentos_industriais_diagnosticados": "mais de 10 (estimativa ilustrativa, com base no histórico de projetos/casos de sucesso já publicados)"
       }
+    },
+    {
+      "data": "2026-10-19",
+      "dia_semana": "segunda",
+      "pilar": "Educativo — mito vs. verdade sobre energia solar",
+      "tema": "Mito de que instalar energia solar exige parar a produção/operação da indústria por dias ou semanas",
+      "angulo": "Diferente dos mitos dos últimos 30 dias (fator de potência/energia reativa em 21/09, risco de incêndio elétrico em 28/09, telhado inadequado em 12/10), hoje o foco é o impacto operacional da obra: desmistificar a ideia de que a instalação para a linha de produção, explicando que a montagem roda em paralelo com a operação e só as conexões no quadro geral exigem desligamentos pontuais e coordenados, definidos no projeto executivo, com CTA de salvar, reiniciando o ciclo de rotação de CTAs do pilar (site em 14/09, diagnóstico em 21/09, comentar em 28/09, whatsapp em 12/10).",
+      "dados_numericos": {}
     }
   ]
 }
