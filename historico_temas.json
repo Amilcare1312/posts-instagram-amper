@@ -927,6 +927,18 @@
       "tema": "Mito de que instalar energia solar exige parar a produção/operação da indústria por dias ou semanas",
       "angulo": "Diferente dos mitos dos últimos 30 dias (fator de potência/energia reativa em 21/09, risco de incêndio elétrico em 28/09, telhado inadequado em 12/10), hoje o foco é o impacto operacional da obra: desmistificar a ideia de que a instalação para a linha de produção, explicando que a montagem roda em paralelo com a operação e só as conexões no quadro geral exigem desligamentos pontuais e coordenados, definidos no projeto executivo, com CTA de salvar, reiniciando o ciclo de rotação de CTAs do pilar (site em 14/09, diagnóstico em 21/09, comentar em 28/09, whatsapp em 12/10).",
       "dados_numericos": {}
+    },
+    {
+      "data": "2026-10-20",
+      "dia_semana": "terca",
+      "pilar": "Dado/número de impacto — economia, geração distribuída, tarifa CELESC-D",
+      "tema": "Custo de adiar a decisão de investir em energia solar por 12 meses, cruzando o cronograma crescente do Fio B (REN ANEEL 1000/2021) com o reajuste tarifário anual do Grupo A/CELESC-D",
+      "angulo": "Diferente dos dados de 14/07 (economia % e R$ na fatura), 21/07 (payback de usinas PPA), 28/07 (efeito composto do reajuste tarifário), 04/08 (payback + vida útil), 11/08 (peso da demanda contratada + BESS), 18/08 (crescimento da GD em SC), 25/08 (prazo protocolo → paralelismo), 01/09 (m² de telhado por kWp), 08/09 (cronograma do Fio B em si), 15/09 (geração kWh/kWp/mês), 22/09 (investimento R$/kWp), 29/09 (TIR) e 13/10 (degradação/garantia de performance 25 anos), hoje o foco é um novo ângulo de urgência: quanto custa especificamente adiar a decisão por mais 1 ano, usando o salto concreto do Fio B não compensável de 60% (2026) para 75% (2027) somado ao reajuste tarifário anual, com CTA de WhatsApp, retomando o ciclo de rotação do pilar (salvar em 15/09, site em 22/09, comentar em 29/09, diagnóstico em 13/10).",
+      "dados_numericos": {
+        "fio_b_nao_compensavel_2026_pct": "60 (cronograma oficial REN ANEEL 1000/2021)",
+        "fio_b_nao_compensavel_2027_pct": "75 (cronograma oficial REN ANEEL 1000/2021)",
+        "reducao_estimada_retorno_por_adiar_1_ano_pct": "5-10 (estimativa ilustrativa, varia conforme perfil de consumo e modalidade tarifária)"
+      }
     }
   ]
 }
