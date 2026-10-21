@@ -939,6 +939,14 @@
         "fio_b_nao_compensavel_2027_pct": "75 (cronograma oficial REN ANEEL 1000/2021)",
         "reducao_estimada_retorno_por_adiar_1_ano_pct": "5-10 (estimativa ilustrativa, varia conforme perfil de consumo e modalidade tarifária)"
       }
+    },
+    {
+      "data": "2026-10-21",
+      "dia_semana": "quarta",
+      "pilar": "Caso de sucesso / prova social",
+      "tema": "Indústria de embalagens de papelão genérica no Norte de SC onde picos de demanda por partida simultânea de prensas e coladeiras ultrapassavam o limite contratado, e o BESS integrado ao sistema FV foi dimensionado para peak shaving, descarregando nesses picos para evitar a multa por ultrapassagem",
+      "angulo": "Resultado pós-instalação do BESS (peak shaving evitando multa por ultrapassagem de demanda), rompendo com a estrutura repetida das últimas semanas do pilar de \"diagnóstico técnico identificou X antes do dimensionamento do FV\" (IP66 em 16/09, derating térmico em 23/09, erro de demanda por soma de placa em 30/09, harmônicos/THD em 14/10); novo setor genérico (embalagens de papelão) ainda não usado nos exemplos anteriores do pilar. CTA de visitar o site, retomando o ciclo de CTAs (whatsapp em 23/09, salvar em 30/09, comentar em 14/10).",
+      "dados_numericos": "Redução estimada (ilustrativa) de 20-35% no valor pago em multas por ultrapassagem de demanda contratada com uso de BESS para peak shaving"
     }
   ]
 }

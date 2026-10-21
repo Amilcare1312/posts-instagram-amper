@@ -1,0 +1,13 @@
+A multa por ultrapassagem de demanda pode custar mais caro do que o problema que ela deveria evitar. ⚡
+
+Numa indústria de embalagens de papelão genérica no Norte de SC, o consumo médio mensal estava dentro do contratado — mas toda vez que as prensas e coladeiras partiam quase juntas, a demanda disparava por alguns minutos e ultrapassava o limite contratado com a CELESC-D.
+
+O erro não estava no dimensionamento do contrato, e sim nesses picos pontuais de partida. A engenharia da Amper dimensionou o BESS integrado ao sistema FV para atuar como "amortecedor": a bateria descarrega exatamente nesses momentos de pico, achatando a curva antes que ela estoure o limite contratado.
+
+Resultado: redução estimada de 20-35%* no valor pago em multas por ultrapassagem de demanda, com a operação industrial seguindo sem sobressaltos.
+
+*Estimativa ilustrativa; o resultado real depende da curva de carga e do estudo de viabilidade específico de cada operação.
+
+Sua indústria também tem equipamentos com partida pesada e simultânea? Entra no nosso site e veja como o BESS pode entrar na sua operação 🔗
+
+#energiasolar #geracaodistribuida #fotovoltaica #santacatarina #bess #armazenamentodeenergia #demandacontratada #grupoa #celescd #engenhariaeletrica #peakshaving #ampenergia
