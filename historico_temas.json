@@ -947,6 +947,18 @@
       "tema": "Indústria de embalagens de papelão genérica no Norte de SC onde picos de demanda por partida simultânea de prensas e coladeiras ultrapassavam o limite contratado, e o BESS integrado ao sistema FV foi dimensionado para peak shaving, descarregando nesses picos para evitar a multa por ultrapassagem",
       "angulo": "Resultado pós-instalação do BESS (peak shaving evitando multa por ultrapassagem de demanda), rompendo com a estrutura repetida das últimas semanas do pilar de \"diagnóstico técnico identificou X antes do dimensionamento do FV\" (IP66 em 16/09, derating térmico em 23/09, erro de demanda por soma de placa em 30/09, harmônicos/THD em 14/10); novo setor genérico (embalagens de papelão) ainda não usado nos exemplos anteriores do pilar. CTA de visitar o site, retomando o ciclo de CTAs (whatsapp em 23/09, salvar em 30/09, comentar em 14/10).",
       "dados_numericos": "Redução estimada (ilustrativa) de 20-35% no valor pago em multas por ultrapassagem de demanda contratada com uso de BESS para peak shaving"
+    },
+    {
+      "data": "2026-10-22",
+      "dia_semana": "quinta",
+      "pilar": "Dica prática — economia, dimensionamento, cuidados com o sistema",
+      "tema": "Vida útil do inversor (10-15 anos) sendo significativamente menor que a dos módulos fotovoltaicos (25 anos), e a necessidade de prever a troca no fluxo de caixa do projeto",
+      "angulo": "Diferente das dicas técnicas já publicadas (monitoramento/limpeza em 16/07, DPS/surtos em 23/07, cabeamento CC/CA em 30/07, fator DC/AC/clipping em 06/08, tensão de string por temperatura em 13/08, THD em 20/08, azimute/tilt em 27/08, sombreamento/hot spots em 03/09, termografia de conexões em 10/09, ventilação da sala técnica em 17/09, vedação/impermeabilização em 24/09, remedição de aterramento em 01/10 e degradação dos módulos no payback em 15/10), hoje o foco é o descompasso entre a vida útil do inversor (equipamento eletrônico, 10-15 anos) e a dos módulos (25 anos), mostrando que o custo de pelo menos uma troca de inversor dentro do período de retorno precisa ser previsto desde o memorial técnico, e não aparecer como surpresa no meio do payback, com CTA de agendar diagnóstico gratuito, retomando o ciclo de rotação de CTAs do pilar (whatsapp em 17/09, comentar em 24/09, site em 01/10, salvar em 15/10).",
+      "dados_numericos": {
+        "vida_util_modulo_anos": "25 (garantia de performance padrão de mercado)",
+        "vida_util_inversor_anos": "10-15 (estimativa ilustrativa, varia por fabricante e condição de operação)",
+        "custo_troca_inversor_pct_investimento_inicial": "8-15 (estimativa ilustrativa)"
+      }
     }
   ]
 }

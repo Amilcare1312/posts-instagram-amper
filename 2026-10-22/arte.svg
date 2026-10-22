@@ -1,0 +1,63 @@
+<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0A2540"/>
+      <stop offset="100%" stop-color="#0D3054"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1080" height="1350" fill="url(#bg)"/>
+
+  <!-- Top bar -->
+  <text x="60" y="80" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="44" fill="#FFFFFF">AMPER ENERGIA</text>
+  <text x="60" y="118" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="20" letter-spacing="1" fill="#C9D6E3">SOLAR FV · BESS · EVSE · SANTA CATARINA</text>
+  <rect x="60" y="135" width="90" height="5" fill="#FF7A1A"/>
+
+  <!-- Illustration: two parallel timelines, module (25y) vs inverter (10-15y, replaced once) -->
+  <g transform="translate(60,185)">
+    <rect x="0" y="0" width="960" height="330" rx="18" fill="#12395F" stroke="#3E6890" stroke-width="3"/>
+
+    <text x="40" y="45" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#C9D6E3">VIDA ÚTIL DOS EQUIPAMENTOS</text>
+
+    <!-- module timeline -->
+    <text x="40" y="100" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#FFFFFF">MÓDULO FV</text>
+    <rect x="200" y="82" width="700" height="26" rx="13" fill="#FF7A1A"/>
+    <text x="920" y="100" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#C9D6E3" text-anchor="end">25 anos</text>
+
+    <!-- inverter timeline: two segments with a replacement marker -->
+    <text x="40" y="175" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#FFFFFF">INVERSOR</text>
+    <rect x="200" y="157" width="320" height="26" rx="13" fill="#4C9EF5"/>
+    <rect x="535" y="157" width="365" height="26" rx="13" fill="#4C9EF5"/>
+
+    <!-- replacement marker -->
+    <g transform="translate(521,120)">
+      <line x1="0" y1="18" x2="0" y2="78" stroke="#C9507A" stroke-width="3" stroke-dasharray="6,6"/>
+      <circle cx="0" cy="12" r="12" fill="#C9507A"/>
+      <text x="0" y="17" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#FFFFFF" text-anchor="middle">⟲</text>
+    </g>
+    <text x="521" y="222" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#C9507A" text-anchor="middle">troca prevista</text>
+    <text x="40" y="255" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#C9D6E3">~10-15 anos cada ciclo*</text>
+
+    <text x="40" y="305" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#7FA8CC">*Estimativa ilustrativa; varia por fabricante e condição de operação</text>
+  </g>
+
+  <!-- Headline -->
+  <text x="60" y="610" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="48" fill="#FFFFFF">O MÓDULO DURA</text>
+  <text x="60" y="672" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="48" fill="#FF7A1A">25 ANOS.</text>
+  <text x="60" y="734" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="48" fill="#FFFFFF">E O INVERSOR?</text>
+
+  <line x1="60" y1="772" x2="1020" y2="772" stroke="#3E6890" stroke-width="2"/>
+
+  <!-- Body -->
+  <text x="60" y="835" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#FFFFFF">O inversor é eletrônico e envelhece</text>
+  <text x="60" y="872" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#FFFFFF">mais rápido que o módulo: vida útil</text>
+  <text x="60" y="909" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#FFFFFF">média de 10-15 anos.</text>
+
+  <text x="60" y="968" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="24" fill="#C9D6E3">Esse custo de troca precisa estar no</text>
+  <text x="60" y="1003" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="24" fill="#C9D6E3">fluxo de caixa do projeto, não ser surpresa.</text>
+
+  <!-- Bottom CTA bar -->
+  <rect x="0" y="1200" width="1080" height="150" fill="#FF7A1A"/>
+  <text x="60" y="1265" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="38" fill="#0A2540">AGENDE UM DIAGNÓSTICO 🔗</text>
+  <text x="60" y="1315" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#0A2540">@ampenergia</text>
+</svg>
