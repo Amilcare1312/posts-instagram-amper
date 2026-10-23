@@ -959,6 +959,14 @@
         "vida_util_inversor_anos": "10-15 (estimativa ilustrativa, varia por fabricante e condição de operação)",
         "custo_troca_inversor_pct_investimento_inicial": "8-15 (estimativa ilustrativa)"
       }
+    },
+    {
+      "data": "2026-10-23",
+      "dia_semana": "sexta",
+      "pilar": "Bastidores / equipe / processo de engenharia",
+      "tema": "Monitoramento regulatório contínuo da equipe de engenharia (ANEEL, CELESC-D, NBR, NR) para manter os memoriais técnicos sempre atualizados com a regra vigente",
+      "angulo": "Diferente dos bastidores de 17/07 (etapas gerais do processo), 24/07 (perfis técnicos do time), 31/07 (testes de comissionamento), 07/08 (visita técnica de campo), 14/08 (estudo de proteção/relé ANSI), 21/08 (homologação pós-comissionamento CELESC-D), 28/08 (cálculo estrutural NBR 6123), 04/09 (segurança do trabalho NR-35/10), 11/09 (comissionamento elétrico pré-energização), 18/09 (simulação computacional de geração), 25/09 (dossiê técnico final), 02/10 (inspeção de recebimento de materiais) e 16/10 (compatibilização de projeto em campo), aqui o foco sai da execução da obra e vai para o acompanhamento contínuo de resoluções da ANEEL (cronograma do Fio B), procedimentos da CELESC-D e normas técnicas (NBR, NR), reforçando que cada memorial técnico é revisado proativamente quando a regra muda, em vez de o cliente descobrir a desatualização depois. CTA de comentar, retomando o ciclo de rotação de CTAs do pilar (salvar em 25/09, site em 02/10, whatsapp em 16/10).",
+      "dados_numericos": []
     }
   ]
 }
