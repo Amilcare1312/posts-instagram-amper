@@ -967,6 +967,14 @@
       "tema": "Monitoramento regulatório contínuo da equipe de engenharia (ANEEL, CELESC-D, NBR, NR) para manter os memoriais técnicos sempre atualizados com a regra vigente",
       "angulo": "Diferente dos bastidores de 17/07 (etapas gerais do processo), 24/07 (perfis técnicos do time), 31/07 (testes de comissionamento), 07/08 (visita técnica de campo), 14/08 (estudo de proteção/relé ANSI), 21/08 (homologação pós-comissionamento CELESC-D), 28/08 (cálculo estrutural NBR 6123), 04/09 (segurança do trabalho NR-35/10), 11/09 (comissionamento elétrico pré-energização), 18/09 (simulação computacional de geração), 25/09 (dossiê técnico final), 02/10 (inspeção de recebimento de materiais) e 16/10 (compatibilização de projeto em campo), aqui o foco sai da execução da obra e vai para o acompanhamento contínuo de resoluções da ANEEL (cronograma do Fio B), procedimentos da CELESC-D e normas técnicas (NBR, NR), reforçando que cada memorial técnico é revisado proativamente quando a regra muda, em vez de o cliente descobrir a desatualização depois. CTA de comentar, retomando o ciclo de rotação de CTAs do pilar (salvar em 25/09, site em 02/10, whatsapp em 16/10).",
       "dados_numericos": []
+    },
+    {
+      "data": "2026-10-24",
+      "dia_semana": "sabado",
+      "pilar": "Sustentabilidade / propósito",
+      "tema": "Carbon payback do sistema FV e impacto de perdas de geração não identificadas",
+      "angulo": "Diferente do efeito sistêmico sobre despacho termelétrico (03/10) e da substituição de geradores a diesel por FV+BESS (17/10), hoje o foco é o \"carbon payback\" do próprio sistema: todo módulo tem uma pegada de carbono de fabricação que só é compensada após anos de geração, e perdas silenciosas (sujeira, sombreamento não identificado, falha de string) por falta de monitoramento/manutenção atrasam esse retorno ambiental já contabilizado, mesmo com o sistema aparentemente \"funcionando\". CTA de comentar, variando do diagnóstico (03/10) e site (17/10) usados nas últimas semanas do pilar.",
+      "dados_numericos": "Estimativa ilustrativa de perdas de geração anual de 3% a 8% por falta de monitoramento/manutenção (faixa conservadora, varia por caso)."
     }
   ]
 }

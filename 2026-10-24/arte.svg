@@ -1,0 +1,92 @@
+<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0A2540"/>
+      <stop offset="100%" stop-color="#0D3054"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1080" height="1350" fill="url(#bg)"/>
+
+  <!-- Top bar -->
+  <text x="60" y="80" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="44" fill="#FFFFFF">AMPER ENERGIA</text>
+  <text x="60" y="118" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="20" letter-spacing="1" fill="#C9D6E3">SOLAR FV · BESS · EVSE · SANTA CATARINA</text>
+  <rect x="60" y="135" width="90" height="5" fill="#FF7A1A"/>
+
+  <!-- SUSTENTABILIDADE tag -->
+  <rect x="60" y="168" width="330" height="42" rx="6" fill="#FF7A1A"/>
+  <text x="225" y="196" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="22" fill="#0A2540" text-anchor="middle">SUSTENTABILIDADE</text>
+
+  <!-- Illustration: dusty/shaded panel (dim, losing output) -> arrow -> monitoring dashboard (lit up, checked) -->
+  <g transform="translate(90,245)">
+    <!-- ground line -->
+    <line x1="0" y1="300" x2="440" y2="300" stroke="#3E6890" stroke-width="3"/>
+
+    <!-- Dusty/shaded solar panel (left, dim) -->
+    <g transform="translate(0,90)" opacity="0.6">
+      <rect x="0" y="0" width="170" height="120" rx="6" fill="#0F2E4E" stroke="#5A7591" stroke-width="2"/>
+      <line x1="0" y1="30" x2="170" y2="30" stroke="#5A7591" stroke-width="1.5"/>
+      <line x1="0" y1="60" x2="170" y2="60" stroke="#5A7591" stroke-width="1.5"/>
+      <line x1="0" y1="90" x2="170" y2="90" stroke="#5A7591" stroke-width="1.5"/>
+      <line x1="56" y1="0" x2="56" y2="120" stroke="#5A7591" stroke-width="1.5"/>
+      <line x1="113" y1="0" x2="113" y2="120" stroke="#5A7591" stroke-width="1.5"/>
+      <!-- dust/shadow patches -->
+      <circle cx="40" cy="45" r="22" fill="#5A7591" opacity="0.7"/>
+      <circle cx="90" cy="80" r="26" fill="#5A7591" opacity="0.7"/>
+      <circle cx="135" cy="35" r="16" fill="#5A7591" opacity="0.7"/>
+      <!-- support legs -->
+      <line x1="30" y1="120" x2="15" y2="170" stroke="#5A7591" stroke-width="5"/>
+      <line x1="140" y1="120" x2="155" y2="170" stroke="#5A7591" stroke-width="5"/>
+      <text x="85" y="192" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="16" fill="#C9D6E3">SEM MONITORAMENTO</text>
+    </g>
+
+    <!-- Arrow -->
+    <g transform="translate(200,180)">
+      <line x1="0" y1="0" x2="55" y2="0" stroke="#FF7A1A" stroke-width="5"/>
+      <polygon points="55,-10 75,0 55,10" fill="#FF7A1A"/>
+    </g>
+
+    <!-- Monitoring dashboard (right, lit up) -->
+    <g transform="translate(300,55)">
+      <!-- sun -->
+      <circle cx="65" cy="-15" r="18" fill="#FF7A1A"/>
+      <line x1="65" y1="-42" x2="65" y2="-54" stroke="#FF7A1A" stroke-width="4"/>
+      <line x1="88" y1="-32" x2="97" y2="-41" stroke="#FF7A1A" stroke-width="4"/>
+      <line x1="42" y1="-32" x2="33" y2="-41" stroke="#FF7A1A" stroke-width="4"/>
+      <!-- dashboard panel -->
+      <rect x="0" y="15" width="150" height="110" rx="8" fill="#FFFFFF"/>
+      <!-- performance gauge arc -->
+      <path d="M 25 95 A 50 50 0 0 1 125 95" stroke="#0A2540" stroke-width="10" fill="none"/>
+      <path d="M 25 95 A 50 50 0 0 1 108 55" stroke="#FF7A1A" stroke-width="10" fill="none"/>
+      <circle cx="75" cy="95" r="6" fill="#0A2540"/>
+      <line x1="75" y1="95" x2="100" y2="65" stroke="#0A2540" stroke-width="4"/>
+      <!-- magnifying glass over panel -->
+      <circle cx="130" cy="30" r="20" fill="none" stroke="#FF7A1A" stroke-width="6"/>
+      <line x1="144" y1="44" x2="158" y2="58" stroke="#FF7A1A" stroke-width="7" stroke-linecap="round"/>
+      <path d="M 120 30 L 130 20 L 140 30" stroke="#0A2540" stroke-width="3" fill="none"/>
+      <text x="75" y="155" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="16" fill="#C9D6E3">COM MONITORAMENTO</text>
+    </g>
+  </g>
+
+  <!-- Headline -->
+  <text x="60" y="700" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="38" fill="#FFFFFF">ENERGIA LIMPA</text>
+  <text x="60" y="748" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="38" fill="#FFFFFF">SE PERDE EM</text>
+  <text x="60" y="825" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="70" fill="#FF7A1A">SILÊNCIO</text>
+
+  <line x1="60" y1="865" x2="1020" y2="865" stroke="#3E6890" stroke-width="2"/>
+
+  <!-- Body -->
+  <text x="60" y="915" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#FFFFFF">Sujeira, sombra ou falha de</text>
+  <text x="60" y="950" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#FFFFFF">string reduzem a geração sem</text>
+  <text x="60" y="985" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#FFFFFF">avisar — e atrasam o retorno</text>
+  <text x="60" y="1020" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#FFFFFF">ambiental já contabilizado.</text>
+
+  <text x="60" y="1070" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="22" fill="#C9D6E3">*Estimativa ilustrativa: perdas de 3-8%</text>
+  <text x="60" y="1101" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="22" fill="#C9D6E3">na geração anual por falta de</text>
+  <text x="60" y="1132" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="22" fill="#C9D6E3">monitoramento/manutenção (varia por caso).</text>
+
+  <!-- Bottom CTA bar -->
+  <rect x="0" y="1200" width="1080" height="150" fill="#FF7A1A"/>
+  <text x="60" y="1265" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="42" fill="#0A2540">COMENTA AQUI 👇</text>
+  <text x="60" y="1315" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#0A2540">@ampenergia</text>
+</svg>
