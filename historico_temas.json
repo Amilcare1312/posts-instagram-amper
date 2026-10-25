@@ -975,6 +975,14 @@
       "tema": "Carbon payback do sistema FV e impacto de perdas de geração não identificadas",
       "angulo": "Diferente do efeito sistêmico sobre despacho termelétrico (03/10) e da substituição de geradores a diesel por FV+BESS (17/10), hoje o foco é o \"carbon payback\" do próprio sistema: todo módulo tem uma pegada de carbono de fabricação que só é compensada após anos de geração, e perdas silenciosas (sujeira, sombreamento não identificado, falha de string) por falta de monitoramento/manutenção atrasam esse retorno ambiental já contabilizado, mesmo com o sistema aparentemente \"funcionando\". CTA de comentar, variando do diagnóstico (03/10) e site (17/10) usados nas últimas semanas do pilar.",
       "dados_numericos": "Estimativa ilustrativa de perdas de geração anual de 3% a 8% por falta de monitoramento/manutenção (faixa conservadora, varia por caso)."
+    },
+    {
+      "data": "2026-10-25",
+      "dia_semana": "domingo",
+      "pilar": "Institucional / CTA comercial",
+      "tema": "Segunda opinião técnica — revisão de projetos/propostas de FV/BESS já comprados em outras empresas antes da assinatura",
+      "angulo": "Diferente dos institucionais de 12/07 (engenharia vs. \"vendedor de painéis\"), 19/07 (exclusividade Grupo A/CELESC-D), 26/07 (uma única equipe FV+BESS+EVSE), 02/08 (ART como garantia formal), 09/08 (especialização regional em SC), 16/08 (o que entra no diagnóstico técnico gratuito), 23/08 (acompanhamento pós-instalação), 30/08 (equipamentos Tier 1), 06/09 (atendimento chave-na-mão ponta a ponta), 13/09 (postura consultiva \"ainda não é a hora\"), 20/09 (capacidade limitada de diagnósticos/semana), 27/09 (memorial técnico completo vs. proposta resumida), 11/10 (revisão técnica cruzada por segundo engenheiro sênior) e 18/10 (diversidade de segmentos atendidos), hoje o foco é o serviço de segunda opinião técnica: a Amper revisa projetos/propostas de FV/BESS já comprados em outras empresas e frequentemente encontra pontos de dimensionamento a ajustar (inversor subdimensionado, sombreamento não considerado, retorno financeiro sem posto tarifário da CELESC-D), reforçando que proposta comercial não substitui memorial de engenharia revisado. CTA de salvar, reiniciando o ciclo de rotação de CTAs do pilar (diagnóstico em 20/09, site em 27/09, whatsapp em 11/10, comentar em 18/10).",
+      "dados_numericos": "Estimativa ilustrativa e informal (não é levantamento estatístico formal): uma faixa significativa dos projetos revisados antes da assinatura apresenta algum ponto de dimensionamento a ajustar."
     }
   ]
 }

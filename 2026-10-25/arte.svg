@@ -1,0 +1,115 @@
+<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0A2540"/>
+      <stop offset="100%" stop-color="#0D3054"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1080" height="1350" fill="url(#bg)"/>
+
+  <!-- Top bar -->
+  <text x="60" y="80" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="44" fill="#FFFFFF">AMPER ENERGIA</text>
+  <text x="60" y="118" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="20" letter-spacing="1" fill="#C9D6E3">SOLAR FV · BESS · EVSE · SANTA CATARINA</text>
+  <rect x="60" y="135" width="90" height="5" fill="#FF7A1A"/>
+
+  <!-- INSTITUCIONAL tag -->
+  <rect x="60" y="168" width="300" height="42" rx="6" fill="#FF7A1A"/>
+  <text x="210" y="196" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="22" fill="#0A2540" text-anchor="middle">INSTITUCIONAL</text>
+
+  <!-- Illustration: third-party proposal (dim, flagged issue) -> arrow -> Amper technical review (magnifying glass + checklist) -->
+  <g transform="translate(90,245)">
+    <!-- ground line -->
+    <line x1="0" y1="300" x2="440" y2="300" stroke="#3E6890" stroke-width="3"/>
+
+    <!-- Third-party proposal document (left, dim) -->
+    <g transform="translate(5,70)" opacity="0.65">
+      <rect x="0" y="0" width="170" height="210" rx="8" fill="#0F2E4E" stroke="#5A7591" stroke-width="2"/>
+      <!-- folded corner -->
+      <path d="M 140 0 L 170 0 L 170 30 Z" fill="#17416B"/>
+      <!-- title bar -->
+      <rect x="18" y="22" width="110" height="12" fill="#C9D6E3"/>
+      <!-- text lines -->
+      <rect x="18" y="50" width="134" height="6" fill="#5A7591"/>
+      <rect x="18" y="68" width="120" height="6" fill="#5A7591"/>
+      <!-- flagged line: dimensioning error, unnoticed -->
+      <rect x="18" y="92" width="100" height="8" fill="#B64A1F"/>
+      <rect x="18" y="114" width="130" height="6" fill="#5A7591"/>
+      <rect x="18" y="132" width="110" height="6" fill="#5A7591"/>
+      <rect x="18" y="150" width="125" height="6" fill="#5A7591"/>
+      <!-- signature line -->
+      <line x1="18" y1="182" x2="100" y2="182" stroke="#5A7591" stroke-width="2"/>
+      <text x="18" y="202" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#5A7591">ASSINATURA</text>
+      <text x="85" y="232" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="15" fill="#C9D6E3">PROPOSTA DE</text>
+      <text x="85" y="255" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="15" fill="#C9D6E3">TERCEIRO</text>
+    </g>
+
+    <!-- Arrow -->
+    <g transform="translate(200,170)">
+      <line x1="0" y1="0" x2="55" y2="0" stroke="#FF7A1A" stroke-width="5"/>
+      <polygon points="55,-10 75,0 55,10" fill="#FF7A1A"/>
+    </g>
+
+    <!-- Technical review by Amper (right): checklist + magnifying glass flagging the issue -->
+    <g transform="translate(300,45)">
+      <!-- sun -->
+      <circle cx="65" cy="-15" r="18" fill="#FF7A1A"/>
+      <line x1="65" y1="-42" x2="65" y2="-54" stroke="#FF7A1A" stroke-width="4"/>
+      <line x1="88" y1="-32" x2="97" y2="-41" stroke="#FF7A1A" stroke-width="4"/>
+      <line x1="42" y1="-32" x2="33" y2="-41" stroke="#FF7A1A" stroke-width="4"/>
+
+      <!-- clipboard / checklist -->
+      <rect x="0" y="25" width="150" height="150" rx="8" fill="#FFFFFF"/>
+      <rect x="55" y="15" width="40" height="16" rx="4" fill="#C9D6E3"/>
+      <!-- checklist rows with check marks -->
+      <g font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0A2540">
+        <circle cx="22" cy="55" r="7" fill="none" stroke="#2E7D4F" stroke-width="3"/>
+        <path d="M 18 55 L 21 58 L 27 51" stroke="#2E7D4F" stroke-width="2.5" fill="none"/>
+        <rect x="36" y="51" width="95" height="7" fill="#C9D6E3"/>
+
+        <circle cx="22" cy="82" r="7" fill="none" stroke="#2E7D4F" stroke-width="3"/>
+        <path d="M 18 82 L 21 85 L 27 78" stroke="#2E7D4F" stroke-width="2.5" fill="none"/>
+        <rect x="36" y="78" width="80" height="7" fill="#C9D6E3"/>
+
+        <!-- flagged item -->
+        <circle cx="22" cy="109" r="7" fill="none" stroke="#FF7A1A" stroke-width="3"/>
+        <line x1="19" y1="106" x2="25" y2="112" stroke="#FF7A1A" stroke-width="2.5"/>
+        <line x1="25" y1="106" x2="19" y2="112" stroke="#FF7A1A" stroke-width="2.5"/>
+        <rect x="36" y="105" width="90" height="7" fill="#FF7A1A"/>
+
+        <circle cx="22" cy="136" r="7" fill="none" stroke="#2E7D4F" stroke-width="3"/>
+        <path d="M 18 136 L 21 139 L 27 132" stroke="#2E7D4F" stroke-width="2.5" fill="none"/>
+        <rect x="36" y="132" width="70" height="7" fill="#C9D6E3"/>
+      </g>
+
+      <!-- magnifying glass over the flagged row -->
+      <circle cx="78" cy="112" r="34" fill="none" stroke="#FF7A1A" stroke-width="7" opacity="0.95"/>
+      <line x1="101" y1="135" x2="122" y2="156" stroke="#FF7A1A" stroke-width="8" stroke-linecap="round"/>
+
+      <text x="75" y="205" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="15" fill="#C9D6E3">REVISÃO TÉCNICA</text>
+      <text x="75" y="226" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="15" fill="#C9D6E3">AMPER</text>
+    </g>
+  </g>
+
+  <!-- Headline -->
+  <text x="60" y="700" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="38" fill="#FFFFFF">TODA PROPOSTA</text>
+  <text x="60" y="748" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="38" fill="#FFFFFF">MERECE UMA</text>
+  <text x="60" y="825" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="66" fill="#FF7A1A">SEGUNDA OPINIÃO</text>
+
+  <line x1="60" y1="865" x2="1020" y2="865" stroke="#3E6890" stroke-width="2"/>
+
+  <!-- Body -->
+  <text x="60" y="915" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#FFFFFF">Revisamos projetos de FV/BESS</text>
+  <text x="60" y="950" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#FFFFFF">já comprados em outras empresas</text>
+  <text x="60" y="985" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#FFFFFF">e frequentemente encontramos</text>
+  <text x="60" y="1020" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#FFFFFF">pontos de dimensionamento a ajustar.</text>
+
+  <text x="60" y="1070" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="22" fill="#C9D6E3">*Estimativa ilustrativa: parte dos projetos</text>
+  <text x="60" y="1101" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="22" fill="#C9D6E3">revisados antes da assinatura apresenta</text>
+  <text x="60" y="1132" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="22" fill="#C9D6E3">algum ajuste (não é levantamento formal).</text>
+
+  <!-- Bottom CTA bar -->
+  <rect x="0" y="1200" width="1080" height="150" fill="#FF7A1A"/>
+  <text x="60" y="1265" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="42" fill="#0A2540">SALVA ESSE POST 📌</text>
+  <text x="60" y="1315" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#0A2540">@ampenergia</text>
+</svg>
