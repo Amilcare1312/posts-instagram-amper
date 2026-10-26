@@ -983,6 +983,14 @@
       "tema": "Segunda opinião técnica — revisão de projetos/propostas de FV/BESS já comprados em outras empresas antes da assinatura",
       "angulo": "Diferente dos institucionais de 12/07 (engenharia vs. \"vendedor de painéis\"), 19/07 (exclusividade Grupo A/CELESC-D), 26/07 (uma única equipe FV+BESS+EVSE), 02/08 (ART como garantia formal), 09/08 (especialização regional em SC), 16/08 (o que entra no diagnóstico técnico gratuito), 23/08 (acompanhamento pós-instalação), 30/08 (equipamentos Tier 1), 06/09 (atendimento chave-na-mão ponta a ponta), 13/09 (postura consultiva \"ainda não é a hora\"), 20/09 (capacidade limitada de diagnósticos/semana), 27/09 (memorial técnico completo vs. proposta resumida), 11/10 (revisão técnica cruzada por segundo engenheiro sênior) e 18/10 (diversidade de segmentos atendidos), hoje o foco é o serviço de segunda opinião técnica: a Amper revisa projetos/propostas de FV/BESS já comprados em outras empresas e frequentemente encontra pontos de dimensionamento a ajustar (inversor subdimensionado, sombreamento não considerado, retorno financeiro sem posto tarifário da CELESC-D), reforçando que proposta comercial não substitui memorial de engenharia revisado. CTA de salvar, reiniciando o ciclo de rotação de CTAs do pilar (diagnóstico em 20/09, site em 27/09, whatsapp em 11/10, comentar em 18/10).",
       "dados_numericos": "Estimativa ilustrativa e informal (não é levantamento estatístico formal): uma faixa significativa dos projetos revisados antes da assinatura apresenta algum ponto de dimensionamento a ajustar."
+    },
+    {
+      "data": "2026-10-26",
+      "dia_semana": "segunda",
+      "pilar": "Educativo — mito vs. verdade sobre energia solar",
+      "tema": "Mito de que aprovar/homologar um sistema fotovoltaico na CELESC-D é um processo arrastado que trava o investimento por anos",
+      "angulo": "Diferente dos mitos dos últimos 30 dias (fator de potência/energia reativa em 21/09, risco de incêndio elétrico em 28/09, telhado inadequado em 12/10, parada de produção durante a obra em 19/10), hoje o foco é o prazo de aprovação na distribuidora: desmistificar a ideia de que a homologação na CELESC-D é imprevisível e arrastada, apresentando o fluxo técnico com etapas definidas (parecer de acesso, projeto executivo, vistoria, troca do medidor) e reforçando que atrasos reais costumam vir de documentação incompleta, não do processo em si. CTA de diagnóstico gratuito, variando da rotação recente do pilar (comentar em 28/09, whatsapp em 12/10, salvar em 19/10).",
+      "dados_numericos": "Estimativa ilustrativa (não é prazo regulatório formal nem levantamento estatístico): projetos bem instruídos em média tensão, cerca de 2 a 4 meses do protocolo à troca do medidor."
     }
   ]
 }
