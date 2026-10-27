@@ -991,6 +991,17 @@
       "tema": "Mito de que aprovar/homologar um sistema fotovoltaico na CELESC-D é um processo arrastado que trava o investimento por anos",
       "angulo": "Diferente dos mitos dos últimos 30 dias (fator de potência/energia reativa em 21/09, risco de incêndio elétrico em 28/09, telhado inadequado em 12/10, parada de produção durante a obra em 19/10), hoje o foco é o prazo de aprovação na distribuidora: desmistificar a ideia de que a homologação na CELESC-D é imprevisível e arrastada, apresentando o fluxo técnico com etapas definidas (parecer de acesso, projeto executivo, vistoria, troca do medidor) e reforçando que atrasos reais costumam vir de documentação incompleta, não do processo em si. CTA de diagnóstico gratuito, variando da rotação recente do pilar (comentar em 28/09, whatsapp em 12/10, salvar em 19/10).",
       "dados_numericos": "Estimativa ilustrativa (não é prazo regulatório formal nem levantamento estatístico): projetos bem instruídos em média tensão, cerca de 2 a 4 meses do protocolo à troca do medidor."
+    },
+    {
+      "data": "2026-10-27",
+      "dia_semana": "terca",
+      "pilar": "Dado/número de impacto — economia, geração distribuída, tarifa CELESC-D",
+      "tema": "Custo nivelado da energia solar (LCOE, R$/kWh) comparado diretamente à tarifa média de energia + encargos do Grupo A/CELESC-D em média tensão",
+      "angulo": "Diferente dos dados de 14/07 (economia % e R$ na fatura), 21/07 (payback PPA investidores), 28/07 (efeito composto do reajuste tarifário), 04/08 (payback + vida útil), 11/08 (peso da demanda contratada + BESS), 18/08 (crescimento da GD em SC), 25/08 (prazo protocolo → paralelismo), 01/09 (m² de telhado por kWp), 08/09 (cronograma do Fio B), 15/09 (geração kWh/kWp/mês), 22/09 (investimento R$/kWp), 29/09 (TIR), 13/10 (degradação/garantia de performance) e 20/10 (custo de adiar a decisão 1 ano), hoje o foco é comparar diretamente o custo por kWh: LCOE da geração própria vs. tarifa paga à CELESC-D, mostrando que o kWh solar pode custar de 2 a 3 vezes menos que o kWh comprado da rede, com CTA de salvar dando sequência à rotação do pilar (whatsapp em 08/09 e 20/10, salvar em 15/09, site em 22/09, comentar em 29/09, diagnóstico em 13/10).",
+      "dados_numericos": {
+        "lcoe_solar_rs_por_kwh": "0.25-0.40 (estimativa ilustrativa, custo nivelado ao longo da vida útil do sistema)",
+        "tarifa_media_grupo_a_celesc_d_rs_por_kwh": "0.75-0.95 (estimativa ilustrativa, energia + encargos, média tensão)"
+      }
     }
   ]
 }
