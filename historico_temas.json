@@ -1002,6 +1002,17 @@
         "lcoe_solar_rs_por_kwh": "0.25-0.40 (estimativa ilustrativa, custo nivelado ao longo da vida útil do sistema)",
         "tarifa_media_grupo_a_celesc_d_rs_por_kwh": "0.75-0.95 (estimativa ilustrativa, energia + encargos, média tensão)"
       }
+    },
+    {
+      "data": "2026-10-28",
+      "dia_semana": "quarta",
+      "pilar": "Caso de sucesso / prova social",
+      "tema": "Indústria de autopeças genérica no Vale do Itajaí/SC com telhado de duas águas (leste/oeste) originalmente dimensionado com um único inversor string, causando desbalanceamento de MPPT e perda de geração; diagnóstico da Amper recomendou MPPTs independentes por água de telhado",
+      "angulo": "Ângulo técnico de dimensionamento FV (MPPT/orientação de telhado) inédito nos últimos 30 dias do pilar, que trouxeram erro de demanda contratada por soma de potência de placa (30/09, plásticos por injeção), harmônicos/THD por VFDs (14/10, frigorífico) e BESS para peak shaving pós-instalação (21/10, embalagens de papelão); aqui o foco volta a ser um achado de diagnóstico técnico pré-instalação, mas sobre o próprio sistema FV (orientação de telhado e MPPT), não a infraestrutura elétrica da fábrica; novo setor genérico (autopeças) ainda não usado nos exemplos anteriores do pilar. CTA de agendar diagnóstico gratuito, completando o ciclo de CTAs do pilar (whatsapp em 23/09, salvar em 30/09, comentar em 14/10, site em 21/10).",
+      "dados_usados": {
+        "ganho_geracao_anual_estimado": "8-15%",
+        "observacao": "Estimativa ilustrativa; resultado real depende da orientação das águas, sombreamento e inversor escolhido em cada projeto."
+      }
     }
   ]
 }

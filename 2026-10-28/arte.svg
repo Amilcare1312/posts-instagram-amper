@@ -1,0 +1,89 @@
+<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0A2540"/>
+      <stop offset="100%" stop-color="#0D3054"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1080" height="1350" fill="url(#bg)"/>
+
+  <!-- Top bar -->
+  <text x="60" y="80" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="44" fill="#FFFFFF">AMPER ENERGIA</text>
+  <text x="60" y="118" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="20" letter-spacing="1" fill="#C9D6E3">SOLAR FV · BESS · EVSE · SANTA CATARINA</text>
+  <rect x="60" y="135" width="90" height="5" fill="#FF7A1A"/>
+
+  <!-- Illustration: roof with two opposite pitches, sun paths, single inverter vs split MPPT -->
+  <g transform="translate(60,185)">
+    <rect x="0" y="0" width="960" height="330" rx="18" fill="#12395F" stroke="#3E6890" stroke-width="3"/>
+
+    <text x="40" y="45" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#C9D6E3">TELHADO COM DUAS ÁGUAS (LESTE / OESTE)</text>
+
+    <!-- roof shape: two pitches forming an inverted V as seen from side, with panels -->
+    <g transform="translate(60,70)">
+      <!-- left pitch (east) -->
+      <polygon points="0,220 190,80 190,220" fill="#1C4A73" stroke="#3E6890" stroke-width="2"/>
+      <!-- right pitch (west) -->
+      <polygon points="190,80 190,220 380,220" fill="#163F66" stroke="#3E6890" stroke-width="2"/>
+
+      <!-- solar panels on east pitch -->
+      <rect x="20" y="150" width="45" height="60" fill="#FF7A1A" opacity="0.9" transform="rotate(-38 42 180)"/>
+      <rect x="70" y="120" width="45" height="60" fill="#FF7A1A" opacity="0.9" transform="rotate(-38 92 150)"/>
+      <rect x="120" y="90" width="45" height="60" fill="#FF7A1A" opacity="0.9" transform="rotate(-38 142 120)"/>
+
+      <!-- solar panels on west pitch -->
+      <rect x="215" y="90" width="45" height="60" fill="#4C7AA6" opacity="0.9" transform="rotate(38 237 120)"/>
+      <rect x="265" y="120" width="45" height="60" fill="#4C7AA6" opacity="0.9" transform="rotate(38 287 150)"/>
+      <rect x="315" y="150" width="45" height="60" fill="#4C7AA6" opacity="0.9" transform="rotate(38 337 180)"/>
+
+      <!-- sun east (morning) -->
+      <circle cx="10" cy="20" r="18" fill="#FF7A1A"/>
+      <text x="10" y="-5" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#FF7A1A" text-anchor="middle">PICO MANHÃ</text>
+
+      <!-- sun west (afternoon) -->
+      <circle cx="370" cy="20" r="18" fill="#4C7AA6"/>
+      <text x="370" y="-5" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#C9D6E3" text-anchor="middle">PICO TARDE</text>
+    </g>
+
+    <!-- divider -->
+    <line x1="470" y1="40" x2="470" y2="290" stroke="#3E6890" stroke-width="2" stroke-dasharray="6,6"/>
+
+    <!-- single inverter block, bottleneck -->
+    <g transform="translate(540,60)">
+      <text x="0" y="0" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#C9507A">PROJETO ORIGINAL</text>
+      <rect x="0" y="15" width="150" height="90" rx="10" fill="#0A2540" stroke="#C9507A" stroke-width="3"/>
+      <text x="75" y="55" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#C9507A" text-anchor="middle">1 INVERSOR</text>
+      <text x="75" y="80" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#C9507A" text-anchor="middle">1 MPPT</text>
+    </g>
+
+    <!-- split inverter block, fixed -->
+    <g transform="translate(730,60)">
+      <text x="0" y="0" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#FF7A1A">DIAGNÓSTICO AMPER</text>
+      <rect x="0" y="15" width="190" height="90" rx="10" fill="#0A2540" stroke="#FF7A1A" stroke-width="3"/>
+      <text x="95" y="48" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#FF7A1A" text-anchor="middle">1 INVERSOR</text>
+      <text x="95" y="72" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#FF7A1A" text-anchor="middle">2 MPPTs</text>
+      <text x="95" y="96" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#FF7A1A" text-anchor="middle">(leste + oeste)</text>
+    </g>
+  </g>
+
+  <!-- Headline -->
+  <text x="60" y="610" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="48" fill="#FFFFFF">UM INVERSOR SÓ</text>
+  <text x="60" y="672" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="48" fill="#FF7A1A">TRAVA A GERAÇÃO</text>
+  <text x="60" y="734" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="48" fill="#FFFFFF">DO TELHADO</text>
+
+  <line x1="60" y1="772" x2="1020" y2="772" stroke="#3E6890" stroke-width="2"/>
+
+  <!-- Body -->
+  <text x="60" y="835" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#FFFFFF">Numa indústria de autopeças no Vale</text>
+  <text x="60" y="872" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#FFFFFF">do Itajaí/SC, um telhado com águas</text>
+  <text x="60" y="909" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#FFFFFF">leste e oeste tinha um só inversor,</text>
+  <text x="60" y="946" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#FFFFFF">perdendo geração todos os dias.</text>
+
+  <text x="60" y="1005" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="24" fill="#C9D6E3">Com MPPTs independentes por água,</text>
+  <text x="60" y="1040" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="24" fill="#C9D6E3">o ganho estimado foi de 8-15%* ao ano.</text>
+
+  <!-- Bottom CTA bar -->
+  <rect x="0" y="1200" width="1080" height="150" fill="#FF7A1A"/>
+  <text x="60" y="1258" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="34" fill="#0A2540">AGENDE UM DIAGNÓSTICO GRÁTIS 🔗</text>
+  <text x="60" y="1315" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#0A2540">@ampenergia</text>
+</svg>

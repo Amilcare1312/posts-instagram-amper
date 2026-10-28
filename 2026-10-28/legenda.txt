@@ -1,0 +1,15 @@
+Dois telhados, duas orientações, um inversor só — e a geração solar que nunca batia com o projeto. 🤔
+
+Numa indústria de autopeças genérica no Vale do Itajaí/SC, o galpão tinha duas águas de telhado opostas: uma virada para leste, outra para oeste. O projeto inicial (de outra empresa) especificou um único inversor string tratando as duas águas como se fossem um bloco só de painéis.
+
+Na prática, cada orientação atinge o pico de geração em um horário diferente do dia. Com um inversor só, o sistema trabalha pelo "menor dos dois lados" boa parte do tempo — e perde geração todos os dias, de forma silenciosa.
+
+O diagnóstico técnico da Amper identificou o desbalanceamento e recomendou MPPTs independentes por água de telhado, cada orientação administrada separadamente dentro do próprio inversor.
+
+Resultado: ganho estimado de 8-15%* na geração anual frente ao projeto original, sem aumentar a potência instalada.
+
+*Estimativa ilustrativa; o ganho real depende da orientação exata das águas, do sombreamento e do inversor escolhido em cada projeto.
+
+Seu telhado tem mais de uma orientação? Agenda um diagnóstico gratuito com a nossa engenharia e descubra se o seu projeto está rodando no potencial certo 🔗
+
+#energiasolar #geracaodistribuida #fotovoltaica #santacatarina #energiafotovoltaica #mppt #inversorsolar #dimensionamentofv #engenhariaeletrica #grupoa #celescd #ampenergia
