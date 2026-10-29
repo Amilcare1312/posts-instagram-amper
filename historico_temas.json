@@ -1013,6 +1013,14 @@
         "ganho_geracao_anual_estimado": "8-15%",
         "observacao": "Estimativa ilustrativa; resultado real depende da orientação das águas, sombreamento e inversor escolhido em cada projeto."
       }
+    },
+    {
+      "data": "2026-10-29",
+      "dia_semana": "quinta",
+      "pilar": "Dica prática — economia, dimensionamento, cuidados com o sistema",
+      "tema": "Dimensionamento do sistema FV já prevendo expansão futura da produção/carga da indústria (reserva de área no telhado, margem no quadro CC/CA e capacidade extra de MPPT)",
+      "angulo": "Diferente das dicas técnicas já publicadas (monitoramento/limpeza em 16/07, DPS/surtos em 23/07, cabeamento CC/CA em 30/07, fator DC/AC/clipping em 06/08, tensão de string por temperatura em 13/08, THD em 20/08, azimute/tilt em 27/08, sombreamento/hot spots em 03/09, termografia de conexões em 10/09, ventilação da sala técnica em 17/09, vedação/impermeabilização em 24/09, remedição de aterramento em 01/10, degradação dos módulos no payback em 15/10 e vida útil do inversor vs. módulos em 22/10), hoje o foco é um ângulo de planejamento: dimensionar o sistema FV com reserva de área de telhado, margem no quadro elétrico CC/CA e capacidade extra de MPPT para comportar expansão futura da produção sem refazer a obra do zero. CTA de chamar no WhatsApp, variando do ciclo recente de CTAs do pilar (comentar em 24/09, site em 01/10, salvar em 15/10, diagnóstico em 22/10).",
+      "dados_numericos": []
     }
   ]
 }

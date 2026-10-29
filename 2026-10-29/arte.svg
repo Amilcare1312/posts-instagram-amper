@@ -1,0 +1,81 @@
+<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0A2540"/>
+      <stop offset="100%" stop-color="#0D3054"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1080" height="1350" fill="url(#bg)"/>
+
+  <!-- Top bar -->
+  <text x="60" y="80" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="44" fill="#FFFFFF">AMPER ENERGIA</text>
+  <text x="60" y="118" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="20" letter-spacing="1" fill="#C9D6E3">SOLAR FV · BESS · EVSE · SANTA CATARINA</text>
+  <rect x="60" y="135" width="90" height="5" fill="#FF7A1A"/>
+
+  <!-- Illustration: roof with current modules + reserved expansion area -->
+  <g transform="translate(60,185)">
+    <rect x="0" y="0" width="960" height="330" rx="18" fill="#12395F" stroke="#3E6890" stroke-width="3"/>
+
+    <text x="40" y="45" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#C9D6E3">TELHADO INDUSTRIAL</text>
+
+    <!-- roof outline -->
+    <rect x="40" y="70" width="880" height="220" rx="10" fill="#0E2E4E" stroke="#3E6890" stroke-width="2"/>
+
+    <!-- installed modules (solid orange grid) -->
+    <g>
+      <rect x="60" y="90" width="520" height="180" fill="none"/>
+      <!-- rows of modules -->
+      <g fill="#FF7A1A" stroke="#0A2540" stroke-width="2">
+        <rect x="60" y="92" width="80" height="54"/>
+        <rect x="150" y="92" width="80" height="54"/>
+        <rect x="240" y="92" width="80" height="54"/>
+        <rect x="330" y="92" width="80" height="54"/>
+        <rect x="420" y="92" width="80" height="54"/>
+        <rect x="510" y="92" width="80" height="54"/>
+
+        <rect x="60" y="156" width="80" height="54"/>
+        <rect x="150" y="156" width="80" height="54"/>
+        <rect x="240" y="156" width="80" height="54"/>
+        <rect x="330" y="156" width="80" height="54"/>
+        <rect x="420" y="156" width="80" height="54"/>
+        <rect x="510" y="156" width="80" height="54"/>
+
+        <rect x="60" y="220" width="80" height="54"/>
+        <rect x="150" y="220" width="80" height="54"/>
+        <rect x="240" y="220" width="80" height="54"/>
+        <rect x="330" y="220" width="80" height="54"/>
+        <rect x="420" y="220" width="80" height="54"/>
+        <rect x="510" y="220" width="80" height="54"/>
+      </g>
+    </g>
+
+    <!-- reserved area for future expansion (dashed outline, empty) -->
+    <rect x="630" y="92" width="250" height="182" rx="6" fill="none" stroke="#4C9EF5" stroke-width="3" stroke-dasharray="10,8"/>
+    <text x="755" y="195" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#4C9EF5" text-anchor="middle">ÁREA</text>
+    <text x="755" y="218" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#4C9EF5" text-anchor="middle">RESERVADA</text>
+    <text x="755" y="241" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#7FA8CC" text-anchor="middle">p/ expansão futura</text>
+
+    <text x="40" y="312" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#7FA8CC">Quadro CC/CA e MPPT dimensionados com margem para crescer sem refazer a obra</text>
+  </g>
+
+  <!-- Headline -->
+  <text x="60" y="605" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="46" fill="#FFFFFF">SEU PROJETO FV</text>
+  <text x="60" y="667" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="46" fill="#FFFFFF">JÁ PREVÊ A</text>
+  <text x="60" y="729" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="46" fill="#FF7A1A">EXPANSÃO?</text>
+
+  <line x1="60" y1="767" x2="1020" y2="767" stroke="#3E6890" stroke-width="2"/>
+
+  <!-- Body -->
+  <text x="60" y="830" font-family="Arial, Helvetica, sans-serif" font-size="29" fill="#FFFFFF">Dimensionar só para o consumo</text>
+  <text x="60" y="867" font-family="Arial, Helvetica, sans-serif" font-size="29" fill="#FFFFFF">de hoje deixa a indústria sem</text>
+  <text x="60" y="904" font-family="Arial, Helvetica, sans-serif" font-size="29" fill="#FFFFFF">espaço quando a produção cresce.</text>
+
+  <text x="60" y="963" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="24" fill="#C9D6E3">Reservar área, quadro e MPPT desde o</text>
+  <text x="60" y="998" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="24" fill="#C9D6E3">memorial técnico evita obra em dobro depois.</text>
+
+  <!-- Bottom CTA bar -->
+  <rect x="0" y="1200" width="1080" height="150" fill="#FF7A1A"/>
+  <text x="60" y="1265" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="36" fill="#0A2540">CHAMA NO WHATSAPP 💬</text>
+  <text x="60" y="1315" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#0A2540">@ampenergia</text>
+</svg>
