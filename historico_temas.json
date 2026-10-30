@@ -1021,6 +1021,16 @@
       "tema": "Dimensionamento do sistema FV já prevendo expansão futura da produção/carga da indústria (reserva de área no telhado, margem no quadro CC/CA e capacidade extra de MPPT)",
       "angulo": "Diferente das dicas técnicas já publicadas (monitoramento/limpeza em 16/07, DPS/surtos em 23/07, cabeamento CC/CA em 30/07, fator DC/AC/clipping em 06/08, tensão de string por temperatura em 13/08, THD em 20/08, azimute/tilt em 27/08, sombreamento/hot spots em 03/09, termografia de conexões em 10/09, ventilação da sala técnica em 17/09, vedação/impermeabilização em 24/09, remedição de aterramento em 01/10, degradação dos módulos no payback em 15/10 e vida útil do inversor vs. módulos em 22/10), hoje o foco é um ângulo de planejamento: dimensionar o sistema FV com reserva de área de telhado, margem no quadro elétrico CC/CA e capacidade extra de MPPT para comportar expansão futura da produção sem refazer a obra do zero. CTA de chamar no WhatsApp, variando do ciclo recente de CTAs do pilar (comentar em 24/09, site em 01/10, salvar em 15/10, diagnóstico em 22/10).",
       "dados_numericos": []
+    },
+    {
+      "data": "2026-10-30",
+      "dia_semana": "sexta-feira",
+      "pilar": "Bastidores / equipe / processo de engenharia",
+      "tema": "Relatório periódico de progresso de obra compartilhado com o cliente - cronograma, fotos e pendências durante a instalação",
+      "angulo": "Diferente dos bastidores de 17/07 (etapas gerais do processo), 24/07 (perfis técnicos do time), 31/07 (testes de comissionamento), 07/08 (visita técnica de campo), 14/08 (estudo de proteção/relé ANSI), 21/08 (homologação pós-comissionamento CELESC-D), 28/08 (cálculo estrutural NBR 6123), 04/09 (segurança do trabalho NR-35/10), 11/09 (comissionamento elétrico pré-energização), 18/09 (simulação computacional de geração), 25/09 (dossiê técnico final), 02/10 (inspeção de recebimento de materiais) e 16/10 (compatibilização de projeto em campo), aqui o foco é a comunicação de progresso com o cliente durante a execução da obra - relatório com fotos, cronograma atualizado e pendências em aberto -, reforçando transparência no acompanhamento até a homologação, com CTA de agendar diagnóstico gratuito para retomar a rotação de CTAs do pilar (comentar em 23/10, whatsapp em 16/10, site em 02/10, salvar em 25/09)",
+      "dados_usados": [
+        "relatórios de progresso enviados ao cliente a cada 7 a 10 dias durante a fase de instalação (estimativa ilustrativa, varia com a complexidade da obra)"
+      ]
     }
   ]
 }
