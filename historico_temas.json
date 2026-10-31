@@ -1031,6 +1031,14 @@
       "dados_usados": [
         "relatórios de progresso enviados ao cliente a cada 7 a 10 dias durante a fase de instalação (estimativa ilustrativa, varia com a complexidade da obra)"
       ]
+    },
+    {
+      "data": "2026-10-31",
+      "dia_semana": "sabado",
+      "pilar": "Sustentabilidade / propósito",
+      "tema": "Agrovoltaica: uso duplo do terreno combinando geração solar elevada com atividade agrícola, pecuária ou galpões por baixo",
+      "angulo": "Reposicionar sustentabilidade como integração entre energia e produção no mesmo espaço (painéis elevados liberando a área abaixo para cultivo, pastagem ou galpões), em vez de disputa por terreno, relevante no contexto catarinense onde agroindústria e indústria convivem lado a lado; ângulo ainda não usado no ciclo do pilar, com CTA de salvar variando do site (17/10) e comentar (24/10) usados nas últimas semanas",
+      "dados_usados": []
     }
   ]
 }

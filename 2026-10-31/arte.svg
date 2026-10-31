@@ -1,0 +1,104 @@
+<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0A2540"/>
+      <stop offset="100%" stop-color="#0D3054"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1080" height="1350" fill="url(#bg)"/>
+
+  <!-- Top bar -->
+  <text x="60" y="80" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="44" fill="#FFFFFF">AMPER ENERGIA</text>
+  <text x="60" y="118" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="20" letter-spacing="1" fill="#C9D6E3">SOLAR FV · BESS · EVSE · SANTA CATARINA</text>
+  <rect x="60" y="135" width="90" height="5" fill="#FF7A1A"/>
+
+  <!-- SUSTENTABILIDADE tag -->
+  <rect x="60" y="168" width="330" height="42" rx="6" fill="#FF7A1A"/>
+  <text x="225" y="196" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="22" fill="#0A2540" text-anchor="middle">SUSTENTABILIDADE</text>
+
+  <!-- Illustration: agrovoltaic - elevated panels with crops/pasture below -->
+  <g transform="translate(90,250)">
+    <!-- sun -->
+    <circle cx="820" cy="10" r="26" fill="#FF7A1A"/>
+    <line x1="820" y1="-32" x2="820" y2="-48" stroke="#FF7A1A" stroke-width="4"/>
+    <line x1="852" y1="-14" x2="864" y2="-26" stroke="#FF7A1A" stroke-width="4"/>
+    <line x1="788" y1="-14" x2="776" y2="-26" stroke="#FF7A1A" stroke-width="4"/>
+    <line x1="852" y1="34" x2="864" y2="46" stroke="#FF7A1A" stroke-width="4"/>
+    <line x1="788" y1="34" x2="776" y2="46" stroke="#FF7A1A" stroke-width="4"/>
+
+    <!-- ground line -->
+    <line x1="0" y1="330" x2="880" y2="330" stroke="#3E6890" stroke-width="3"/>
+
+    <!-- elevated panel 1 -->
+    <g transform="translate(40,60)">
+      <line x1="20" y1="60" x2="0" y2="250" stroke="#C9D6E3" stroke-width="7"/>
+      <line x1="200" y1="60" x2="220" y2="250" stroke="#C9D6E3" stroke-width="7"/>
+      <rect x="0" y="0" width="220" height="70" rx="5" fill="#0F2E4E" stroke="#C9D6E3" stroke-width="2" transform="rotate(-6 110 35)"/>
+      <line x1="10" y1="25" x2="200" y2="10" stroke="#5A7591" stroke-width="1.5" transform="rotate(-6 110 35)"/>
+      <line x1="10" y1="50" x2="200" y2="35" stroke="#5A7591" stroke-width="1.5" transform="rotate(-6 110 35)"/>
+    </g>
+
+    <!-- elevated panel 2 -->
+    <g transform="translate(300,60)">
+      <line x1="20" y1="60" x2="0" y2="250" stroke="#C9D6E3" stroke-width="7"/>
+      <line x1="200" y1="60" x2="220" y2="250" stroke="#C9D6E3" stroke-width="7"/>
+      <rect x="0" y="0" width="220" height="70" rx="5" fill="#0F2E4E" stroke="#C9D6E3" stroke-width="2" transform="rotate(-6 110 35)"/>
+      <line x1="10" y1="25" x2="200" y2="10" stroke="#5A7591" stroke-width="1.5" transform="rotate(-6 110 35)"/>
+      <line x1="10" y1="50" x2="200" y2="35" stroke="#5A7591" stroke-width="1.5" transform="rotate(-6 110 35)"/>
+    </g>
+
+    <!-- elevated panel 3 -->
+    <g transform="translate(560,60)">
+      <line x1="20" y1="60" x2="0" y2="250" stroke="#C9D6E3" stroke-width="7"/>
+      <line x1="200" y1="60" x2="220" y2="250" stroke="#C9D6E3" stroke-width="7"/>
+      <rect x="0" y="0" width="220" height="70" rx="5" fill="#0F2E4E" stroke="#C9D6E3" stroke-width="2" transform="rotate(-6 110 35)"/>
+      <line x1="10" y1="25" x2="200" y2="10" stroke="#5A7591" stroke-width="1.5" transform="rotate(-6 110 35)"/>
+      <line x1="10" y1="50" x2="200" y2="35" stroke="#5A7591" stroke-width="1.5" transform="rotate(-6 110 35)"/>
+    </g>
+
+    <!-- crop rows below panels -->
+    <g stroke="#2E9E6B" stroke-width="7" stroke-linecap="round">
+      <path d="M 20 310 Q 40 285 20 265" fill="none"/>
+      <path d="M 70 315 Q 90 290 70 270" fill="none"/>
+      <path d="M 120 310 Q 140 285 120 265" fill="none"/>
+      <path d="M 170 315 Q 190 290 170 270" fill="none"/>
+      <path d="M 260 310 Q 280 285 260 265" fill="none"/>
+      <path d="M 310 315 Q 330 290 310 270" fill="none"/>
+      <path d="M 360 310 Q 380 285 360 265" fill="none"/>
+      <path d="M 410 315 Q 430 290 410 270" fill="none"/>
+      <path d="M 460 310 Q 480 285 460 265" fill="none"/>
+      <path d="M 510 315 Q 530 290 510 270" fill="none"/>
+      <path d="M 560 310 Q 580 285 560 265" fill="none"/>
+      <path d="M 610 315 Q 630 290 610 270" fill="none"/>
+      <path d="M 660 310 Q 680 285 660 265" fill="none"/>
+      <path d="M 710 315 Q 730 290 710 270" fill="none"/>
+      <path d="M 760 310 Q 780 285 760 265" fill="none"/>
+      <path d="M 810 315 Q 830 290 810 270" fill="none"/>
+    </g>
+
+    <text x="440" y="390" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="20" letter-spacing="1" fill="#C9D6E3">ENERGIA + PRODUÇÃO, NO MESMO SOLO</text>
+  </g>
+
+  <!-- Headline -->
+  <text x="60" y="705" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="38" fill="#FFFFFF">O TERRENO PODE</text>
+  <text x="60" y="753" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="38" fill="#FFFFFF">GERAR ENERGIA</text>
+  <text x="60" y="830" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="70" fill="#FF7A1A">E PRODUZIR</text>
+
+  <line x1="60" y1="868" x2="1020" y2="868" stroke="#3E6890" stroke-width="2"/>
+
+  <!-- Body -->
+  <text x="60" y="918" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#FFFFFF">Painéis solares elevados liberam</text>
+  <text x="60" y="953" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#FFFFFF">a área abaixo para cultivo,</text>
+  <text x="60" y="988" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#FFFFFF">pastagem ou galpões — energia</text>
+  <text x="60" y="1023" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#FFFFFF">limpa que soma, não compete.</text>
+
+  <text x="60" y="1073" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="22" fill="#C9D6E3">*Agrovoltaica: viabilidade e ganho de</text>
+  <text x="60" y="1104" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="22" fill="#C9D6E3">espaço variam por terreno e cultura —</text>
+  <text x="60" y="1135" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="22" fill="#C9D6E3">estimativa ilustrativa, cada caso é avaliado.</text>
+
+  <!-- Bottom CTA bar -->
+  <rect x="0" y="1200" width="1080" height="150" fill="#FF7A1A"/>
+  <text x="60" y="1265" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="42" fill="#0A2540">SALVA ESSE POST 📌</text>
+  <text x="60" y="1315" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#0A2540">@ampenergia</text>
+</svg>
