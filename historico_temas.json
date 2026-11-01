@@ -1039,6 +1039,16 @@
       "tema": "Agrovoltaica: uso duplo do terreno combinando geração solar elevada com atividade agrícola, pecuária ou galpões por baixo",
       "angulo": "Reposicionar sustentabilidade como integração entre energia e produção no mesmo espaço (painéis elevados liberando a área abaixo para cultivo, pastagem ou galpões), em vez de disputa por terreno, relevante no contexto catarinense onde agroindústria e indústria convivem lado a lado; ângulo ainda não usado no ciclo do pilar, com CTA de salvar variando do site (17/10) e comentar (24/10) usados nas últimas semanas",
       "dados_usados": []
+    },
+    {
+      "data": "2026-11-01",
+      "dia_semana": "domingo",
+      "pilar": "Institucional / CTA comercial",
+      "tema": "Processo de garantia (RMA) de equipamentos conduzido pela própria engenharia da Amper, do diagnóstico do defeito até a substituição junto ao fabricante",
+      "angulo": "Diferente dos institucionais de 12/07 (engenharia vs. \"vendedor de painéis\"), 19/07 (exclusividade Grupo A/CELESC-D), 26/07 (uma única equipe FV+BESS+EVSE), 02/08 (ART como garantia formal), 09/08 (especialização regional em SC), 16/08 (o que entra no diagnóstico técnico gratuito), 23/08 (acompanhamento pós-instalação/monitoramento), 30/08 (equipamentos Tier 1), 06/09 (atendimento chave-na-mão ponta a ponta), 13/09 (postura consultiva \"ainda não é a hora\"), 20/09 (capacidade limitada de diagnósticos/semana), 27/09 (memorial técnico completo vs. proposta resumida), 11/10 (revisão técnica cruzada por segundo engenheiro sênior), 18/10 (diversidade de segmentos atendidos) e 25/10 (segunda opinião técnica sobre projetos de terceiros), hoje o foco é o processo de garantia (RMA): quando um módulo ou inversor apresenta defeito dentro do prazo de garantia, é a mesma engenharia que projetou o sistema que identifica a causa técnica, documenta o defeito e acompanha o fabricante até a substituição do equipamento, em vez de deixar o cliente lidar sozinho com o fabricante. CTA de agendar diagnóstico técnico gratuito, reiniciando o ciclo de rotação de CTAs do pilar (site em 27/09, whatsapp em 11/10, comentar em 18/10, salvar em 25/10).",
+      "dados_usados": [
+        "prazo médio de 2 a 6 semanas entre abertura e substituição do equipamento em garantia (estimativa ilustrativa, varia por fabricante e tipo de equipamento)"
+      ]
     }
   ]
 }
