@@ -1049,6 +1049,14 @@
       "dados_usados": [
         "prazo médio de 2 a 6 semanas entre abertura e substituição do equipamento em garantia (estimativa ilustrativa, varia por fabricante e tipo de equipamento)"
       ]
+    },
+    {
+      "data": "2026-11-02",
+      "dia_semana": "segunda",
+      "pilar": "Educativo — mito vs. verdade sobre energia solar",
+      "tema": "Mito de que todo sistema fotovoltaico precisa de bateria (BESS) para funcionar",
+      "angulo": "Diferente dos mitos dos últimos 30 dias (telhado inadequado em 12/10, parada de produção durante a obra em 19/10, homologação CELESC-D arrastada em 26/10), hoje o foco é desmistificar a ideia de que energia solar sem bateria \"não funciona direito\": a maioria dos projetos é on-grid, conectado direto à rede CELESC-D, injetando excedente e usando créditos para abater a conta; BESS é apresentado como camada adicional de engenharia para casos específicos (backup de cargas essenciais, peak shaving em Grupo A/CELESC-D), não como item padrão de todo projeto. CTA de visitar o site, completando o ciclo de rotação de CTAs do pilar (comentar em 28/09, whatsapp em 12/10, salvar em 19/10, diagnóstico em 26/10).",
+      "dados_numericos": []
     }
   ]
 }

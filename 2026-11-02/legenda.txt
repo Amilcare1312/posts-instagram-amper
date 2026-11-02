@@ -1,0 +1,11 @@
+"Sem bateria, o sistema solar não funciona direito." Mito ou verdade? ⚡
+
+MITO. A grande maioria dos projetos fotovoltaicos em Santa Catarina é on-grid: conectado direto à rede da CELESC-D, sem banco de baterias, e funciona plenamente — gera energia durante o dia, injeta o excedente na rede e usa os créditos para abater a conta de luz.
+
+BESS (banco de baterias) é uma camada adicional de engenharia, dimensionada para objetivos específicos: manter cargas essenciais ligadas durante uma queda de energia ou reduzir picos de demanda contratada (peak shaving) em operações de média tensão Grupo A/CELESC-D. 🔋
+
+Incluir ou não um BESS no projeto depende do perfil de carga, do risco real de parada e da estrutura tarifária contratada — não é um complemento "padrão" que todo sistema solar precisa ter.
+
+Quer entender se o seu projeto precisa de bateria ou não? Visita o nosso site e conhece como funciona o diagnóstico técnico da Amper. ✅
+
+#energiasolar #geracaodistribuida #fotovoltaica #santacatarina #energiafotovoltaica #grupoa #celescd #bess #armazenamentodeenergia #engenhariasolar #mitoouverdade
