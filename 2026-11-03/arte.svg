@@ -1,0 +1,89 @@
+<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0A2540"/>
+      <stop offset="100%" stop-color="#0D3054"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1080" height="1350" fill="url(#bg)"/>
+
+  <!-- Top bar -->
+  <text x="60" y="80" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="44" fill="#FFFFFF">AMPER ENERGIA</text>
+  <text x="60" y="118" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="20" letter-spacing="1" fill="#C9D6E3">SOLAR FV · BESS · EVSE · SANTA CATARINA</text>
+  <rect x="60" y="135" width="90" height="5" fill="#FF7A1A"/>
+
+  <!-- DADO DO DIA tag -->
+  <rect x="60" y="168" width="230" height="42" rx="6" fill="#FF7A1A"/>
+  <text x="175" y="196" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="20" fill="#0A2540" text-anchor="middle">DADO DO DIA</text>
+
+  <!-- Illustration: SC sun (smaller) vs Nordeste sun (bigger), scale balanced by tariff -->
+  <g transform="translate(70,245)">
+    <rect x="0" y="0" width="940" height="300" rx="8" fill="#FFFFFF"/>
+
+    <!-- SC sun -->
+    <g transform="translate(150,95)">
+      <circle cx="0" cy="0" r="38" fill="#FF7A1A"/>
+      <line x1="0" y1="-52" x2="0" y2="-64" stroke="#FF7A1A" stroke-width="5"/>
+      <line x1="37" y1="-37" x2="45" y2="-45" stroke="#FF7A1A" stroke-width="5"/>
+      <line x1="-37" y1="-37" x2="-45" y2="-45" stroke="#FF7A1A" stroke-width="5"/>
+      <line x1="52" y1="0" x2="64" y2="0" stroke="#FF7A1A" stroke-width="5"/>
+      <line x1="-52" y1="0" x2="-64" y2="0" stroke="#FF7A1A" stroke-width="5"/>
+    </g>
+    <rect x="110" y="155" width="80" height="60" rx="4" fill="#0A2540"/>
+    <text x="150" y="245" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="22" fill="#0A2540">SC</text>
+    <text x="150" y="275" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#3E6890">~4,0-4,5 kWh/m²/dia*</text>
+
+    <!-- VS -->
+    <text x="330" y="130" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="30" fill="#C9D6E3">VS</text>
+
+    <!-- Nordeste sun (bigger) -->
+    <g transform="translate(500,85)">
+      <circle cx="0" cy="0" r="50" fill="#FF7A1A"/>
+      <line x1="0" y1="-66" x2="0" y2="-80" stroke="#FF7A1A" stroke-width="6"/>
+      <line x1="47" y1="-47" x2="57" y2="-57" stroke="#FF7A1A" stroke-width="6"/>
+      <line x1="-47" y1="-47" x2="-57" y2="-57" stroke="#FF7A1A" stroke-width="6"/>
+      <line x1="66" y1="0" x2="80" y2="0" stroke="#FF7A1A" stroke-width="6"/>
+      <line x1="-66" y1="0" x2="-80" y2="0" stroke="#FF7A1A" stroke-width="6"/>
+    </g>
+    <rect x="450" y="155" width="100" height="60" rx="4" fill="#0A2540"/>
+    <text x="500" y="245" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="22" fill="#0A2540">NORDESTE</text>
+    <text x="500" y="275" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#3E6890">~5,5-6,0 kWh/m²/dia*</text>
+
+    <!-- balancing scale with tariff -->
+    <g transform="translate(760,70)">
+      <line x1="0" y1="0" x2="0" y2="120" stroke="#5A7591" stroke-width="5"/>
+      <line x1="-70" y1="15" x2="70" y2="15" stroke="#5A7591" stroke-width="5"/>
+      <line x1="-70" y1="15" x2="-70" y2="55" stroke="#5A7591" stroke-width="3"/>
+      <line x1="70" y1="15" x2="70" y2="40" stroke="#5A7591" stroke-width="3"/>
+      <circle cx="-70" cy="68" r="26" fill="#0A2540"/>
+      <text x="-70" y="74" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="14" fill="#FFFFFF">SOL</text>
+      <circle cx="70" cy="55" r="26" fill="#FF7A1A"/>
+      <text x="70" y="61" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="13" fill="#0A2540">TARIFA</text>
+    </g>
+    <text x="760" y="245" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="17" fill="#0A2540">TARIFA MAIS ALTA</text>
+    <text x="760" y="268" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#3E6890">EQUILIBRA A CONTA</text>
+  </g>
+
+  <!-- Headline -->
+  <text x="60" y="690" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="40" fill="#FFFFFF">MENOS SOL EM SC.</text>
+  <text x="60" y="742" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="40" fill="#FFFFFF">RETORNO PARECIDO:</text>
+  <text x="60" y="828" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="76" fill="#FF7A1A">4 A 7 ANOS*</text>
+
+  <line x1="60" y1="865" x2="1020" y2="865" stroke="#3E6890" stroke-width="2"/>
+
+  <!-- Body -->
+  <text x="60" y="915" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#FFFFFF">O retorno não depende só de</text>
+  <text x="60" y="950" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#FFFFFF">quanto sol cai no telhado — a</text>
+  <text x="60" y="985" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#FFFFFF">tarifa Grupo A/CELESC-D mais</text>
+  <text x="60" y="1020" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#FFFFFF">alta compensa boa parte.</text>
+
+  <text x="60" y="1070" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="21" fill="#C9D6E3">*Faixas estimadas e ilustrativas, variam por</text>
+  <text x="60" y="1101" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="21" fill="#C9D6E3">município, consumo e dimensionamento do</text>
+  <text x="60" y="1132" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="21" fill="#C9D6E3">projeto. Payback para autoconsumo em MT.</text>
+
+  <!-- Bottom CTA bar -->
+  <rect x="0" y="1200" width="1080" height="150" fill="#FF7A1A"/>
+  <text x="60" y="1265" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="40" fill="#0A2540">CONHEÇA NO SITE ✅</text>
+  <text x="60" y="1315" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#0A2540">@ampenergia</text>
+</svg>
