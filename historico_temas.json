@@ -1069,6 +1069,16 @@
         "irradiacao_media_nordeste_kwh_m2_dia": "5.5-6.0 (estimativa ilustrativa, média anual, varia por estado)",
         "payback_autoconsumo_sc_anos": "4-7 (estimativa ilustrativa, faixa típica para autoconsumo em média tensão Grupo A/CELESC-D)"
       }
+    },
+    {
+      "data": "2026-11-04",
+      "dia_semana": "quarta",
+      "pilar": "Caso de sucesso / prova social",
+      "tema": "Indústria de componentes eletrônicos genérica na região de Joinville/SC, onde o diagnóstico técnico identificou que o ponto de conexão do sistema FV previsto ficava próximo de quadros que alimentam no-breaks dedicados a cargas sensíveis, exigindo estudo de coordenação de proteção para evitar transitórios antes da instalação",
+      "angulo": "Ângulo de coordenação de proteção entre FV e UPS/no-breaks existentes (sensibilidade a afundamento de tensão) inédito nos últimos 30 dias do pilar, que trouxeram harmônicos/THD por VFDs em frigorífico (14/10), BESS para peak shaving em indústria de embalagens de papelão (21/10) e desbalanceamento de MPPT por orientação de telhado em indústria de autopeças (28/10); novo setor genérico (componentes eletrônicos/eletroeletrônica) ainda não usado nos exemplos anteriores do pilar (metalúrgica, têxtil, cerâmica, laticínios, transportadora, centro de distribuição, moveleira, tintas e vernizes, curtume, bebidas, fundição, plásticos por injeção, frigorífico, embalagens de papelão, autopeças). CTA de chamar no WhatsApp, retomando o ciclo de rotação de CTAs do pilar (whatsapp em 23/09, salvar em 30/09, comentar em 14/10, site em 21/10, diagnóstico em 28/10).",
+      "dados_numericos": {
+        "payback_autoconsumo_mt_grupoA_anos": "4-7 (estimativa ilustrativa, faixa típica para autoconsumo em média tensão Grupo A/CELESC-D)"
+      }
     }
   ]
 }

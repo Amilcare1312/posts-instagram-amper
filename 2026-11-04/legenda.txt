@@ -1,0 +1,15 @@
+O maior risco do projeto solar nem sempre está no telhado — às vezes está no quadro elétrico que já protege os equipamentos mais sensíveis da fábrica. ⚡
+
+Numa indústria de componentes eletrônicos genérica na região de Joinville/SC, parte da linha de montagem já operava com no-breaks dedicados, protegendo placas e módulos sensíveis a qualquer afundamento de tensão (voltage sag).
+
+O diagnóstico técnico da Amper identificou que o ponto de conexão previsto para o sistema fotovoltaico ficava próximo demais dos quadros que alimentam esses no-breaks. Sem um estudo de coordenação de proteção, a entrada e a saída de operação do inversor solar poderiam gerar transitórios que o sistema de proteção existente não estava calibrado para filtrar.
+
+A engenharia redesenhou o ponto de interligação e ajustou os parâmetros de proteção do inversor em conjunto com os no-breaks já instalados — eliminando o risco antes da instalação, não depois, quando já teria custado parada de linha e equipamento sensível danificado.
+
+Resultado: sistema solar operando em paralelo com a infraestrutura crítica existente, sem interferência, com payback dentro da faixa típica de 4 a 7 anos* para autoconsumo em média tensão Grupo A/CELESC-D.
+
+*Estimativa ilustrativa; o cenário real depende do estudo de viabilidade técnico específico de cada operação.
+
+Sua fábrica tem no-break, UPS ou cargas eletrônicas sensíveis perto do ponto de conexão? Manda uma mensagem no nosso WhatsApp e a engenharia avalia o seu caso 📲
+
+#energiasolar #geracaodistribuida #fotovoltaica #santacatarina #grupoa #celescd #engenhariaeletrica #qualidadedeenergia #industriaeletronica #joinville #diagnosticotecnico #ampenergia
