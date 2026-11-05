@@ -1079,6 +1079,16 @@
       "dados_numericos": {
         "payback_autoconsumo_mt_grupoA_anos": "4-7 (estimativa ilustrativa, faixa típica para autoconsumo em média tensão Grupo A/CELESC-D)"
       }
+    },
+    {
+      "data": "2026-11-05",
+      "dia_semana": "quinta",
+      "pilar": "Dica prática — economia, dimensionamento, cuidados com o sistema",
+      "tema": "Garantia de performance (PR - Performance Ratio) como cláusula contratual no EPC de sistemas FV industriais, e o que checar antes de assinar para o payback prometido ter respaldo contratual",
+      "angulo": "Diferente das dicas técnicas já publicadas (monitoramento/limpeza em 16/07, DPS/surtos em 23/07, cabeamento CC/CA em 30/07, fator DC/AC/clipping em 06/08, tensão de string por temperatura em 13/08, THD em 20/08, azimute/tilt em 27/08, sombreamento/hot spots em 03/09, termografia de conexões em 10/09, ventilação da sala técnica em 17/09, vedação/impermeabilização em 24/09, remedição de aterramento em 01/10, degradação dos módulos no payback em 15/10, vida útil do inversor vs. módulos em 22/10 e dimensionamento para expansão futura em 29/10), hoje o foco é um ângulo contratual/financeiro: a diferença entre contrato que garante apenas potência instalada e contrato que garante PR (Performance Ratio) mínimo com período de medição e cláusula de compensação, mostrando que sem essa garantia o payback projetado não tem respaldo contratual. CTA de comentar, retomando o ciclo de rotação de CTAs do pilar (diagnóstico em 22/10, whatsapp em 29/10).",
+      "dados_numericos": {
+        "performance_ratio_tipico_pct": "75-85 (estimativa ilustrativa; faixa típica de PR em projetos bem dimensionados, varia por tecnologia, perdas térmicas e manutenção)"
+      }
     }
   ]
 }

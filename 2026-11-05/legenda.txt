@@ -1,0 +1,13 @@
+Seu contrato solar garante potência instalada… mas garante performance? ⚡
+
+Esse é um detalhe que passa batido em muita proposta: a "garantia de geração" muitas vezes é só uma estimativa no papel, sem nenhuma métrica contratual por trás. O indicador técnico que deveria estar ali é o PR (Performance Ratio) — a relação entre o que o sistema realmente gera e o que ele deveria gerar nas condições de irradiação do local.
+
+Na prática, projetos bem dimensionados em Grupo A/CELESC-D costumam operar com PR estimado na faixa de 75% a 85%*, variando com tecnologia dos módulos, perdas térmicas e rotina de manutenção. Um contrato de engenharia sério define esse PR mínimo garantido, o período de medição e o que acontece se a usina entregar menos que isso.
+
+Sem essa cláusula, o payback prometido na proposta comercial não tem nenhum mecanismo que o sustente depois da instalação — e o risco fica todo do lado de quem investiu.
+
+*Estimativa ilustrativa; a faixa real de PR depende do projeto, da tecnologia escolhida e das condições de operação de cada usina.
+
+Você já viu uma proposta de solar mencionando PR garantido, ou essa é a primeira vez que ouve falar nisso? Comenta aqui 👇
+
+#energiasolar #geracaodistribuida #fotovoltaica #santacatarina #grupoa #celescd #performanceratio #contratosolar #engenhariasolar #payback #diagnosticotecnico #ampenergia
