@@ -1089,6 +1089,13 @@
       "dados_numericos": {
         "performance_ratio_tipico_pct": "75-85 (estimativa ilustrativa; faixa típica de PR em projetos bem dimensionados, varia por tecnologia, perdas térmicas e manutenção)"
       }
+    },
+    {
+      "data": "2026-11-06",
+      "dia_semana": "sexta",
+      "pilar": "Bastidores / equipe / processo de engenharia",
+      "tema": "Revisão técnica cruzada do projeto por um segundo engenheiro antes da liberação para execução em obra",
+      "angulo": "Diferente dos bastidores de 17/07 (etapas gerais do processo), 24/07 (perfis técnicos do time), 31/07 (testes de comissionamento), 07/08 (visita técnica de campo), 14/08 (estudo de proteção/relé ANSI), 21/08 (homologação pós-comissionamento CELESC-D), 28/08 (cálculo estrutural NBR 6123), 04/09 (segurança do trabalho NR-35/10), 11/09 (comissionamento elétrico pré-energização), 18/09 (simulação computacional de geração), 25/09 (dossiê técnico final), 02/10 (inspeção de recebimento de materiais), 16/10 (compatibilização de projeto em campo), 23/10 (monitoramento regulatório contínuo) e 30/10 (relatório periódico de progresso de obra), aqui o foco é o controle de qualidade interno antes da obra começar — um segundo engenheiro revisa memorial de cálculo, dimensionamento de string e estudo de proteção antes da liberação do projeto para execução —, reforçando que a engenharia da Amper tem camada de revisão cruzada, não depende só de quem projetou originalmente, com CTA de salvar, retomando o ciclo de rotação de CTAs do pilar (salvar em 25/09, site em 02/10, whatsapp em 16/10, comentar em 23/10, diagnóstico em 30/10)."
     }
   ]
 }
