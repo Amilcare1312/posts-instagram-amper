@@ -1,0 +1,13 @@
+Sua usina está gerando o que o projeto prometeu? A maioria dos clientes não sabe responder com números.
+
+Todo projeto da Amper sai com uma curva de geração esperada, mês a mês, dentro do memorial técnico. Mas comparar essa curva com a geração real ao longo do tempo é um passo que o mercado costuma pular depois que o sistema liga.
+
+Na Amper, essa comparação entra na rotina: revisamos periodicamente os dados reais de geração contra a curva projetada, de olho em sinais de queda que vão além da sazonalidade normal — sujeira acumulada, sombreamento novo, string com desempenho abaixo do esperado.
+
+Pego a tempo, um ponto de queda de alguns pontos percentuais se resolve com manutenção simples. Ignorado por meses, pode virar perda relevante acumulada ao longo dos anos (estimativa ilustrativa, varia caso a caso).
+
+Engenharia que assina o projeto continua acompanhando o resultado depois da instalação. ☀️
+
+Quer saber como isso funciona no seu caso? Visita nosso site e conhece o processo completo.
+
+#energiasolar #geracaodistribuida #fotovoltaica #santacatarina #energiafotovoltaica #grupoa #celescd #engenhariasolar #performancesolar #monitoramento #bess #evse

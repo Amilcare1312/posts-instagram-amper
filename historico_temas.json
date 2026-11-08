@@ -1104,6 +1104,14 @@
       "tema": "Sombreamento térmico de painéis fotovoltaicos sobre coberturas metálicas de galpões industriais, reduzindo carga térmica e necessidade de climatização/exaustão",
       "angulo": "Reposicionar sustentabilidade como redução de consumo de energia (e não só geração): o sombreamento que os módulos fazem sobre o telhado metálico reduz o ganho de calor direto na cobertura, tornando o ambiente interno do galpão mais fresco nos horários de pico de sol e reduzindo a necessidade de exaustão/climatização forçada; ângulo inédito frente ao histórico do pilar (CO2 evitado, ecossistema FV+BESS+EVSE, vida util/reciclagem de modulos, perdas de T&D, consumo de agua, EPBT, pressao ESG, uso de telhados industriais, empregos tecnicos em SC, resiliencia climatica, eletrificacao de frotas, segunda vida de baterias, efeito sobre despacho termeletrico, substituicao de diesel de contingencia, carbon payback e agrovoltaica). CTA de WhatsApp, item que faltava no ciclo recente do pilar (site em 17/10, comentar em 24/10, salvar em 31/10).",
       "dados_usados": []
+    },
+    {
+      "data": "2026-11-08",
+      "dia_semana": "domingo",
+      "pilar": "Institucional / CTA comercial",
+      "tema": "Revisão periódica da geração real da usina contra a curva de geração projetada no memorial técnico, para detectar queda de performance antes que vire perda acumulada relevante",
+      "angulo": "Diferente dos institucionais de 12/07 (engenharia vs. \"vendedor de paineis\"), 19/07 (exclusividade Grupo A/CELESC-D), 26/07 (uma unica equipe FV+BESS+EVSE), 02/08 (ART como garantia formal), 09/08 (especializacao regional em SC), 16/08 (o que entra no diagnostico tecnico gratuito), 23/08 (acompanhamento pos-instalacao/monitoramento), 30/08 (equipamentos Tier 1), 06/09 (atendimento chave-na-mao ponta a ponta), 13/09 (postura consultiva \"ainda nao e a hora\"), 20/09 (capacidade limitada de diagnosticos/semana), 27/09 (memorial tecnico completo vs. proposta resumida), 11/10 (revisao tecnica cruzada por segundo engenheiro senior), 18/10 (diversidade de segmentos atendidos), 25/10 (segunda opiniao tecnica sobre projetos de terceiros) e 01/11 (processo de garantia/RMA conduzido pela engenharia), hoje o foco e o processo comparativo entre a geracao real e a curva projetada do memorial tecnico como ferramenta de deteccao precoce de perda de performance (sujeira, sombreamento novo, string com desempenho abaixo do esperado). CTA de visitar o site, seguindo o ciclo de rotacao de CTAs do pilar (whatsapp em 11/10, comentar em 18/10, salvar em 25/10, diagnostico em 01/11).",
+      "dados_usados": []
     }
   ]
 }

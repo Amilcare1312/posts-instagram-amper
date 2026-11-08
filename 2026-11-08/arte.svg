@@ -1,0 +1,75 @@
+<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0A2540"/>
+      <stop offset="100%" stop-color="#0D3054"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1080" height="1350" fill="url(#bg)"/>
+
+  <!-- Top bar -->
+  <text x="60" y="80" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="44" fill="#FFFFFF">AMPER ENERGIA</text>
+  <text x="60" y="118" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="20" letter-spacing="1" fill="#C9D6E3">SOLAR FV · BESS · EVSE · SANTA CATARINA</text>
+  <rect x="60" y="135" width="90" height="5" fill="#FF7A1A"/>
+
+  <!-- INSTITUCIONAL tag -->
+  <rect x="60" y="168" width="300" height="42" rx="6" fill="#FF7A1A"/>
+  <text x="210" y="196" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="22" fill="#0A2540" text-anchor="middle">INSTITUCIONAL</text>
+
+  <!-- Illustration: projected curve vs real curve chart, engineer flags the gap -->
+  <g transform="translate(90,250)">
+    <!-- chart panel -->
+    <rect x="0" y="0" width="900" height="330" rx="10" fill="#0F2E4E" stroke="#5A7591" stroke-width="2"/>
+
+    <!-- axes -->
+    <line x1="50" y1="270" x2="850" y2="270" stroke="#3E6890" stroke-width="2"/>
+    <line x1="50" y1="30" x2="50" y2="270" stroke="#3E6890" stroke-width="2"/>
+
+    <!-- projected curve (dashed, light) -->
+    <path d="M 50 190 Q 200 90 400 100 T 700 110 T 850 120" fill="none" stroke="#C9D6E3" stroke-width="4" stroke-dasharray="10,8"/>
+
+    <!-- real curve (orange, dips below near the end) -->
+    <path d="M 50 190 Q 200 95 400 108 Q 560 118 650 160 Q 720 195 790 215" fill="none" stroke="#FF7A1A" stroke-width="5"/>
+
+    <!-- gap marker -->
+    <g transform="translate(730,185)">
+      <line x1="0" y1="0" x2="0" y2="40" stroke="#FFFFFF" stroke-width="3" stroke-dasharray="4,4"/>
+      <polygon points="-24,-20 24,-20 14,-44 -14,-44" fill="#B64A1F"/>
+      <rect x="-3.5" y="-39" width="7" height="14" fill="#FFFFFF"/>
+      <circle cx="0" cy="-27" r="2.8" fill="#FFFFFF"/>
+    </g>
+
+    <!-- legend -->
+    <g font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#C9D6E3">
+      <line x1="580" y1="40" x2="615" y2="40" stroke="#C9D6E3" stroke-width="4" stroke-dasharray="8,6"/>
+      <text x="625" y="46">PROJETADO</text>
+      <line x1="580" y1="68" x2="615" y2="68" stroke="#FF7A1A" stroke-width="5"/>
+      <text x="625" y="74">REAL</text>
+    </g>
+
+    <text x="50" y="305" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="17" fill="#C9D6E3">GERAÇÃO MENSAL — CURVA PROJETADA x REAL</text>
+  </g>
+
+  <!-- Headline -->
+  <text x="60" y="690" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="38" fill="#FFFFFF">O PROJETO DIZ O</text>
+  <text x="60" y="738" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="38" fill="#FFFFFF">QUANTO A USINA</text>
+  <text x="60" y="815" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="62" fill="#FF7A1A">DEVERIA GERAR</text>
+
+  <line x1="60" y1="855" x2="1020" y2="855" stroke="#3E6890" stroke-width="2"/>
+
+  <!-- Body -->
+  <text x="60" y="905" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#FFFFFF">E quanto ela está gerando?</text>
+  <text x="60" y="940" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#FFFFFF">Revisamos a geração real contra</text>
+  <text x="60" y="975" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#FFFFFF">a curva do memorial técnico para</text>
+  <text x="60" y="1010" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#FFFFFF">flagrar queda de performance a tempo.</text>
+
+  <text x="60" y="1060" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="22" fill="#C9D6E3">*Perda não tratada pode se acumular</text>
+  <text x="60" y="1091" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="22" fill="#C9D6E3">ao longo dos anos — estimativa</text>
+  <text x="60" y="1122" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="22" fill="#C9D6E3">ilustrativa, varia caso a caso.</text>
+
+  <!-- Bottom CTA bar -->
+  <rect x="0" y="1200" width="1080" height="150" fill="#FF7A1A"/>
+  <text x="60" y="1265" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="42" fill="#0A2540">CONHEÇA NO SITE ☀️</text>
+  <text x="60" y="1315" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#0A2540">@ampenergia</text>
+</svg>
