@@ -1112,6 +1112,14 @@
       "tema": "Revisão periódica da geração real da usina contra a curva de geração projetada no memorial técnico, para detectar queda de performance antes que vire perda acumulada relevante",
       "angulo": "Diferente dos institucionais de 12/07 (engenharia vs. \"vendedor de paineis\"), 19/07 (exclusividade Grupo A/CELESC-D), 26/07 (uma unica equipe FV+BESS+EVSE), 02/08 (ART como garantia formal), 09/08 (especializacao regional em SC), 16/08 (o que entra no diagnostico tecnico gratuito), 23/08 (acompanhamento pos-instalacao/monitoramento), 30/08 (equipamentos Tier 1), 06/09 (atendimento chave-na-mao ponta a ponta), 13/09 (postura consultiva \"ainda nao e a hora\"), 20/09 (capacidade limitada de diagnosticos/semana), 27/09 (memorial tecnico completo vs. proposta resumida), 11/10 (revisao tecnica cruzada por segundo engenheiro senior), 18/10 (diversidade de segmentos atendidos), 25/10 (segunda opiniao tecnica sobre projetos de terceiros) e 01/11 (processo de garantia/RMA conduzido pela engenharia), hoje o foco e o processo comparativo entre a geracao real e a curva projetada do memorial tecnico como ferramenta de deteccao precoce de perda de performance (sujeira, sombreamento novo, string com desempenho abaixo do esperado). CTA de visitar o site, seguindo o ciclo de rotacao de CTAs do pilar (whatsapp em 11/10, comentar em 18/10, salvar em 25/10, diagnostico em 01/11).",
       "dados_usados": []
+    },
+    {
+      "data": "2026-11-09",
+      "dia_semana": "Segunda-feira",
+      "pilar": "Educativo",
+      "tema": "Mito de que ter energia solar garante luz durante uma queda de energia da CELESC-D",
+      "angulo": "Sistemas fotovoltaicos on-grid (sem bateria) desligam junto com a rede durante uma queda de energia, por exigencia normativa de anti-ilhamento (seguranca da equipe de manutencao da concessionaria) — nao e defeito. Continuidade durante apagao so existe com BESS dimensionado para isso. CTA de comentar, fechando o ciclo de rotacao de CTAs do pilar Educativo (whatsapp 12/10, salvar 19/10, diagnostico 26/10, site 02/11).",
+      "dados_numericos": "Nenhum dado numerico/estatistico usado neste post — conteudo tecnico-normativo (anti-ilhamento)."
     }
   ]
 }

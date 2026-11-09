@@ -1,0 +1,13 @@
+Tenho energia solar, então quando a CELESC-D cai, minha empresa continua com luz. Mito ou verdade?
+
+Mito. Um sistema fotovoltaico comum (sem bateria) desliga junto com a rede quando ela cai — e isso não é defeito, é segurança.
+
+A norma exige que o inversor pare de gerar no instante em que detecta falta de energia na rede (anti-ilhamento), justamente para não energizar a linha enquanto a equipe da concessionária está fazendo o reparo.
+
+Isso significa que energia solar on-grid reduz a fatura e a dependência da rede no dia a dia, mas não entrega continuidade automática durante um apagão.
+
+Quem precisa manter linha de produção, câmara fria ou processo crítico funcionando durante uma queda de energia precisa de BESS dimensionado para isso — painel solar sozinho não resolve essa parte.
+
+Sua empresa já teve perda por queda de energia da CELESC-D? Comenta aqui 👇 ☀️
+
+#energiasolar #geracaodistribuida #fotovoltaica #santacatarina #mitoouverdade #ongrid #bess #celescd #grupoa #engenhariasolar #ampenergia
