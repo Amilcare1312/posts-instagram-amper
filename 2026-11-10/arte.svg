@@ -1,0 +1,90 @@
+<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0A2540"/>
+      <stop offset="100%" stop-color="#0D3054"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1080" height="1350" fill="url(#bg)"/>
+
+  <!-- Top bar -->
+  <text x="60" y="80" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="44" fill="#FFFFFF">AMPER ENERGIA</text>
+  <text x="60" y="118" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="20" letter-spacing="1" fill="#C9D6E3">SOLAR FV · BESS · EVSE · SANTA CATARINA</text>
+  <rect x="60" y="135" width="90" height="5" fill="#FF7A1A"/>
+
+  <!-- DADO DO DIA tag -->
+  <rect x="60" y="168" width="230" height="42" rx="6" fill="#FF7A1A"/>
+  <text x="175" y="196" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="20" fill="#0A2540" text-anchor="middle">DADO DO DIA</text>
+
+  <!-- Illustration: fatura de energia dividida em energia x tributos -->
+  <g transform="translate(70,245)">
+    <rect x="0" y="0" width="940" height="330" rx="8" fill="#FFFFFF"/>
+
+    <!-- Fatura (bill) icon -->
+    <g transform="translate(130,40)">
+      <rect x="-70" y="0" width="140" height="190" rx="6" fill="#EEF3F8" stroke="#0A2540" stroke-width="3"/>
+      <line x1="-50" y1="35" x2="50" y2="35" stroke="#5A7591" stroke-width="4"/>
+      <line x1="-50" y1="60" x2="50" y2="60" stroke="#5A7591" stroke-width="4"/>
+      <line x1="-50" y1="85" x2="20" y2="85" stroke="#5A7591" stroke-width="4"/>
+      <text x="0" y="135" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="18" fill="#0A2540">FATURA</text>
+      <text x="0" y="160" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#3E6890">CELESC-D</text>
+    </g>
+
+    <!-- Arrow -->
+    <line x1="245" y1="135" x2="330" y2="135" stroke="#C9D6E3" stroke-width="5"/>
+    <polygon points="330,122 355,135 330,148" fill="#C9D6E3"/>
+
+    <!-- Stacked bar: energia vs tributos -->
+    <g transform="translate(420,20)">
+      <rect x="0" y="0" width="110" height="210" rx="6" fill="#0A2540"/>
+      <rect x="0" y="0" width="110" height="52" rx="6" fill="#FF7A1A"/>
+      <text x="55" y="31" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="17" fill="#0A2540">IMPOSTOS</text>
+      <text x="55" y="130" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="16" fill="#FFFFFF">ENERGIA</text>
+      <text x="55" y="240" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#0A2540">COMO É HOJE*</text>
+    </g>
+
+    <!-- Arrow 2 -->
+    <line x1="580" y1="135" x2="660" y2="135" stroke="#C9D6E3" stroke-width="5"/>
+    <polygon points="660,122 685,135 660,148" fill="#C9D6E3"/>
+
+    <!-- Solar panel reducing both -->
+    <g transform="translate(760,20)">
+      <rect x="0" y="0" width="110" height="140" rx="6" fill="#0A2540"/>
+      <rect x="0" y="0" width="110" height="24" rx="6" fill="#FF7A1A"/>
+      <text x="55" y="80" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="15" fill="#FFFFFF">COM GD*</text>
+      <!-- small panel icon -->
+      <g transform="translate(20,95)">
+        <rect x="0" y="0" width="70" height="35" rx="3" fill="#FFFFFF" stroke="#0A2540" stroke-width="2"/>
+        <line x1="17" y1="0" x2="17" y2="35" stroke="#0A2540" stroke-width="1.5"/>
+        <line x1="35" y1="0" x2="35" y2="35" stroke="#0A2540" stroke-width="1.5"/>
+        <line x1="53" y1="0" x2="53" y2="35" stroke="#0A2540" stroke-width="1.5"/>
+        <line x1="0" y1="17" x2="70" y2="17" stroke="#0A2540" stroke-width="1.5"/>
+      </g>
+      <text x="55" y="195" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#0A2540">AS DUAS PARTES</text>
+      <text x="55" y="217" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#0A2540">CAEM JUNTAS</text>
+    </g>
+  </g>
+
+  <!-- Headline -->
+  <text x="60" y="690" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="40" fill="#FFFFFF">NA FATURA DE LUZ,</text>
+  <text x="60" y="742" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="40" fill="#FFFFFF">PARTE É IMPOSTO:</text>
+  <text x="60" y="828" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="72" fill="#FF7A1A">15% A 25%*</text>
+
+  <line x1="60" y1="865" x2="1020" y2="865" stroke="#3E6890" stroke-width="2"/>
+
+  <!-- Body -->
+  <text x="60" y="915" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#FFFFFF">Parte da conta de energia do</text>
+  <text x="60" y="950" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#FFFFFF">Grupo A/CELESC-D é tributo, não</text>
+  <text x="60" y="985" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#FFFFFF">consumo. Gerar sua energia reduz</text>
+  <text x="60" y="1020" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#FFFFFF">a base tributável também.</text>
+
+  <text x="60" y="1070" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="21" fill="#C9D6E3">*Faixa estimada e ilustrativa, varia por</text>
+  <text x="60" y="1101" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="21" fill="#C9D6E3">enquadramento tarifário e classificação fiscal.</text>
+  <text x="60" y="1132" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="21" fill="#C9D6E3">Não é orientação tributária formal.</text>
+
+  <!-- Bottom CTA bar -->
+  <rect x="0" y="1200" width="1080" height="150" fill="#FF7A1A"/>
+  <text x="60" y="1265" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="40" fill="#0A2540">COMENTA AQUI 💬</text>
+  <text x="60" y="1315" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#0A2540">@ampenergia</text>
+</svg>

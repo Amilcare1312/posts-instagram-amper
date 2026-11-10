@@ -1120,6 +1120,14 @@
       "tema": "Mito de que ter energia solar garante luz durante uma queda de energia da CELESC-D",
       "angulo": "Sistemas fotovoltaicos on-grid (sem bateria) desligam junto com a rede durante uma queda de energia, por exigencia normativa de anti-ilhamento (seguranca da equipe de manutencao da concessionaria) — nao e defeito. Continuidade durante apagao so existe com BESS dimensionado para isso. CTA de comentar, fechando o ciclo de rotacao de CTAs do pilar Educativo (whatsapp 12/10, salvar 19/10, diagnostico 26/10, site 02/11).",
       "dados_numericos": "Nenhum dado numerico/estatistico usado neste post — conteudo tecnico-normativo (anti-ilhamento)."
+    },
+    {
+      "data": "2026-11-10",
+      "dia_semana": "Terca-feira",
+      "pilar": "Dado/numero de impacto",
+      "tema": "Peso dos tributos (ICMS e encargos) na fatura de energia do Grupo A/CELESC-D, e como a geracao distribuida reduz tambem a base tributavel, nao so o consumo faturado",
+      "angulo": "Diferente dos dados de 14/07 (economia % e R$ na fatura), 21/07 (payback PPA investidores), 28/07 (efeito composto do reajuste tarifario), 04/08 (payback + vida util), 11/08 (peso da demanda contratada + BESS), 18/08 (crescimento da GD em SC), 25/08 (prazo protocolo -> paralelismo), 01/09 (m2/kWp), 08/09 (cronograma do Fio B), 15/09 (geracao kWh/kWp/mes), 22/09 (investimento R$/kWp), 29/09 (TIR), 13/10 (degradacao/garantia de performance 25 anos), 20/10 (custo de adiar a decisao 1 ano, Fio B), 27/10 (LCOE vs. tarifa) e 03/11 (irradiacao SC vs. Nordeste), hoje o foco e mostrar que parte da fatura de energia do Grupo A/CELESC-D e tributo (ICMS e encargos), nao consumo, e que a geracao distribuida reduz tambem essa base tributavel, ampliando o efeito da economia alem do kWh que deixa de vir da rede. CTA de comentar, completando o ciclo de rotacao de CTAs do pilar (diagnostico em 13/10, whatsapp em 20/10, salvar em 27/10, site em 03/11).",
+      "dados_numericos": "Peso estimado e ilustrativo de tributos (ICMS e encargos) na fatura: 15% a 25% do valor total, variando por enquadramento tarifario e classificacao fiscal (faixa nao oficial, apenas referencial)."
     }
   ]
 }
