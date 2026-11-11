@@ -1,0 +1,13 @@
+Recarregar a frota de empilhadeiras elétricas de madrugada parecia o mais prático — até virar o maior pico de demanda da fábrica. 🔋
+
+Numa indústria de beneficiamento de arroz genérica no Vale do Itajaí/SC, o sistema fotovoltaico já estava dimensionado e rodando dentro do esperado. O problema estava em outro ponto da operação: os carregadores das empilhadeiras elétricas (EVSE) ficavam ligados fora do horário de geração solar, puxando energia da rede justo no período de maior tarifa e empurrando a demanda contratada para cima.
+
+A engenharia da Amper reprogramou a lógica de recarga para acompanhar a curva de geração do FV, concentrando o carregamento das baterias nos horários de sol mais forte — quando a energia já é autoproduzida e não tarifada pela CELESC-D no mesmo patamar.
+
+Resultado: redução estimada de 15-25%* no pico de demanda atribuído à recarga, sem alterar a rotina da frota nem a disponibilidade dos equipamentos.
+
+*Estimativa ilustrativa; o resultado real depende da curva de carga e do estudo de viabilidade específico de cada operação.
+
+Sua indústria também tem frota elétrica ou equipamentos que recarregam fora de hora? Salva esse post pra revisar o horário de recarga da sua operação 📌
+
+#energiasolar #geracaodistribuida #fotovoltaica #santacatarina #evse #eletromobilidade #empilhadeiraeletrica #grupoa #celescd #engenhariaeletrica #casodesucesso #ampenergia
