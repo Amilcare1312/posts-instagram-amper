@@ -1136,6 +1136,16 @@
       "tema": "Integracao FV + EVSE: reprogramacao da recarga de empilhadeiras eletricas para coincidir com a geracao solar, reduzindo o pico de demanda fora do horario de sol",
       "angulo": "Angulo inedito frente aos ultimos 30 dias do pilar (IP66/washdown em 16/09, derating termico em 23/09, erro de demanda por soma de placa em 30/09, harmonicos/THD em frigorifico em 14/10, BESS peak shaving em embalagens de papelao em 21/10, MPPT/orientacao de telhado em autopecas em 28/10, coordenacao de protecao FV x UPS em componentes eletronicos em 04/11) - aqui o foco sai da infraestrutura eletrica da fabrica e do proprio FV e vai para a integracao com EVSE, sincronizando a recarga das empilhadeiras eletricas com a curva de geracao solar; novo setor generico (beneficiamento de arroz no Vale do Itajai/SC) ainda nao usado nos exemplos anteriores do pilar (metalurgica, textil, ceramica, laticinios, transportadora, centro de distribuicao, moveleira, tintas e vernizes, curtume, bebidas, fundicao, plasticos por injecao, frigorifico, embalagens de papelao, autopecas, componentes eletronicos). CTA de salvar, retomando o ciclo de rotacao de CTAs do pilar (whatsapp em 23/09 e 04/11, salvar em 30/09, comentar em 14/10, site em 21/10, diagnostico em 28/10).",
       "dados_numericos": "Reducao estimada e ilustrativa de 15% a 25% no pico de demanda atribuido a recarga das empilhadeiras eletricas, apos reprogramar o horario de carga para coincidir com a geracao solar (faixa referencial, nao oficial, variando por curva de carga e estudo de viabilidade de cada operacao)."
+    },
+    {
+      "data": "2026-11-12",
+      "dia_semana": "quinta",
+      "pilar": "Dica prática — economia, dimensionamento, cuidados com o sistema",
+      "tema": "Fator de potência (FP) em sistemas FV Grupo A/CELESC-D: risco de cobrança extra por energia reativa mesmo com o sistema cobrindo o consumo ativo, e o ajuste via comissionamento do inversor",
+      "angulo": "Diferente das dicas técnicas já publicadas (monitoramento/limpeza em 16/07, DPS/surtos em 23/07, cabeamento CC/CA em 30/07, fator DC/AC/clipping em 06/08, tensão de string por temperatura em 13/08, THD em 20/08, azimute/tilt em 27/08, sombreamento/hot spots em 03/09, termografia de conexões em 10/09, ventilação da sala técnica em 17/09, vedação/impermeabilização em 24/09, remedição de aterramento em 01/10, degradação dos módulos no payback em 15/10, vida útil do inversor vs. módulos em 22/10, dimensionamento para expansão futura em 29/10 e garantia de performance/PR contratual em 05/11), hoje o foco sai da infraestrutura do próprio FV e vai para a qualidade de energia/tarifário: o fator de potência (energia reativa) da unidade Grupo A, mostrando que gerar 100% do consumo ativo não evita cobrança extra se o FP sair da faixa exigida, e que o ajuste é feito via função de controle de fator de potência do inversor no comissionamento. CTA de visitar o site, retomando o ciclo de rotação de CTAs do pilar (diagnóstico em 22/10, whatsapp em 29/10, comentar em 05/11).",
+      "dados_numericos": {
+        "fator_de_potencia_referencia_usual": "0,92 ou superior (referência ilustrativa de faixa usual; o limite real depende do contrato de uso do sistema de distribuição - CUSD - vigente de cada unidade, não é dado oficial certificado)"
+      }
     }
   ]
 }

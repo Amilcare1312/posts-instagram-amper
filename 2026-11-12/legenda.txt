@@ -1,0 +1,15 @@
+Sua indústria pode gerar praticamente toda a energia que consome e ainda assim levar multa de reativos na conta da CELESC-D. ⚡
+
+Isso acontece quando o fator de potência da unidade sai da faixa exigida pela distribuidora — um detalhe que o projeto elétrico do FV já resolveria, mas que o comissionamento às vezes deixa passar.
+
+Em unidades do Grupo A, ultrapassar o limite de energia reativa (indutiva ou capacitiva) gera cobrança adicional na fatura, mesmo com o sistema fotovoltaico cobrindo boa parte do consumo ativo.
+
+A maioria dos inversores de média/alta potência tem função de controle de fator de potência, ajustável no comissionamento para manter a operação dentro do limite contratual com a distribuidora — referência usual próxima de 0,92*.
+
+Ajuste simples quando feito na entrega do sistema. Caro quando descoberto só depois, na fatura.
+
+*Parâmetro de referência ilustrativo; o limite real depende do contrato de uso do sistema de distribuição (CUSD) vigente de cada unidade.
+
+Quer confirmar se o fator de potência da sua unidade está dentro do limite? Visita nosso site e fala com a engenharia 🔗
+
+#energiasolar #geracaodistribuida #fotovoltaica #santacatarina #fatordepotencia #energiareativa #grupoa #celescd #qualidadedeenergia #engenhariaeletrica #dicatecnica #ampenergia
