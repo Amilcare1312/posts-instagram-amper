@@ -1,0 +1,84 @@
+<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0A2540"/>
+      <stop offset="100%" stop-color="#0D3054"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1080" height="1350" fill="url(#bg)"/>
+
+  <!-- Top bar -->
+  <text x="60" y="80" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="44" fill="#FFFFFF">AMPER ENERGIA</text>
+  <text x="60" y="118" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="20" letter-spacing="1" fill="#C9D6E3">SOLAR FV · BESS · EVSE · SANTA CATARINA</text>
+  <rect x="60" y="135" width="90" height="5" fill="#FF7A1A"/>
+
+  <!-- Illustration: auditoria tecnica de fornecedores -->
+  <g transform="translate(60,185)">
+    <rect x="0" y="0" width="960" height="330" rx="18" fill="#12395F" stroke="#3E6890" stroke-width="3"/>
+
+    <text x="40" y="45" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#C9D6E3">CURADORIA TÉCNICA DE FORNECEDORES</text>
+
+    <!-- dividers -->
+    <line x1="340" y1="65" x2="340" y2="300" stroke="#3E6890" stroke-width="2" stroke-dasharray="6,6"/>
+    <line x1="660" y1="65" x2="660" y2="300" stroke="#3E6890" stroke-width="2" stroke-dasharray="6,6"/>
+
+    <!-- ITEM 1: MODULO -->
+    <g transform="translate(55,95)">
+      <rect x="0" y="0" width="130" height="95" rx="8" fill="#0A2540" stroke="#3E6890" stroke-width="3"/>
+      <line x1="0" y1="24" x2="130" y2="24" stroke="#3E6890" stroke-width="2"/>
+      <line x1="0" y1="48" x2="130" y2="48" stroke="#3E6890" stroke-width="2"/>
+      <line x1="0" y1="72" x2="130" y2="72" stroke="#3E6890" stroke-width="2"/>
+      <line x1="43" y1="0" x2="43" y2="95" stroke="#3E6890" stroke-width="2"/>
+      <line x1="86" y1="0" x2="86" y2="95" stroke="#3E6890" stroke-width="2"/>
+      <circle cx="122" cy="8" r="22" fill="#FF7A1A"/>
+      <path d="M 111 8 L 119 17 L 134 -2" fill="none" stroke="#0A2540" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="65" y="130" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#C9D6E3" text-anchor="middle">MÓDULO</text>
+      <text x="65" y="155" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#8FA7C2" text-anchor="middle">INMETRO ok</text>
+    </g>
+
+    <!-- ITEM 2: INVERSOR -->
+    <g transform="translate(375,95)">
+      <rect x="0" y="0" width="130" height="95" rx="8" fill="#0A2540" stroke="#3E6890" stroke-width="3"/>
+      <polygon points="72,12 48,55 65,55 56,85 90,42 72,42" fill="#FF7A1A"/>
+      <circle cx="122" cy="8" r="22" fill="#FF7A1A"/>
+      <path d="M 111 8 L 119 17 L 134 -2" fill="none" stroke="#0A2540" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="65" y="130" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#C9D6E3" text-anchor="middle">INVERSOR</text>
+      <text x="65" y="155" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#8FA7C2" text-anchor="middle">datasheet ok</text>
+    </g>
+
+    <!-- ITEM 3: BESS -->
+    <g transform="translate(695,95)">
+      <rect x="0" y="0" width="130" height="95" rx="8" fill="#0A2540" stroke="#3E6890" stroke-width="3"/>
+      <rect x="55" y="-8" width="20" height="10" rx="2" fill="#3E6890"/>
+      <rect x="25" y="2" width="80" height="80" rx="6" fill="none" stroke="#3E6890" stroke-width="3"/>
+      <line x1="55" y1="25" x2="55" y2="59" stroke="#FF7A1A" stroke-width="6" stroke-linecap="round"/>
+      <line x1="37" y1="42" x2="73" y2="42" stroke="#FF7A1A" stroke-width="6" stroke-linecap="round"/>
+      <circle cx="122" cy="8" r="22" fill="#FF7A1A"/>
+      <path d="M 111 8 L 119 17 L 134 -2" fill="none" stroke="#0A2540" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="65" y="130" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#C9D6E3" text-anchor="middle">BESS</text>
+      <text x="65" y="155" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#8FA7C2" text-anchor="middle">pós-venda ok</text>
+    </g>
+  </g>
+
+  <!-- Headline -->
+  <text x="60" y="610" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="48" fill="#FFFFFF">ANTES DA OBRA,</text>
+  <text x="60" y="672" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="48" fill="#FF7A1A">CADA EQUIPAMENTO</text>
+  <text x="60" y="734" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="48" fill="#FFFFFF">PASSA POR AUDITORIA</text>
+
+  <line x1="60" y1="772" x2="1020" y2="772" stroke="#3E6890" stroke-width="2"/>
+
+  <!-- Body -->
+  <text x="60" y="835" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#FFFFFF">Datasheet revisado,</text>
+  <text x="60" y="872" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#FFFFFF">certificação conferida e</text>
+  <text x="60" y="909" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#FFFFFF">suporte pós-venda checado</text>
+  <text x="60" y="946" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#FFFFFF">antes de entrar na proposta.</text>
+
+  <text x="60" y="1005" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="24" fill="#C9D6E3">Preço baixo sozinho nunca</text>
+  <text x="60" y="1040" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="24" fill="#C9D6E3">é critério técnico pra nós.</text>
+
+  <!-- Bottom CTA bar -->
+  <rect x="0" y="1200" width="1080" height="150" fill="#FF7A1A"/>
+  <text x="60" y="1258" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="34" fill="#0A2540">AGENDA SEU DIAGNÓSTICO 📋</text>
+  <text x="60" y="1315" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#0A2540">@ampenergia</text>
+</svg>

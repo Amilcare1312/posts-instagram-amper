@@ -1146,6 +1146,14 @@
       "dados_numericos": {
         "fator_de_potencia_referencia_usual": "0,92 ou superior (referência ilustrativa de faixa usual; o limite real depende do contrato de uso do sistema de distribuição - CUSD - vigente de cada unidade, não é dado oficial certificado)"
       }
+    },
+    {
+      "data": "2026-11-13",
+      "dia_semana": "sexta",
+      "pilar": "Bastidores / equipe / processo de engenharia",
+      "tema": "Curadoria técnica de fornecedores e fabricantes de equipamentos (módulos, inversores, BESS) feita pela engenharia da Amper antes de entrarem em qualquer proposta",
+      "angulo": "Mostrar os critérios técnicos usados na triagem de fornecedores — revisão de datasheet, certificação INMETRO e histórico real de assistência técnica no Brasil — reforçando que preço baixo isolado não é critério, com CTA de agendar diagnóstico gratuito",
+      "dados_usados": []
     }
   ]
 }
