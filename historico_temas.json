@@ -1154,6 +1154,20 @@
       "tema": "Curadoria técnica de fornecedores e fabricantes de equipamentos (módulos, inversores, BESS) feita pela engenharia da Amper antes de entrarem em qualquer proposta",
       "angulo": "Mostrar os critérios técnicos usados na triagem de fornecedores — revisão de datasheet, certificação INMETRO e histórico real de assistência técnica no Brasil — reforçando que preço baixo isolado não é critério, com CTA de agendar diagnóstico gratuito",
       "dados_usados": []
+    },
+    {
+      "data": "2026-11-14",
+      "dia_semana": "sabado",
+      "pilar": "Sustentabilidade / propósito",
+      "tema": "Painéis solares flutuantes (floating PV) sobre lagoas e reservatórios industriais — geração de energia sem disputar área com a operação e redução da evaporação da lâmina d'água",
+      "angulo": "Diferente da agrovoltaica (31/10, uso duplo de terreno) e do sombreamento térmico de galpões (07/11, redução de carga térmica em cobertura metálica), hoje o foco é o aproveitamento de superfícies de água (lagoas de efluentes, reservatórios de processo, bacias de contenção) para instalação de painéis flutuantes, gerando energia sem competir por área de telhado ou solo produtivo, com o ganho adicional de reduzir a evaporação da água armazenada. Ângulo inédito frente ao histórico do pilar. CTA de agendar diagnóstico gratuito, variando do ciclo recente (site em 17/10, comentar em 24/10, salvar em 31/10, whatsapp em 07/11).",
+      "dados_numericos": [
+        {
+          "dado": "Redução de evaporação da lâmina d'água por cobertura com floating PV",
+          "faixa": "30% a 70%, conforme % de cobertura e clima",
+          "tipo": "estimativa ilustrativa baseada em referências internacionais, não medição de projeto próprio"
+        }
+      ]
     }
   ]
 }

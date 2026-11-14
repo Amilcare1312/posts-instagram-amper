@@ -1,0 +1,102 @@
+<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0A2540"/>
+      <stop offset="100%" stop-color="#0D3054"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1080" height="1350" fill="url(#bg)"/>
+
+  <!-- Top bar -->
+  <text x="60" y="80" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="44" fill="#FFFFFF">AMPER ENERGIA</text>
+  <text x="60" y="118" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="20" letter-spacing="1" fill="#C9D6E3">SOLAR FV · BESS · EVSE · SANTA CATARINA</text>
+  <rect x="60" y="135" width="90" height="5" fill="#FF7A1A"/>
+
+  <!-- SUSTENTABILIDADE tag -->
+  <rect x="60" y="168" width="330" height="42" rx="6" fill="#FF7A1A"/>
+  <text x="225" y="196" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="22" fill="#0A2540" text-anchor="middle">SUSTENTABILIDADE</text>
+
+  <!-- Illustration: open lagoon evaporating vs floating PV lagoon -->
+  <g transform="translate(60,250)">
+    <!-- sun -->
+    <circle cx="880" cy="0" r="24" fill="#FF7A1A"/>
+    <line x1="880" y1="-40" x2="880" y2="-54" stroke="#FF7A1A" stroke-width="4"/>
+    <line x1="910" y1="-16" x2="922" y2="-26" stroke="#FF7A1A" stroke-width="4"/>
+    <line x1="850" y1="-16" x2="838" y2="-26" stroke="#FF7A1A" stroke-width="4"/>
+
+    <!-- ground line -->
+    <line x1="0" y1="340" x2="940" y2="340" stroke="#3E6890" stroke-width="3"/>
+
+    <!-- LEFT: open lagoon, evaporation -->
+    <g transform="translate(10,150)">
+      <rect x="0" y="60" width="300" height="110" rx="6" fill="#123A5E" stroke="#3E6890" stroke-width="2"/>
+      <path d="M 10 95 Q 25 85 40 95 Q 55 105 70 95 Q 85 85 100 95 Q 115 105 130 95 Q 145 85 160 95 Q 175 105 190 95 Q 205 85 220 95 Q 235 105 250 95 Q 265 85 280 95" stroke="#4F8FC0" stroke-width="3" fill="none"/>
+      <path d="M 10 125 Q 25 115 40 125 Q 55 135 70 125 Q 85 115 100 125 Q 115 135 130 125 Q 145 115 160 125 Q 175 135 190 125 Q 205 115 220 125 Q 235 135 250 125 Q 265 115 280 125" stroke="#3E6890" stroke-width="3" fill="none"/>
+      <!-- evaporation arrows rising -->
+      <path d="M 60 50 Q 68 25 58 0" stroke="#C9D6E3" stroke-width="3" fill="none" stroke-linecap="round" opacity="0.8"/>
+      <path d="M 120 50 Q 128 25 118 0" stroke="#C9D6E3" stroke-width="3" fill="none" stroke-linecap="round" opacity="0.8"/>
+      <path d="M 180 50 Q 188 25 178 0" stroke="#C9D6E3" stroke-width="3" fill="none" stroke-linecap="round" opacity="0.8"/>
+      <path d="M 230 50 Q 238 25 228 0" stroke="#C9D6E3" stroke-width="3" fill="none" stroke-linecap="round" opacity="0.8"/>
+      <!-- low water level marker -->
+      <line x1="300" y1="70" x2="316" y2="70" stroke="#FF7A1A" stroke-width="3"/>
+      <text x="150" y="205" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="19" fill="#C9D6E3">LAGOA EXPOSTA</text>
+    </g>
+
+    <!-- RIGHT: lagoon covered by floating PV -->
+    <g transform="translate(560,150)">
+      <rect x="0" y="60" width="300" height="110" rx="6" fill="#123A5E" stroke="#3E6890" stroke-width="2"/>
+      <path d="M 10 125 Q 25 115 40 125 Q 55 135 70 125 Q 85 115 100 125 Q 115 135 130 125 Q 145 115 160 125 Q 175 135 190 125 Q 205 115 220 125 Q 235 135 250 125 Q 265 115 280 125" stroke="#3E6890" stroke-width="3" fill="none"/>
+      <!-- floating panel platform -->
+      <g transform="translate(14,48)">
+        <rect x="0" y="0" width="272" height="30" rx="4" fill="#0A2540" stroke="#FF7A1A" stroke-width="2"/>
+        <line x1="10" y1="10" x2="262" y2="10" stroke="#5A7591" stroke-width="1.5"/>
+        <line x1="10" y1="20" x2="262" y2="20" stroke="#5A7591" stroke-width="1.5"/>
+        <line x1="68" y1="0" x2="68" y2="30" stroke="#5A7591" stroke-width="1.5"/>
+        <line x1="136" y1="0" x2="136" y2="30" stroke="#5A7591" stroke-width="1.5"/>
+        <line x1="204" y1="0" x2="204" y2="30" stroke="#5A7591" stroke-width="1.5"/>
+        <!-- floats under platform -->
+        <ellipse cx="30" cy="34" rx="16" ry="7" fill="#1A3E63" stroke="#5A7591" stroke-width="1.5"/>
+        <ellipse cx="136" cy="34" rx="16" ry="7" fill="#1A3E63" stroke="#5A7591" stroke-width="1.5"/>
+        <ellipse cx="242" cy="34" rx="16" ry="7" fill="#1A3E63" stroke="#5A7591" stroke-width="1.5"/>
+      </g>
+      <!-- faint single evaporation arrow remaining -->
+      <path d="M 150 44 Q 156 28 150 12" stroke="#C9D6E3" stroke-width="3" fill="none" stroke-linecap="round" opacity="0.3"/>
+      <!-- energy bolt -->
+      <g transform="translate(316,30)">
+        <path d="M 10 0 L 0 26 L 10 26 L 2 50 L 24 20 L 12 20 Z" fill="#FF7A1A"/>
+      </g>
+      <text x="150" y="205" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="19" fill="#C9D6E3">LAGOA + FLOATING PV</text>
+    </g>
+
+    <!-- arrow between the two -->
+    <path d="M 335 280 L 555 280" stroke="#FF7A1A" stroke-width="4" fill="none" marker-end="url(#arrowhead)"/>
+    <defs>
+      <marker id="arrowhead" markerWidth="12" markerHeight="12" refX="6" refY="6" orient="auto">
+        <path d="M0,0 L12,6 L0,12 Z" fill="#FF7A1A"/>
+      </marker>
+    </defs>
+  </g>
+
+  <!-- Headline -->
+  <text x="60" y="705" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="38" fill="#FFFFFF">SUA LAGOA TAMBÉM</text>
+  <text x="60" y="753" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="38" fill="#FFFFFF">PODE GERAR ENERGIA</text>
+  <text x="60" y="830" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="70" fill="#FF7A1A">FLOATING PV</text>
+
+  <line x1="60" y1="868" x2="1020" y2="868" stroke="#3E6890" stroke-width="2"/>
+
+  <!-- Body -->
+  <text x="60" y="918" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#FFFFFF">Painéis flutuantes sobre lagoas</text>
+  <text x="60" y="953" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#FFFFFF">e reservatórios geram energia</text>
+  <text x="60" y="988" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#FFFFFF">sem disputar área — e ainda</text>
+  <text x="60" y="1023" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#FFFFFF">reduzem a evaporação da água.</text>
+
+  <text x="60" y="1073" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="22" fill="#C9D6E3">*Redução de evaporação (30-70%) é</text>
+  <text x="60" y="1104" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="22" fill="#C9D6E3">estimativa ilustrativa de referências,</text>
+  <text x="60" y="1135" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="22" fill="#C9D6E3">varia com clima e % de cobertura.</text>
+
+  <!-- Bottom CTA bar -->
+  <rect x="0" y="1200" width="1080" height="150" fill="#FF7A1A"/>
+  <text x="60" y="1265" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="40" fill="#0A2540">AGENDE SEU DIAGNÓSTICO 📩</text>
+  <text x="60" y="1315" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#0A2540">@ampenergia</text>
+</svg>
