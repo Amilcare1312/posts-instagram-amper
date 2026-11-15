@@ -1168,6 +1168,14 @@
           "tipo": "estimativa ilustrativa baseada em referências internacionais, não medição de projeto próprio"
         }
       ]
+    },
+    {
+      "data": "2026-11-15",
+      "dia_semana": "domingo",
+      "pilar": "Institucional / CTA comercial",
+      "tema": "EVSE (infraestrutura de recarga veicular corporativa) dimensionado dentro do mesmo estudo de carga do FV e do BESS, para nao ultrapassar a demanda contratada do Grupo A/CELESC-D",
+      "angulo": "Primeiro angulo institucional dedicado ao EVSE (antes so aparecia como parte do portfolio integrado FV+BESS+EVSE em 26/07); contraste entre instalar um carregador isolado e dimensionar a recarga dentro do estudo de carga da unidade, evitando multa por ultrapassagem de demanda contratada; CTA de WhatsApp, seguindo o ciclo de rotacao de CTAs do pilar (comentar em 18/10, salvar em 25/10, diagnostico em 01/11, site em 08/11)",
+      "dados_usados": []
     }
   ]
 }

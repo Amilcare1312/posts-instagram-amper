@@ -1,0 +1,78 @@
+<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0A2540"/>
+      <stop offset="100%" stop-color="#0D3054"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1080" height="1350" fill="url(#bg)"/>
+
+  <!-- Top bar -->
+  <text x="60" y="80" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="44" fill="#FFFFFF">AMPER ENERGIA</text>
+  <text x="60" y="118" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="20" letter-spacing="1" fill="#C9D6E3">SOLAR FV · BESS · EVSE · SANTA CATARINA</text>
+  <rect x="60" y="135" width="90" height="5" fill="#FF7A1A"/>
+
+  <!-- INSTITUCIONAL tag -->
+  <rect x="60" y="168" width="300" height="42" rx="6" fill="#FF7A1A"/>
+  <text x="210" y="196" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="22" fill="#0A2540" text-anchor="middle">INSTITUCIONAL</text>
+
+  <!-- Illustration: EVSE charging post + demand gauge -->
+  <g transform="translate(90,250)">
+    <rect x="0" y="0" width="900" height="330" rx="10" fill="#0F2E4E" stroke="#5A7591" stroke-width="2"/>
+
+    <!-- EV charging post -->
+    <g transform="translate(130,40)">
+      <rect x="0" y="40" width="90" height="185" rx="14" fill="#16456E" stroke="#5A7591" stroke-width="2"/>
+      <rect x="18" y="66" width="54" height="70" rx="8" fill="#0A2540"/>
+      <circle cx="45" cy="100" r="16" fill="none" stroke="#FF7A1A" stroke-width="5"/>
+      <path d="M 45 92 L 39 104 L 46 104 L 41 114 L 53 98 L 46 98 Z" fill="#FF7A1A"/>
+      <rect x="30" y="150" width="30" height="55" rx="6" fill="#1C5A8C"/>
+      <path d="M 90 140 Q 150 140 170 180" fill="none" stroke="#C9D6E3" stroke-width="6" stroke-linecap="round"/>
+      <circle cx="170" cy="180" r="9" fill="#C9D6E3"/>
+    </g>
+
+    <!-- Car silhouette -->
+    <g transform="translate(300,150)">
+      <path d="M0 70 L10 40 Q 30 15 70 15 L160 15 Q 195 15 205 40 L215 70 L215 90 L0 90 Z" fill="#1C5A8C"/>
+      <rect x="35" y="22" width="150" height="30" rx="10" fill="#0F2E4E"/>
+      <circle cx="45" cy="92" r="16" fill="#0A2540" stroke="#C9D6E3" stroke-width="3"/>
+      <circle cx="175" cy="92" r="16" fill="#0A2540" stroke="#C9D6E3" stroke-width="3"/>
+      <path d="M 100 55 L 92 68 L 100 68 L 94 80 L 110 62 L 102 62 Z" fill="#FF7A1A"/>
+    </g>
+
+    <!-- Demand gauge -->
+    <g transform="translate(650,60)">
+      <text x="75" y="-15" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#C9D6E3" text-anchor="middle">DEMANDA CONTRATADA</text>
+      <path d="M 0 90 A 90 90 0 0 1 150 90" fill="none" stroke="#1C5A8C" stroke-width="18"/>
+      <path d="M 0 90 A 90 90 0 0 1 112 12" fill="none" stroke="#FF7A1A" stroke-width="18" stroke-linecap="round"/>
+      <line x1="75" y1="90" x2="118" y2="28" stroke="#FFFFFF" stroke-width="4"/>
+      <circle cx="75" cy="90" r="7" fill="#FFFFFF"/>
+      <text x="75" y="118" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="18" fill="#FFFFFF" text-anchor="middle">PROJETADO</text>
+    </g>
+
+    <text x="30" y="305" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="17" fill="#C9D6E3">RECARGA DE FROTA DENTRO DO LIMITE CONTRATADO</text>
+  </g>
+
+  <!-- Headline -->
+  <text x="60" y="690" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="38" fill="#FFFFFF">RECARGA DE FROTA</text>
+  <text x="60" y="738" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="38" fill="#FFFFFF">ELÉTRICA SEM</text>
+  <text x="60" y="815" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="62" fill="#FF7A1A">ESTOURAR A DEMANDA</text>
+
+  <line x1="60" y1="855" x2="1020" y2="855" stroke="#3E6890" stroke-width="2"/>
+
+  <!-- Body -->
+  <text x="60" y="905" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#FFFFFF">EVSE entra no mesmo estudo</text>
+  <text x="60" y="940" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#FFFFFF">de carga do FV e do BESS —</text>
+  <text x="60" y="975" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#FFFFFF">sem isso, carregador de VE</text>
+  <text x="60" y="1010" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#FFFFFF">pode gerar multa na fatura.</text>
+
+  <text x="60" y="1060" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="22" fill="#C9D6E3">*Ilustrativo. Impacto real depende</text>
+  <text x="60" y="1091" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="22" fill="#C9D6E3">da carga instalada, do contrato de</text>
+  <text x="60" y="1122" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="22" fill="#C9D6E3">demanda e da curva de uso da frota.</text>
+
+  <!-- Bottom CTA bar -->
+  <rect x="0" y="1200" width="1080" height="150" fill="#FF7A1A"/>
+  <text x="60" y="1265" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="40" fill="#0A2540">FALA NO WHATSAPP 📲</text>
+  <text x="60" y="1315" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#0A2540">@ampenergia</text>
+</svg>
