@@ -1176,6 +1176,17 @@
       "tema": "EVSE (infraestrutura de recarga veicular corporativa) dimensionado dentro do mesmo estudo de carga do FV e do BESS, para nao ultrapassar a demanda contratada do Grupo A/CELESC-D",
       "angulo": "Primeiro angulo institucional dedicado ao EVSE (antes so aparecia como parte do portfolio integrado FV+BESS+EVSE em 26/07); contraste entre instalar um carregador isolado e dimensionar a recarga dentro do estudo de carga da unidade, evitando multa por ultrapassagem de demanda contratada; CTA de WhatsApp, seguindo o ciclo de rotacao de CTAs do pilar (comentar em 18/10, salvar em 25/10, diagnostico em 01/11, site em 08/11)",
       "dados_usados": []
+    },
+    {
+      "data": "2026-11-16",
+      "dia_semana": "segunda-feira",
+      "pilar": "Educativo",
+      "tema": "Mito de que e mais seguro esperar a regulacao de geracao distribuida \"se estabilizar\" antes de investir em energia solar",
+      "angulo": "Diferente dos mitos dos ultimos 30 dias (telhado inadequado em 12/10, parada de producao durante a obra em 19/10, homologacao CELESC-D arrastada em 26/10, todo sistema precisa de BESS em 02/11, solar garante luz na queda em 09/11), hoje o foco e desmistificar a hesitacao em investir por medo de mudancas regulatorias: a Lei 14.300/2022 ja garante regra de transicao para quem homologa dentro das regras vigentes, entao esperar nao traz mais seguranca juridica, so adia o inicio da economia; CTA de WhatsApp, reiniciando o ciclo de rotacao do pilar (whatsapp em 12/10, salvar em 19/10, diagnostico em 26/10, site em 02/11, comentar em 09/11)",
+      "dados_usados": [
+        "payback estimado de 4 a 7 anos para autoconsumo em media tensao Grupo A/CELESC-D (estimativa ilustrativa)",
+        "vida util do sistema de aproximadamente 25 anos"
+      ]
     }
   ]
 }
