@@ -1,0 +1,83 @@
+<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0A2540"/>
+      <stop offset="100%" stop-color="#0D3054"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1080" height="1350" fill="url(#bg)"/>
+
+  <!-- Top bar -->
+  <text x="60" y="80" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="44" fill="#FFFFFF">AMPER ENERGIA</text>
+  <text x="60" y="118" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="20" letter-spacing="1" fill="#C9D6E3">SOLAR FV · BESS · EVSE · SANTA CATARINA</text>
+  <rect x="60" y="135" width="90" height="5" fill="#FF7A1A"/>
+
+  <!-- DADO DO DIA tag -->
+  <rect x="60" y="168" width="230" height="42" rx="6" fill="#FF7A1A"/>
+  <text x="175" y="196" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="20" fill="#0A2540" text-anchor="middle">DADO DO DIA</text>
+
+  <!-- Illustration: credito de energia com prazo de validade -->
+  <g transform="translate(70,245)">
+    <rect x="0" y="0" width="940" height="330" rx="8" fill="#FFFFFF"/>
+
+    <!-- Credit ticket icon -->
+    <g transform="translate(150,45)">
+      <rect x="-80" y="0" width="160" height="180" rx="6" fill="#EEF3F8" stroke="#0A2540" stroke-width="3"/>
+      <circle cx="0" cy="40" r="26" fill="#FF7A1A"/>
+      <text x="0" y="48" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="20" fill="#0A2540">kWh</text>
+      <text x="0" y="95" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="17" fill="#0A2540">CRÉDITO DE</text>
+      <text x="0" y="118" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="17" fill="#0A2540">ENERGIA</text>
+      <text x="0" y="150" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#5A7591">gerado e não usado</text>
+    </g>
+
+    <!-- Arrow -->
+    <line x1="280" y1="135" x2="360" y2="135" stroke="#C9D6E3" stroke-width="5"/>
+    <polygon points="360,122 385,135 360,148" fill="#C9D6E3"/>
+
+    <!-- Hourglass icon: prazo de validade -->
+    <g transform="translate(480,15)">
+      <rect x="0" y="0" width="150" height="220" rx="8" fill="#0A2540"/>
+      <rect x="0" y="0" width="150" height="40" rx="8" fill="#FF7A1A"/>
+      <text x="75" y="27" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="16" fill="#0A2540">PRAZO</text>
+      <!-- hourglass shape -->
+      <g transform="translate(75,120)">
+        <path d="M -35,-45 L 35,-45 L 8,0 L 35,45 L -35,45 L -8,0 Z" fill="#FFFFFF" stroke="#FF7A1A" stroke-width="3"/>
+        <path d="M -24,-35 L 24,-35 L 0,-4 L -24,-35 Z" fill="#FF7A1A"/>
+      </g>
+      <text x="75" y="200" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="18" fill="#FFFFFF">60 MESES*</text>
+    </g>
+
+    <!-- Arrow 2 -->
+    <line x1="660" y1="135" x2="740" y2="135" stroke="#C9D6E3" stroke-width="5"/>
+    <polygon points="740,122 765,135 740,148" fill="#C9D6E3"/>
+
+    <!-- Expired stamp -->
+    <g transform="translate(850,70)">
+      <circle cx="0" cy="0" r="75" fill="none" stroke="#C0392B" stroke-width="5" transform="rotate(-18)"/>
+      <text x="0" y="-8" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="19" fill="#C0392B" transform="rotate(-18)">CRÉDITO</text>
+      <text x="0" y="16" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="19" fill="#C0392B" transform="rotate(-18)">EXPIRA</text>
+    </g>
+  </g>
+
+  <!-- Headline -->
+  <text x="60" y="690" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="40" fill="#FFFFFF">CRÉDITO DE ENERGIA</text>
+  <text x="60" y="742" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="40" fill="#FFFFFF">SOLAR TEM VALIDADE:</text>
+  <text x="60" y="828" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="72" fill="#FF7A1A">ATÉ 60 MESES*</text>
+
+  <line x1="60" y1="865" x2="1020" y2="865" stroke="#3E6890" stroke-width="2"/>
+
+  <!-- Body -->
+  <text x="60" y="915" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#FFFFFF">Pela Lei 14.300/2022, a energia</text>
+  <text x="60" y="950" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#FFFFFF">gerada e não consumida no mês</text>
+  <text x="60" y="985" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#FFFFFF">expira. Dimensionar pela curva de</text>
+  <text x="60" y="1020" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#FFFFFF">consumo anual evita perder crédito.</text>
+
+  <text x="60" y="1070" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="21" fill="#C9D6E3">*Regra geral de compensação da GD, pode</text>
+  <text x="60" y="1101" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="21" fill="#C9D6E3">variar por modalidade. Não é orientação jurídica.</text>
+
+  <!-- Bottom CTA bar -->
+  <rect x="0" y="1200" width="1080" height="150" fill="#FF7A1A"/>
+  <text x="60" y="1265" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="36" fill="#0A2540">AGENDE SEU DIAGNÓSTICO 🔧</text>
+  <text x="60" y="1315" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#0A2540">@ampenergia</text>
+</svg>

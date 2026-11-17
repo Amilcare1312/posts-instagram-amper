@@ -1187,6 +1187,16 @@
         "payback estimado de 4 a 7 anos para autoconsumo em media tensao Grupo A/CELESC-D (estimativa ilustrativa)",
         "vida util do sistema de aproximadamente 25 anos"
       ]
+    },
+    {
+      "data": "2026-11-17",
+      "dia_semana": "terça-feira",
+      "pilar": "Dado/número de impacto",
+      "tema": "Prazo de validade dos créditos de energia solar (até 60 meses, Lei 14.300/2022) para empresas Grupo A/CELESC-D",
+      "angulo": "Diferente dos ângulos recentes do pilar (tributos/ICMS na fatura em 10/11, irradiação SC vs. Nordeste em 03/11, LCOE vs. tarifa em 27/10, custo de adiar a decisão/Fio B em 20/10), hoje o foco é mostrar que o crédito de energia gerado e não consumido no mês tem prazo de validade (em geral até 60 meses, pela Lei 14.300/2022), e que dimensionar o sistema pela curva de consumo anual da operação — não só pelo pico — evita acúmulo de crédito que expira sem ser aproveitado. CTA de agendar diagnóstico gratuito, reiniciando o ciclo de rotação de CTAs do pilar (whatsapp em 20/10, salvar em 27/10, site em 03/11, comentar em 10/11).",
+      "dados_usados": [
+        "prazo de validade dos créditos de energia de até 60 meses (5 anos), regra geral de compensação da geração distribuída pela Lei 14.300/2022"
+      ]
     }
   ]
 }
