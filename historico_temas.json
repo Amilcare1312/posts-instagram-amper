@@ -1197,6 +1197,17 @@
       "dados_usados": [
         "prazo de validade dos créditos de energia de até 60 meses (5 anos), regra geral de compensação da geração distribuída pela Lei 14.300/2022"
       ]
+    },
+    {
+      "data": "2026-11-18",
+      "dia_semana": "quarta",
+      "pilar": "Caso de sucesso / prova social",
+      "tema": "Serraria/indústria madeireira genérica no Planalto Norte catarinense com galpão de telhado em fibrocimento com mais de 15 anos, onde o laudo estrutural de carga admissível, feito antes do dimensionamento do FV, apontou fadiga em parte das terças e levou à redistribuição dos módulos entre telhado e estrutura solo-fixada",
+      "angulo": "Ângulo estrutural (capacidade de carga do telhado) inédito nos últimos 30 dias do pilar, que trouxeram BESS para peak shaving em embalagens de papelão (21/10), desbalanceamento de MPPT por orientação de telhado em autopeças (28/10), coordenação de proteção FV x UPS em componentes eletrônicos (04/11) e integração FV+EVSE com empilhadeiras elétricas em beneficiamento de arroz (11/11); novo setor genérico (serraria/madeireira) ainda não usado nos exemplos anteriores do pilar. CTA de comentar, retomando o ciclo de rotação de CTAs do pilar (whatsapp em 23/09 e 04/11, salvar em 30/09 e 11/11, comentar em 14/10, site em 21/10, diagnóstico em 28/10).",
+      "dados_usados": [
+        "cerca de 15% a 25% dos diagnósticos técnicos em galpões industriais mais antigos em SC revelam necessidade de reforço/redistribuição estrutural antes da instalação do FV (estimativa ilustrativa)",
+        "payback estimado de 5 a 7 anos considerando o custo adicional de ajuste estrutural (estimativa ilustrativa)"
+      ]
     }
   ]
 }

@@ -1,0 +1,76 @@
+<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0A2540"/>
+      <stop offset="100%" stop-color="#0D3054"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1080" height="1350" fill="url(#bg)"/>
+
+  <!-- Top bar -->
+  <text x="60" y="80" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="44" fill="#FFFFFF">AMPER ENERGIA</text>
+  <text x="60" y="118" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="20" letter-spacing="1" fill="#C9D6E3">SOLAR FV · BESS · EVSE · SANTA CATARINA</text>
+  <rect x="60" y="135" width="90" height="5" fill="#FF7A1A"/>
+
+  <!-- CASO DE SUCESSO tag -->
+  <rect x="60" y="168" width="330" height="42" rx="6" fill="#FF7A1A"/>
+  <text x="225" y="196" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="20" fill="#0A2540" text-anchor="middle">CASO DE SUCESSO</text>
+
+  <!-- Illustration: galpao com telhado e laudo estrutural -->
+  <g transform="translate(70,245)">
+    <rect x="0" y="0" width="940" height="330" rx="8" fill="#FFFFFF"/>
+
+    <!-- Warehouse icon -->
+    <g transform="translate(220,55)">
+      <polygon points="-140,90 0,0 140,90" fill="#0A2540"/>
+      <rect x="-140" y="90" width="280" height="130" fill="#EEF3F8" stroke="#0A2540" stroke-width="3"/>
+      <!-- solar panels on roof, split between two zones -->
+      <g>
+        <rect x="-110" y="35" width="55" height="35" fill="#0A2540" stroke="#FF7A1A" stroke-width="3"/>
+        <rect x="-45" y="18" width="55" height="35" fill="#0A2540" stroke="#FF7A1A" stroke-width="3"/>
+      </g>
+      <!-- fatigued truss marker -->
+      <circle cx="45" cy="30" r="20" fill="#FF7A1A"/>
+      <text x="45" y="37" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="22" fill="#0A2540">!</text>
+      <!-- door -->
+      <rect x="-25" y="150" width="50" height="70" fill="#C9D6E3"/>
+    </g>
+
+    <!-- Arrow -->
+    <line x1="500" y1="150" x2="580" y2="150" stroke="#C9D6E3" stroke-width="5"/>
+    <polygon points="580,137 605,150 580,163" fill="#C9D6E3"/>
+
+    <!-- Ground-mounted structure icon (solution) -->
+    <g transform="translate(730,70)">
+      <rect x="-20" y="80" width="12" height="100" fill="#0A2540"/>
+      <rect x="120" y="80" width="12" height="100" fill="#0A2540"/>
+      <polygon points="-40,70 150,70 130,20 -20,20" fill="#0A2540" stroke="#FF7A1A" stroke-width="4"/>
+      <text x="55" y="48" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="15" fill="#FFFFFF">SOLO</text>
+      <text x="55" y="210" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="17" fill="#0A2540">ESTRUTURA</text>
+      <text x="55" y="232" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="17" fill="#0A2540">FIXADA</text>
+    </g>
+  </g>
+
+  <!-- Headline -->
+  <text x="60" y="690" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="38" fill="#FFFFFF">O TELHADO AGUENTA</text>
+  <text x="60" y="742" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="38" fill="#FFFFFF">O PESO DA USINA?</text>
+  <text x="60" y="828" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="66" fill="#FF7A1A">LAUDO ANTES</text>
+  <text x="60" y="896" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="66" fill="#FF7A1A">DO PROJETO</text>
+
+  <line x1="60" y1="930" x2="1020" y2="930" stroke="#3E6890" stroke-width="2"/>
+
+  <!-- Body -->
+  <text x="60" y="980" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#FFFFFF">Serraria genérica em SC, telhado</text>
+  <text x="60" y="1015" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#FFFFFF">de fibrocimento com +15 anos:</text>
+  <text x="60" y="1050" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#FFFFFF">laudo estrutural redistribuiu os</text>
+  <text x="60" y="1085" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#FFFFFF">módulos entre telhado e solo.</text>
+
+  <text x="60" y="1135" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="20" fill="#C9D6E3">*Exemplo genérico, sem dados reais de cliente.</text>
+  <text x="60" y="1165" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="20" fill="#C9D6E3">Números são estimativas ilustrativas.</text>
+
+  <!-- Bottom CTA bar -->
+  <rect x="0" y="1200" width="1080" height="150" fill="#FF7A1A"/>
+  <text x="60" y="1265" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="33" fill="#0A2540">COMENTA "LAUDO" 💬</text>
+  <text x="60" y="1315" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#0A2540">@ampenergia</text>
+</svg>
