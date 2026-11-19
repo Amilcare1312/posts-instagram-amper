@@ -1,0 +1,84 @@
+<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0A2540"/>
+      <stop offset="100%" stop-color="#0D3054"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1080" height="1350" fill="url(#bg)"/>
+
+  <!-- Top bar -->
+  <text x="60" y="80" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="44" fill="#FFFFFF">AMPER ENERGIA</text>
+  <text x="60" y="118" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="20" letter-spacing="1" fill="#C9D6E3">SOLAR FV · BESS · EVSE · SANTA CATARINA</text>
+  <rect x="60" y="135" width="90" height="5" fill="#FF7A1A"/>
+
+  <!-- DICA PRATICA tag -->
+  <rect x="60" y="168" width="260" height="42" rx="6" fill="#FF7A1A"/>
+  <text x="190" y="196" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="20" fill="#0A2540" text-anchor="middle">DICA PRÁTICA</text>
+
+  <!-- Illustration: coastline with FV structure, corrosion warning vs inox fix -->
+  <g transform="translate(60,235)">
+    <rect x="0" y="0" width="960" height="340" rx="18" fill="#12395F" stroke="#3E6890" stroke-width="3"/>
+
+    <!-- waves -->
+    <path d="M 20 290 Q 60 270 100 290 T 180 290 T 260 290 T 340 290" fill="none" stroke="#3E6890" stroke-width="5"/>
+    <path d="M 20 310 Q 60 292 100 310 T 180 310 T 260 310 T 340 310" fill="none" stroke="#2A4A6B" stroke-width="5"/>
+
+    <!-- sun -->
+    <circle cx="480" cy="26" r="20" fill="#FF7A1A"/>
+
+    <!-- divider -->
+    <line x1="480" y1="40" x2="480" y2="300" stroke="#3E6890" stroke-width="2" stroke-dasharray="6,6"/>
+
+    <!-- LEFT: galvanizado comum na maresia (corrosao) -->
+    <g transform="translate(70,60)">
+      <text x="0" y="0" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#C9507A">GALVANIZADO COMUM</text>
+      <!-- panel on tilted structure with rust marks -->
+      <g transform="translate(40,30)">
+        <rect x="0" y="40" width="180" height="55" fill="#0A2540" stroke="#C9507A" stroke-width="3" transform="skewY(-6)"/>
+        <line x1="20" y1="110" x2="20" y2="160" stroke="#C9507A" stroke-width="8"/>
+        <line x1="160" y1="110" x2="160" y2="160" stroke="#C9507A" stroke-width="8"/>
+        <circle cx="20" cy="150" r="9" fill="#C9507A"/>
+        <circle cx="160" cy="150" r="9" fill="#C9507A"/>
+      </g>
+      <text x="25" y="225" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#C9507A">⚠ corrosão em</text>
+      <text x="25" y="250" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#C9507A">6-12 meses no litoral</text>
+    </g>
+
+    <!-- RIGHT: inox A4 / aluminio anodizado (protegido) -->
+    <g transform="translate(570,60)">
+      <text x="0" y="0" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#FF7A1A">INOX A4 / ALUMÍNIO</text>
+      <g transform="translate(40,30)">
+        <rect x="0" y="40" width="180" height="55" fill="#0A2540" stroke="#FF7A1A" stroke-width="3" transform="skewY(-6)"/>
+        <line x1="20" y1="110" x2="20" y2="160" stroke="#C9D6E3" stroke-width="8"/>
+        <line x1="160" y1="110" x2="160" y2="160" stroke="#C9D6E3" stroke-width="8"/>
+        <circle cx="20" cy="150" r="9" fill="#FF7A1A"/>
+        <circle cx="160" cy="150" r="9" fill="#FF7A1A"/>
+      </g>
+      <text x="25" y="225" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#FF7A1A">✓ resiste à</text>
+      <text x="25" y="250" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#FF7A1A">névoa salina</text>
+    </g>
+  </g>
+
+  <!-- Headline -->
+  <text x="60" y="655" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="40" fill="#FFFFFF">A MENOS DE 30KM</text>
+  <text x="60" y="710" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="40" fill="#FFFFFF">DO MAR?</text>
+  <text x="60" y="796" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="58" fill="#FF7A1A">MARESIA MUDA</text>
+  <text x="60" y="860" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="58" fill="#FF7A1A">A MANUTENÇÃO</text>
+
+  <line x1="60" y1="898" x2="1020" y2="898" stroke="#3E6890" stroke-width="2"/>
+
+  <!-- Body -->
+  <text x="60" y="948" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#FFFFFF">Parafusaria inox A4 desde</text>
+  <text x="60" y="985" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#FFFFFF">o projeto + inspeção visual</text>
+  <text x="60" y="1022" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#FFFFFF">a cada 6 meses no litoral.</text>
+
+  <text x="60" y="1075" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="22" fill="#C9D6E3">Sem isso, vida útil da estrutura pode cair</text>
+  <text x="60" y="1108" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="22" fill="#C9D6E3">de 20-25 para 10-15 anos (estimativa ilustrativa)</text>
+
+  <!-- Bottom CTA bar -->
+  <rect x="0" y="1200" width="1080" height="150" fill="#FF7A1A"/>
+  <text x="60" y="1262" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="33" fill="#0A2540">SALVA ESSE POST 📌</text>
+  <text x="60" y="1315" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#0A2540">@ampenergia</text>
+</svg>

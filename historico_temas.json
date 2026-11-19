@@ -1208,6 +1208,17 @@
         "cerca de 15% a 25% dos diagnósticos técnicos em galpões industriais mais antigos em SC revelam necessidade de reforço/redistribuição estrutural antes da instalação do FV (estimativa ilustrativa)",
         "payback estimado de 5 a 7 anos considerando o custo adicional de ajuste estrutural (estimativa ilustrativa)"
       ]
+    },
+    {
+      "data": "2026-11-19",
+      "dia_semana": "quinta",
+      "pilar": "Dica prática",
+      "tema": "Efeito da maresia/salinidade do litoral catarinense na corrosão da estrutura de fixação de sistemas fotovoltaicos, e a especificação de parafusaria inox A4/alumínio anodizado + inspeção visual semestral como prevenção",
+      "angulo": "Ângulo de manutenção preventiva ligado à geografia litorânea de SC, inédito nos últimos 30 dias do pilar, que trouxeram degradação dos módulos no cálculo de payback (15/10), descompasso entre vida útil do inversor e dos módulos (22/10), dimensionamento prevendo expansão futura (29/10), garantia de performance/PR como cláusula contratual no EPC (05/11) e fator de potência em unidades Grupo A/CELESC-D (12/11). CTA de salvar o post, retomando o ciclo de rotação de CTAs do pilar (diagnóstico em 22/10, whatsapp em 29/10, comentar em 05/11, site em 12/11).",
+      "dados_usados": [
+        "inspeção visual recomendada a cada 6 meses em instalações litorâneas vs. intervalo anual comum no interior do estado (estimativa ilustrativa)",
+        "vida útil da estrutura de fixação pode cair de uma faixa de 20-25 anos para 10-15 anos em ambiente de alta salinidade sem parafusaria adequada (estimativa ilustrativa)"
+      ]
     }
   ]
 }
