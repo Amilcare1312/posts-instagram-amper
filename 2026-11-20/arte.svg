@@ -1,0 +1,80 @@
+<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0A2540"/>
+      <stop offset="100%" stop-color="#0D3054"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1080" height="1350" fill="url(#bg)"/>
+
+  <!-- Top bar -->
+  <text x="60" y="80" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="44" fill="#FFFFFF">AMPER ENERGIA</text>
+  <text x="60" y="118" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="20" letter-spacing="1" fill="#C9D6E3">SOLAR FV · BESS · EVSE · SANTA CATARINA</text>
+  <rect x="60" y="135" width="90" height="5" fill="#FF7A1A"/>
+
+  <!-- Illustration: treinamento de handover da equipe -->
+  <g transform="translate(60,185)">
+    <rect x="0" y="0" width="960" height="330" rx="18" fill="#12395F" stroke="#3E6890" stroke-width="3"/>
+
+    <text x="40" y="45" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#C9D6E3">TREINAMENTO DE HANDOVER COM A EQUIPE</text>
+
+    <!-- dividers -->
+    <line x1="340" y1="65" x2="340" y2="300" stroke="#3E6890" stroke-width="2" stroke-dasharray="6,6"/>
+    <line x1="660" y1="65" x2="660" y2="300" stroke="#3E6890" stroke-width="2" stroke-dasharray="6,6"/>
+
+    <!-- ITEM 1: PAINEL DE MONITORAMENTO -->
+    <g transform="translate(55,95)">
+      <rect x="0" y="0" width="130" height="95" rx="8" fill="#0A2540" stroke="#3E6890" stroke-width="3"/>
+      <polyline points="14,70 38,45 58,58 80,28 116,40" fill="none" stroke="#FF7A1A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="80" cy="28" r="5" fill="#FF7A1A"/>
+      <circle cx="122" cy="8" r="22" fill="#FF7A1A"/>
+      <path d="M 111 8 L 119 17 L 134 -2" fill="none" stroke="#0A2540" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="65" y="130" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#C9D6E3" text-anchor="middle">MONITORAMENTO</text>
+      <text x="65" y="155" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#8FA7C2" text-anchor="middle">leitura do painel</text>
+    </g>
+
+    <!-- ITEM 2: ALARME -->
+    <g transform="translate(375,95)">
+      <rect x="0" y="0" width="130" height="95" rx="8" fill="#0A2540" stroke="#3E6890" stroke-width="3"/>
+      <path d="M 65 10 C 45 10 40 32 40 48 L 40 60 L 28 72 L 102 72 L 90 60 L 90 48 C 90 32 85 10 65 10 Z" fill="#FF7A1A"/>
+      <circle cx="65" cy="80" r="7" fill="#FF7A1A"/>
+      <circle cx="122" cy="8" r="22" fill="#FF7A1A"/>
+      <path d="M 111 8 L 119 17 L 134 -2" fill="none" stroke="#0A2540" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="65" y="130" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#C9D6E3" text-anchor="middle">ALARMES</text>
+      <text x="65" y="155" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#8FA7C2" text-anchor="middle">o que significam</text>
+    </g>
+
+    <!-- ITEM 3: SEGURANCA -->
+    <g transform="translate(695,95)">
+      <rect x="0" y="0" width="130" height="95" rx="8" fill="#0A2540" stroke="#3E6890" stroke-width="3"/>
+      <path d="M 65 8 L 102 22 L 102 52 C 102 75 85 88 65 95 C 45 88 28 75 28 52 L 28 22 Z" fill="none" stroke="#3E6890" stroke-width="4"/>
+      <path d="M 50 52 L 62 65 L 85 35" fill="none" stroke="#FF7A1A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="122" cy="8" r="22" fill="#FF7A1A"/>
+      <path d="M 111 8 L 119 17 L 134 -2" fill="none" stroke="#0A2540" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="65" y="130" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#C9D6E3" text-anchor="middle">SEGURANÇA</text>
+      <text x="65" y="155" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#8FA7C2" text-anchor="middle">procedimentos</text>
+    </g>
+  </g>
+
+  <!-- Headline -->
+  <text x="60" y="610" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="48" fill="#FFFFFF">QUEM OPERA O</text>
+  <text x="60" y="672" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="48" fill="#FF7A1A">SISTEMA DEPOIS</text>
+  <text x="60" y="734" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="48" fill="#FFFFFF">QUE A GENTE SAI?</text>
+
+  <line x1="60" y1="772" x2="1020" y2="772" stroke="#3E6890" stroke-width="2"/>
+
+  <!-- Body -->
+  <text x="60" y="835" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#FFFFFF">Antes de deixar a obra,</text>
+  <text x="60" y="872" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#FFFFFF">treinamos o time técnico</text>
+  <text x="60" y="909" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#FFFFFF">do cliente na prática —</text>
+  <text x="60" y="946" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#FFFFFF">painel, alarmes e segurança.</text>
+
+  <text x="60" y="1005" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="24" fill="#C9D6E3">Nosso trabalho não termina</text>
+  <text x="60" y="1040" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="24" fill="#C9D6E3">na energização do sistema.</text>
+
+  <!-- Bottom CTA bar -->
+  <rect x="0" y="1200" width="1080" height="150" fill="#FF7A1A"/>
+  <text x="60" y="1258" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="34" fill="#0A2540">CONHEÇA NOSSO PROCESSO 🔧</text>
+  <text x="60" y="1315" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#0A2540">@ampenergia</text>
+</svg>

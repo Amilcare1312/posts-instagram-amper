@@ -1219,6 +1219,16 @@
         "inspeção visual recomendada a cada 6 meses em instalações litorâneas vs. intervalo anual comum no interior do estado (estimativa ilustrativa)",
         "vida útil da estrutura de fixação pode cair de uma faixa de 20-25 anos para 10-15 anos em ambiente de alta salinidade sem parafusaria adequada (estimativa ilustrativa)"
       ]
+    },
+    {
+      "data": "2026-11-20",
+      "dia_semana": "sexta",
+      "pilar": "Bastidores / equipe / processo de engenharia",
+      "tema": "Treinamento prático de handover entregue à equipe de operação do cliente ao final da obra (leitura do painel de monitoramento, significado dos alarmes, procedimentos de segurança)",
+      "angulo": "Diferente dos bastidores de 30/10 (relatório de progresso de obra), 06/11 (revisão técnica cruzada por segundo engenheiro) e 13/11 (curadoria técnica de fornecedores), aqui o foco é o momento de handover ao fim da obra, em que a engenharia da Amper treina o time técnico do próprio cliente para operar o sistema no dia a dia, reforçando que a entrega não termina na energização, com CTA de visitar o site para variar dos CTAs recentes do pilar (salvar em 06/11, diagnóstico em 13/11)",
+      "dados_usados": [
+        "treinamento prático de handover costuma levar de 2 a 4 horas, variando com a complexidade do sistema (estimativa ilustrativa)"
+      ]
     }
   ]
 }
