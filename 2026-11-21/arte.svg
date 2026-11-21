@@ -1,0 +1,99 @@
+<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0A2540"/>
+      <stop offset="100%" stop-color="#0D3054"/>
+    </linearGradient>
+    <marker id="arrowhead2" markerWidth="12" markerHeight="12" refX="6" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 Z" fill="#FF7A1A"/>
+    </marker>
+  </defs>
+
+  <rect x="0" y="0" width="1080" height="1350" fill="url(#bg)"/>
+
+  <!-- Top bar -->
+  <text x="60" y="80" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="44" fill="#FFFFFF">AMPER ENERGIA</text>
+  <text x="60" y="118" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="20" letter-spacing="1" fill="#C9D6E3">SOLAR FV · BESS · EVSE · SANTA CATARINA</text>
+  <rect x="60" y="135" width="90" height="5" fill="#FF7A1A"/>
+
+  <!-- SUSTENTABILIDADE tag -->
+  <rect x="60" y="168" width="330" height="42" rx="6" fill="#FF7A1A"/>
+  <text x="225" y="196" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="22" fill="#0A2540" text-anchor="middle">SUSTENTABILIDADE</text>
+
+  <!-- Illustration: PV panel -> grid -> certificate seal -->
+  <g transform="translate(60,250)">
+    <!-- sun -->
+    <circle cx="95" cy="10" r="26" fill="#FF7A1A"/>
+    <line x1="95" y1="-34" x2="95" y2="-50" stroke="#FF7A1A" stroke-width="4"/>
+    <line x1="129" y1="-10" x2="142" y2="-20" stroke="#FF7A1A" stroke-width="4"/>
+    <line x1="61" y1="-10" x2="48" y2="-20" stroke="#FF7A1A" stroke-width="4"/>
+
+    <!-- ground line -->
+    <line x1="0" y1="340" x2="940" y2="340" stroke="#3E6890" stroke-width="3"/>
+
+    <!-- LEFT: PV panel on roof -->
+    <g transform="translate(10,150)">
+      <rect x="0" y="100" width="220" height="70" rx="4" fill="#123A5E" stroke="#3E6890" stroke-width="2"/>
+      <path d="M -10 100 L 110 40 L 230 100 Z" fill="#0A2540" stroke="#3E6890" stroke-width="2"/>
+      <g transform="translate(20,52)">
+        <rect x="0" y="0" width="180" height="42" rx="3" fill="#123A5E" stroke="#FF7A1A" stroke-width="2"/>
+        <line x1="45" y1="0" x2="45" y2="42" stroke="#5A7591" stroke-width="1.5"/>
+        <line x1="90" y1="0" x2="90" y2="42" stroke="#5A7591" stroke-width="1.5"/>
+        <line x1="135" y1="0" x2="135" y2="42" stroke="#5A7591" stroke-width="1.5"/>
+        <line x1="0" y1="21" x2="180" y2="21" stroke="#5A7591" stroke-width="1.5"/>
+      </g>
+      <text x="110" y="205" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="18" fill="#C9D6E3">USINA FV</text>
+    </g>
+
+    <!-- arrow 1: panel to grid -->
+    <path d="M 245 290 L 365 290" stroke="#FF7A1A" stroke-width="4" fill="none" marker-end="url(#arrowhead2)"/>
+
+    <!-- MIDDLE: grid tower -->
+    <g transform="translate(390,150)">
+      <path d="M 60 170 L 30 10 L 90 10 Z" fill="none" stroke="#C9D6E3" stroke-width="4"/>
+      <line x1="10" y1="60" x2="110" y2="60" stroke="#C9D6E3" stroke-width="4"/>
+      <line x1="20" y1="100" x2="100" y2="100" stroke="#C9D6E3" stroke-width="4"/>
+      <line x1="30" y1="140" x2="90" y2="140" stroke="#C9D6E3" stroke-width="4"/>
+      <!-- energy bolt -->
+      <path d="M 66 -5 L 56 25 L 68 25 L 58 55 L 84 20 L 70 20 Z" fill="#FF7A1A"/>
+      <text x="60" y="205" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="18" fill="#C9D6E3">REDE CELESC</text>
+    </g>
+
+    <!-- arrow 2: grid to certificate -->
+    <path d="M 555 290 L 675 290" stroke="#FF7A1A" stroke-width="4" fill="none" marker-end="url(#arrowhead2)"/>
+
+    <!-- RIGHT: certificate seal -->
+    <g transform="translate(700,145)">
+      <rect x="0" y="0" width="220" height="150" rx="8" fill="#123A5E" stroke="#3E6890" stroke-width="2"/>
+      <line x1="20" y1="30" x2="150" y2="30" stroke="#5A7591" stroke-width="3"/>
+      <line x1="20" y1="55" x2="150" y2="55" stroke="#5A7591" stroke-width="3"/>
+      <line x1="20" y1="80" x2="110" y2="80" stroke="#5A7591" stroke-width="3"/>
+      <!-- seal badge -->
+      <circle cx="178" cy="100" r="34" fill="#FF7A1A"/>
+      <path d="M 162 100 L 174 112 L 196 86" stroke="#0A2540" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="110" y="210" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="18" fill="#C9D6E3">CERTIFICADO</text>
+    </g>
+  </g>
+
+  <!-- Headline -->
+  <text x="60" y="705" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="38" fill="#FFFFFF">SUA ENERGIA SOLAR</text>
+  <text x="60" y="753" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="38" fill="#FFFFFF">TAMBÉM PODE TER</text>
+  <text x="60" y="830" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="70" fill="#FF7A1A">CERTIFICADO</text>
+
+  <line x1="60" y1="868" x2="1020" y2="868" stroke="#3E6890" stroke-width="2"/>
+
+  <!-- Body -->
+  <text x="60" y="918" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#FFFFFF">O excedente que sua usina injeta</text>
+  <text x="60" y="953" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#FFFFFF">na rede pode ser rastreado e</text>
+  <text x="60" y="988" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#FFFFFF">certificado — provando a origem</text>
+  <text x="60" y="1023" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#FFFFFF">renovável no seu relatório ESG.</text>
+
+  <text x="60" y="1073" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="22" fill="#C9D6E3">*Certificação (ex.: I-REC) depende de</text>
+  <text x="60" y="1104" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="22" fill="#C9D6E3">adesão a emissor registrado; processo</text>
+  <text x="60" y="1135" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="22" fill="#C9D6E3">e custo variam conforme o volume gerado.</text>
+
+  <!-- Bottom CTA bar -->
+  <rect x="0" y="1200" width="1080" height="150" fill="#FF7A1A"/>
+  <text x="60" y="1265" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="40" fill="#0A2540">VISITE NOSSO SITE 🔗</text>
+  <text x="60" y="1315" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#0A2540">@ampenergia</text>
+</svg>
