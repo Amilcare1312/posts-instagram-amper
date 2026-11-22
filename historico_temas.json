@@ -1237,6 +1237,14 @@
       "tema": "Certificação e rastreabilidade de origem renovável (certificado I-REC) do excedente de energia solar injetado na rede",
       "angulo": "O excedente de geração FV injetado na rede pode ser certificado e rastreado (ex.: I-REC), comprovando a origem renovável da energia de forma auditável para relatórios ESG — mais forte do que uma declaração genérica de \"energia limpa\"; também aplicável a empresas que ainda compram 100% da rede, via aquisição de certificados equivalentes. CTA de visitar o site, retomando o ciclo de rotação do pilar (comentar em 24/10, salvar em 31/10, whatsapp em 07/11, diagnóstico em 14/11).",
       "dados_numericos": "Nenhum dado numérico específico usado; menção qualitativa ao processo de certificação (ex.: I-REC) sem valores."
+    },
+    {
+      "data": "2026-11-22",
+      "dia_semana": "domingo",
+      "pilar": "Institucional / CTA comercial",
+      "tema": "Dossiê técnico (memorial, ART, dimensionamento, curva de carga do Grupo A/CELESC-D) já entregue com o projeto como base para análise de crédito em financiamento de FV/BESS",
+      "angulo": "Diferente dos institucionais de 12/07 (engenharia vs. \"vendedor de paineis\"), 19/07 (exclusividade Grupo A/CELESC-D), 26/07 (uma unica equipe FV+BESS+EVSE), 02/08 (ART como garantia formal), 09/08 (especializacao regional em SC), 16/08 (o que entra no diagnostico tecnico gratuito), 23/08 (acompanhamento pos-instalacao/monitoramento), 30/08 (equipamentos Tier 1), 06/09 (atendimento chave-na-mao ponta a ponta), 13/09 (postura consultiva \"ainda nao e a hora\"), 20/09 (capacidade limitada de diagnosticos/semana), 27/09 (memorial tecnico completo vs. proposta resumida), 11/10 (revisao tecnica cruzada por segundo engenheiro senior), 18/10 (diversidade de segmentos atendidos), 25/10 (segunda opiniao tecnica sobre projetos de terceiros), 01/11 (processo de garantia/RMA conduzido pela engenharia), 08/11 (revisao de geracao real x projetada) e 15/11 (EVSE dimensionado no estudo de carga), hoje o foco e o papel do dossie tecnico (memorial, ART, dimensionamento, curva de carga) como base documental que acelera a analise de credito em financiamentos de FV/BESS, em vez de o cliente correr atras dessa documentacao depois que o banco pede. CTA de comentar, seguindo o ciclo de rotacao de CTAs do pilar (diagnostico em 01/11, site em 08/11, whatsapp em 15/11).",
+      "dados_numericos": "Prazos de financiamento ilustrativos de 36 a 84 meses (estimativa, varia por linha de credito e instituicao)"
     }
   ]
 }
