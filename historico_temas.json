@@ -1245,6 +1245,14 @@
       "tema": "Dossiê técnico (memorial, ART, dimensionamento, curva de carga do Grupo A/CELESC-D) já entregue com o projeto como base para análise de crédito em financiamento de FV/BESS",
       "angulo": "Diferente dos institucionais de 12/07 (engenharia vs. \"vendedor de paineis\"), 19/07 (exclusividade Grupo A/CELESC-D), 26/07 (uma unica equipe FV+BESS+EVSE), 02/08 (ART como garantia formal), 09/08 (especializacao regional em SC), 16/08 (o que entra no diagnostico tecnico gratuito), 23/08 (acompanhamento pos-instalacao/monitoramento), 30/08 (equipamentos Tier 1), 06/09 (atendimento chave-na-mao ponta a ponta), 13/09 (postura consultiva \"ainda nao e a hora\"), 20/09 (capacidade limitada de diagnosticos/semana), 27/09 (memorial tecnico completo vs. proposta resumida), 11/10 (revisao tecnica cruzada por segundo engenheiro senior), 18/10 (diversidade de segmentos atendidos), 25/10 (segunda opiniao tecnica sobre projetos de terceiros), 01/11 (processo de garantia/RMA conduzido pela engenharia), 08/11 (revisao de geracao real x projetada) e 15/11 (EVSE dimensionado no estudo de carga), hoje o foco e o papel do dossie tecnico (memorial, ART, dimensionamento, curva de carga) como base documental que acelera a analise de credito em financiamentos de FV/BESS, em vez de o cliente correr atras dessa documentacao depois que o banco pede. CTA de comentar, seguindo o ciclo de rotacao de CTAs do pilar (diagnostico em 01/11, site em 08/11, whatsapp em 15/11).",
       "dados_numericos": "Prazos de financiamento ilustrativos de 36 a 84 meses (estimativa, varia por linha de credito e instituicao)"
+    },
+    {
+      "data": "2026-11-23",
+      "dia_semana": "segunda",
+      "pilar": "Educativo — mito vs. verdade sobre energia solar",
+      "tema": "Mito de que instalar painel solar aumenta o risco da empresa ser atingida por um raio",
+      "angulo": "Diferente dos mitos anteriores do pilar (tarifa binomia, tamanho do sistema vs curva de carga, clima nublado, fatura zerada, tempo real x rede, dimensionamento definitivo, venda de excedente, blecaute, perda de eficiencia, instala-e-esquece, fator de potencia, risco de incendio, telhado inadequado, parada de obra, homologacao CELESC-D lenta, BESS obrigatorio, blecaute de novo, esperar regulacao estabilizar), hoje o mito e sobre atracao de raios: o risco vem de SPDA/aterramento mal dimensionado em qualquer estrutura metalica no telhado, nao do painel solar em si, reforcando o diferencial de projeto eletrico completo (NBR 5419, DPS) da Amper. CTA de diagnostico gratuito, retomando o ciclo de rotacao de CTAs do pilar (diagnostico em 26/10, site em 02/11, comentar em 09/11, whatsapp em 16/11).",
+      "dados_numericos": "Mencao qualitativa de que SC esta entre as regioes com maior incidencia de raios do Brasil, apresentada como estimativa ilustrativa, sem numero especifico."
     }
   ]
 }

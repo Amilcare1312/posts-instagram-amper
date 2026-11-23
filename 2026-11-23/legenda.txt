@@ -1,0 +1,11 @@
+Instalar energia solar aumenta a chance da sua empresa ser atingida por um raio? 🌩️
+
+Esse é um dos mitos mais repetidos sobre fotovoltaica — e ele mistura dois problemas diferentes. Qualquer estrutura metálica elevada no telhado (painel solar, caixa d'água, antena, treliça) pode interagir com uma descarga atmosférica. O risco não vem do painel em si, e sim de uma proteção mal dimensionada — com ou sem energia solar.
+
+Um projeto elétrico correto já prevê SPDA (NBR 5419), aterramento e DPS específicos para a instalação fotovoltaica. No Grupo A/CELESC-D, isso ainda precisa ser compatível com a estrutura de proteção de média tensão do site. Feito assim, o painel solar não aumenta o risco: ele passa a fazer parte de um sistema de proteção pensado desde o projeto executivo, não resolvido depois da obra pronta.
+
+Santa Catarina é apontada em estudos de monitoramento atmosférico como uma das regiões brasileiras com maior incidência de raios — mais um motivo pra esse projeto não ficar em segundo plano. ☀️
+
+Sua planta já tem SPDA e aterramento dimensionados junto com o projeto do sistema solar? Fala com a gente e agenda um diagnóstico técnico gratuito 📩
+
+#energiasolar #geracaodistribuida #fotovoltaica #santacatarina #mitoouverdade #spda #nbr5419 #protecaoeletrica #grupoa #celescd #engenhariaeletrica #diagnosticogratuito
