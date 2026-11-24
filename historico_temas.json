@@ -1253,6 +1253,14 @@
       "tema": "Mito de que instalar painel solar aumenta o risco da empresa ser atingida por um raio",
       "angulo": "Diferente dos mitos anteriores do pilar (tarifa binomia, tamanho do sistema vs curva de carga, clima nublado, fatura zerada, tempo real x rede, dimensionamento definitivo, venda de excedente, blecaute, perda de eficiencia, instala-e-esquece, fator de potencia, risco de incendio, telhado inadequado, parada de obra, homologacao CELESC-D lenta, BESS obrigatorio, blecaute de novo, esperar regulacao estabilizar), hoje o mito e sobre atracao de raios: o risco vem de SPDA/aterramento mal dimensionado em qualquer estrutura metalica no telhado, nao do painel solar em si, reforcando o diferencial de projeto eletrico completo (NBR 5419, DPS) da Amper. CTA de diagnostico gratuito, retomando o ciclo de rotacao de CTAs do pilar (diagnostico em 26/10, site em 02/11, comentar em 09/11, whatsapp em 16/11).",
       "dados_numericos": "Mencao qualitativa de que SC esta entre as regioes com maior incidencia de raios do Brasil, apresentada como estimativa ilustrativa, sem numero especifico."
+    },
+    {
+      "data": "2026-11-24",
+      "dia_semana": "terca",
+      "pilar": "Dado/número de impacto — economia, geração distribuída, tarifa CELESC-D",
+      "tema": "Custo da multa por ultrapassagem de demanda contratada no Grupo A/CELESC-D e como FV combinado com BESS dimensionado para corte de ponta ajuda a evitar essa penalidade recorrente",
+      "angulo": "Diferente dos ângulos recentes do pilar (créditos de energia com validade de 60 meses em 17/11, tributos/ICMS na fatura em 10/11, irradiação SC vs. Nordeste em 03/11, LCOE vs. tarifa em 27/10, custo de adiar a decisão/Fio B em 20/10, degradação/garantia de performance em 13/10), hoje o foco é mostrar que a ultrapassagem da demanda contratada é cobrada por uma tarifa bem mais alta que a tarifa normal de demanda, e que FV + BESS dimensionados para corte de ponta ajudam a evitar essa multa recorrente, não só reduzir o consumo de kWh. CTA de chamar no WhatsApp, retomando o ciclo de rotação de CTAs do pilar (diagnóstico em 13/10, whatsapp em 20/10, salvar em 27/10, site em 03/11, comentar em 10/11, diagnóstico em 17/11).",
+      "dados_numericos": "Multa por ultrapassagem de demanda contratada apresentada como estimativa ilustrativa, não oficial: 2 a 3 vezes o valor da tarifa normal de demanda sobre o excedente, Grupo A/CELESC-D."
     }
   ]
 }
