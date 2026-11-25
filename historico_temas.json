@@ -1261,6 +1261,14 @@
       "tema": "Custo da multa por ultrapassagem de demanda contratada no Grupo A/CELESC-D e como FV combinado com BESS dimensionado para corte de ponta ajuda a evitar essa penalidade recorrente",
       "angulo": "Diferente dos ângulos recentes do pilar (créditos de energia com validade de 60 meses em 17/11, tributos/ICMS na fatura em 10/11, irradiação SC vs. Nordeste em 03/11, LCOE vs. tarifa em 27/10, custo de adiar a decisão/Fio B em 20/10, degradação/garantia de performance em 13/10), hoje o foco é mostrar que a ultrapassagem da demanda contratada é cobrada por uma tarifa bem mais alta que a tarifa normal de demanda, e que FV + BESS dimensionados para corte de ponta ajudam a evitar essa multa recorrente, não só reduzir o consumo de kWh. CTA de chamar no WhatsApp, retomando o ciclo de rotação de CTAs do pilar (diagnóstico em 13/10, whatsapp em 20/10, salvar em 27/10, site em 03/11, comentar em 10/11, diagnóstico em 17/11).",
       "dados_numericos": "Multa por ultrapassagem de demanda contratada apresentada como estimativa ilustrativa, não oficial: 2 a 3 vezes o valor da tarifa normal de demanda sobre o excedente, Grupo A/CELESC-D."
+    },
+    {
+      "data": "2026-11-25",
+      "dia_semana": "quarta",
+      "pilar": "Caso de sucesso / prova social",
+      "tema": "Indústria têxtil genérica no Vale do Itajaí/SC onde micro-quedas (afundamentos) de tensão da rede CELESC-D travavam o tear durante a produção; diagnóstico da Amper identificou problema de qualidade de energia, não de volume, e a solução combinou FV com um banco de baterias (BESS) dimensionado para assumir as cargas críticas da tecelagem durante esses eventos, eliminando as paradas",
+      "angulo": "Ângulo de BESS como solução de qualidade de energia/continuidade operacional (micro-interrupções e afundamento de tensão em processo contínuo) inédito nos últimos 30 dias do pilar, que trouxeram MPPT/orientação de telhado (28/10), coordenação de proteção com UPS/no-break (04/11), FV+EVSE em recarga de empilhadeiras (11/11) e laudo estrutural de telhado (18/11). CTA de visitar o site, retomando o ciclo de rotação de CTAs do pilar (diagnóstico em 28/10, WhatsApp em 04/11, salvar em 11/11, comentar em 18/11).",
+      "dados_numericos": "Payback do projeto combinado FV + BESS, considerando redução de perdas de produção, apresentado como estimativa ilustrativa (não oficial): 4 a 7 anos, autoconsumo em média tensão, Grupo A/CELESC-D."
     }
   ]
 }

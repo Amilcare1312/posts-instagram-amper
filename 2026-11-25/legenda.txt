@@ -1,0 +1,13 @@
+Quantos metros de tecido sua fábrica perde a cada micro-queda de energia? 🧵
+
+Numa indústria têxtil genérica no Vale do Itajaí/SC, cada afundamento rápido de tensão na rede da CELESC-D travava o tear no meio do processo — e cada parada desse tipo custava retrabalho, perda de material e horas de produção.
+
+O diagnóstico da Amper mostrou que o problema não era falta de energia, mas qualidade de energia: eventos de poucos segundos que um sistema fotovoltaico isolado não resolve sozinho.
+
+A solução combinou geração solar com um banco de baterias (BESS) dimensionado para assumir as cargas críticas da tecelagem durante esses eventos, mantendo a linha rodando sem interrupção.
+
+Com a redução das perdas de produção somada à geração solar, o payback do projeto ficou entre 4 e 7 anos (estimativa ilustrativa, autoconsumo em média tensão, Grupo A/CELESC-D).
+
+Visita nosso site e entende como funciona esse tipo de diagnóstico de qualidade de energia 🔗
+
+#energiasolar #geracaodistribuida #fotovoltaica #santacatarina #bess #baterias #qualidadedeenergia #industriatextil #grupoa #celescd #engenhariaeletrica #casodesucesso
