@@ -1,0 +1,84 @@
+<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0A2540"/>
+      <stop offset="100%" stop-color="#0D3054"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1080" height="1350" fill="url(#bg)"/>
+
+  <!-- Top bar -->
+  <text x="60" y="80" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="44" fill="#FFFFFF">AMPER ENERGIA</text>
+  <text x="60" y="118" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="20" letter-spacing="1" fill="#C9D6E3">SOLAR FV · BESS · EVSE · SANTA CATARINA</text>
+  <rect x="60" y="135" width="90" height="5" fill="#FF7A1A"/>
+
+  <!-- DICA PRATICA tag -->
+  <rect x="60" y="168" width="260" height="42" rx="6" fill="#FF7A1A"/>
+  <text x="190" y="196" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="20" fill="#0A2540" text-anchor="middle">DICA PRÁTICA</text>
+
+  <!-- Illustration: rooftop FV array with anchoring/life-line for safe access -->
+  <g transform="translate(60,235)">
+    <rect x="0" y="0" width="960" height="340" rx="18" fill="#12395F" stroke="#3E6890" stroke-width="3"/>
+
+    <!-- sun -->
+    <circle cx="880" cy="50" r="22" fill="#FF7A1A"/>
+
+    <!-- roof line -->
+    <path d="M 40 270 L 920 270" stroke="#3E6890" stroke-width="4"/>
+
+    <!-- row of panels -->
+    <g transform="translate(60,150)">
+      <rect x="0" y="0" width="150" height="70" fill="#0A2540" stroke="#C9D6E3" stroke-width="3" transform="skewY(-4)"/>
+      <rect x="170" y="0" width="150" height="70" fill="#0A2540" stroke="#C9D6E3" stroke-width="3" transform="skewY(-4)"/>
+      <rect x="340" y="0" width="150" height="70" fill="#0A2540" stroke="#C9D6E3" stroke-width="3" transform="skewY(-4)"/>
+    </g>
+
+    <!-- life-line cable across the roof (dashed, orange) -->
+    <path d="M 70 150 L 760 115" stroke="#FF7A1A" stroke-width="5" stroke-dasharray="12,10"/>
+
+    <!-- anchoring points on the life-line -->
+    <circle cx="100" cy="146" r="10" fill="#FF7A1A"/>
+    <circle cx="420" cy="131" r="10" fill="#FF7A1A"/>
+    <circle cx="740" cy="116" r="10" fill="#FF7A1A"/>
+
+    <!-- worker figure connected to anchor via harness line -->
+    <g transform="translate(395,100)">
+      <!-- helmet/head -->
+      <circle cx="0" cy="0" r="14" fill="#C9D6E3"/>
+      <!-- body -->
+      <line x1="0" y1="14" x2="0" y2="60" stroke="#C9D6E3" stroke-width="8" stroke-linecap="round"/>
+      <!-- legs -->
+      <line x1="0" y1="60" x2="-16" y2="95" stroke="#C9D6E3" stroke-width="7" stroke-linecap="round"/>
+      <line x1="0" y1="60" x2="16" y2="95" stroke="#C9D6E3" stroke-width="7" stroke-linecap="round"/>
+      <!-- arms -->
+      <line x1="0" y1="24" x2="-22" y2="45" stroke="#C9D6E3" stroke-width="7" stroke-linecap="round"/>
+      <line x1="0" y1="24" x2="22" y2="45" stroke="#C9D6E3" stroke-width="7" stroke-linecap="round"/>
+      <!-- harness line to anchor -->
+      <line x1="0" y1="35" x2="25" y2="31" stroke="#FF7A1A" stroke-width="4"/>
+    </g>
+
+    <!-- labels -->
+    <text x="60" y="260" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#C9D6E3">linha de vida + pontos de ancoragem previstos no projeto</text>
+  </g>
+
+  <!-- Headline -->
+  <text x="60" y="655" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="38" fill="#FFFFFF">PROJETADO PRA GERAR.</text>
+  <text x="60" y="738" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="54" fill="#FF7A1A">E PRA MANTER</text>
+  <text x="60" y="800" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="54" fill="#FF7A1A">COM SEGURANÇA?</text>
+
+  <line x1="60" y1="838" x2="1020" y2="838" stroke="#3E6890" stroke-width="2"/>
+
+  <!-- Body -->
+  <text x="60" y="888" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#FFFFFF">Ancoragem e acesso seguro</text>
+  <text x="60" y="925" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#FFFFFF">(NR-35) devem entrar no</text>
+  <text x="60" y="962" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#FFFFFF">projeto, não só na instalação.</text>
+
+  <text x="60" y="1015" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="21" fill="#C9D6E3">Sem isso, manutenção simples pode virar</text>
+  <text x="60" y="1047" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="21" fill="#C9D6E3">parada longa e custo extra (estimativa ilustrativa)</text>
+
+  <!-- Bottom CTA bar -->
+  <rect x="0" y="1200" width="1080" height="150" fill="#FF7A1A"/>
+  <text x="60" y="1255" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="30" fill="#0A2540">AGENDE SEU DIAGNÓSTICO GRÁTIS</text>
+  <text x="60" y="1315" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#0A2540">@ampenergia</text>
+</svg>

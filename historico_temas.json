@@ -1269,6 +1269,14 @@
       "tema": "Indústria têxtil genérica no Vale do Itajaí/SC onde micro-quedas (afundamentos) de tensão da rede CELESC-D travavam o tear durante a produção; diagnóstico da Amper identificou problema de qualidade de energia, não de volume, e a solução combinou FV com um banco de baterias (BESS) dimensionado para assumir as cargas críticas da tecelagem durante esses eventos, eliminando as paradas",
       "angulo": "Ângulo de BESS como solução de qualidade de energia/continuidade operacional (micro-interrupções e afundamento de tensão em processo contínuo) inédito nos últimos 30 dias do pilar, que trouxeram MPPT/orientação de telhado (28/10), coordenação de proteção com UPS/no-break (04/11), FV+EVSE em recarga de empilhadeiras (11/11) e laudo estrutural de telhado (18/11). CTA de visitar o site, retomando o ciclo de rotação de CTAs do pilar (diagnóstico em 28/10, WhatsApp em 04/11, salvar em 11/11, comentar em 18/11).",
       "dados_numericos": "Payback do projeto combinado FV + BESS, considerando redução de perdas de produção, apresentado como estimativa ilustrativa (não oficial): 4 a 7 anos, autoconsumo em média tensão, Grupo A/CELESC-D."
+    },
+    {
+      "data": "2026-11-26",
+      "dia_semana": "quinta",
+      "pilar": "Dica prática — economia, dimensionamento, cuidados com o sistema",
+      "tema": "Pontos de ancoragem e acesso seguro (NR-35, trabalho em altura) previstos desde o projeto elétrico/estrutural de sistemas FV em telhados industriais, para que a manutenção não vire uma operação de risco",
+      "angulo": "Diferente das dicas técnicas já publicadas (monitoramento/limpeza em 16/07, DPS/surtos em 23/07, cabeamento CC/CA em 30/07, fator DC/AC/clipping em 06/08, tensão de string por temperatura em 13/08, THD em 20/08, azimute/tilt em 27/08, sombreamento/hot spots em 03/09, termografia de conexões em 10/09, ventilação da sala técnica em 17/09, vedação/impermeabilização em 24/09, remedição de aterramento em 01/10, degradação dos módulos no payback em 15/10, vida útil do inversor vs. módulos em 22/10, dimensionamento para expansão futura em 29/10, garantia de performance/PR contratual em 05/11, fator de potência Grupo A/CELESC-D em 12/11 e corrosão por maresia no litoral em 19/11), hoje o foco é segurança do trabalho/acesso: prever linha de vida, pontos de ancoragem fixos e rota de acesso ao telhado já no memorial de projeto, atendendo NR-35, para que manutenções simples não exijam equipamento avulso de acesso e não gerem parada prolongada. CTA de agendar diagnóstico gratuito, retomando o ciclo de rotação de CTAs do pilar (whatsapp em 29/10, comentar em 05/11, site em 12/11, salvar em 19/11).",
+      "dados_numericos": "Nenhum dado numérico oficial citado; menção qualitativa de que a falta de acesso seguro planejado pode aumentar o tempo de parada em manutenções corretivas, apresentada apenas como observação ilustrativa, sem número específico."
     }
   ]
 }
