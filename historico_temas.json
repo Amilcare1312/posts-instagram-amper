@@ -1277,6 +1277,14 @@
       "tema": "Pontos de ancoragem e acesso seguro (NR-35, trabalho em altura) previstos desde o projeto elétrico/estrutural de sistemas FV em telhados industriais, para que a manutenção não vire uma operação de risco",
       "angulo": "Diferente das dicas técnicas já publicadas (monitoramento/limpeza em 16/07, DPS/surtos em 23/07, cabeamento CC/CA em 30/07, fator DC/AC/clipping em 06/08, tensão de string por temperatura em 13/08, THD em 20/08, azimute/tilt em 27/08, sombreamento/hot spots em 03/09, termografia de conexões em 10/09, ventilação da sala técnica em 17/09, vedação/impermeabilização em 24/09, remedição de aterramento em 01/10, degradação dos módulos no payback em 15/10, vida útil do inversor vs. módulos em 22/10, dimensionamento para expansão futura em 29/10, garantia de performance/PR contratual em 05/11, fator de potência Grupo A/CELESC-D em 12/11 e corrosão por maresia no litoral em 19/11), hoje o foco é segurança do trabalho/acesso: prever linha de vida, pontos de ancoragem fixos e rota de acesso ao telhado já no memorial de projeto, atendendo NR-35, para que manutenções simples não exijam equipamento avulso de acesso e não gerem parada prolongada. CTA de agendar diagnóstico gratuito, retomando o ciclo de rotação de CTAs do pilar (whatsapp em 29/10, comentar em 05/11, site em 12/11, salvar em 19/11).",
       "dados_numericos": "Nenhum dado numérico oficial citado; menção qualitativa de que a falta de acesso seguro planejado pode aumentar o tempo de parada em manutenções corretivas, apresentada apenas como observação ilustrativa, sem número específico."
+    },
+    {
+      "data": "2026-11-27",
+      "dia_semana": "sexta",
+      "pilar": "Bastidores / equipe / processo de engenharia",
+      "tema": "Logística e cuidados especiais no transporte e armazenamento de equipamentos sensíveis (inversores, módulos, baterias BESS) até o canteiro de obra, antes da instalação",
+      "angulo": "Diferente dos bastidores de 23/10 (monitoramento regulatório contínuo), 06/11 (revisão técnica cruzada por segundo engenheiro), 13/11 (curadoria técnica de fornecedores) e 20/11 (treinamento de handover), aqui o foco vai para a etapa de logística: como a engenharia da Amper acompanha o transporte e o armazenamento de equipamentos sensíveis até a obra, com proteção contra umidade, choque e temperatura, conferência de lacre/nota fiscal e guarda adequada, reforçando que dano no transporte pode anular garantia meses depois. CTA de comentar, retomando a rotação de CTAs do pilar (salvar em 06/11, diagnóstico em 13/11, site em 20/11), já que comentar não é usado no pilar desde 23/10.",
+      "dados_usados": []
     }
   ]
 }

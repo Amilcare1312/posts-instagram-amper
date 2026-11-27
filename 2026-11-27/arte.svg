@@ -1,0 +1,93 @@
+<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0A2540"/>
+      <stop offset="100%" stop-color="#0D3054"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1080" height="1350" fill="url(#bg)"/>
+
+  <!-- Top bar -->
+  <text x="60" y="80" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="44" fill="#FFFFFF">AMPER ENERGIA</text>
+  <text x="60" y="118" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="20" letter-spacing="1" fill="#C9D6E3">SOLAR FV · BESS · EVSE · SANTA CATARINA</text>
+  <rect x="60" y="135" width="90" height="5" fill="#FF7A1A"/>
+
+  <!-- Illustration: transporte e armazenamento de equipamentos sensiveis -->
+  <g transform="translate(60,185)">
+    <rect x="0" y="0" width="960" height="330" rx="18" fill="#12395F" stroke="#3E6890" stroke-width="3"/>
+
+    <text x="40" y="45" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#C9D6E3">LOGÍSTICA DE EQUIPAMENTOS SENSÍVEIS</text>
+
+    <!-- dividers -->
+    <line x1="340" y1="65" x2="340" y2="300" stroke="#3E6890" stroke-width="2" stroke-dasharray="6,6"/>
+    <line x1="660" y1="65" x2="660" y2="300" stroke="#3E6890" stroke-width="2" stroke-dasharray="6,6"/>
+
+    <!-- ITEM 1: TRANSPORTE PROTEGIDO (caminhao/caixa) -->
+    <g transform="translate(55,95)">
+      <rect x="0" y="0" width="130" height="95" rx="8" fill="#0A2540" stroke="#3E6890" stroke-width="3"/>
+      <!-- caixa com simbolo de fragil -->
+      <rect x="22" y="28" width="60" height="50" rx="4" fill="none" stroke="#FF7A1A" stroke-width="5"/>
+      <line x1="22" y1="48" x2="82" y2="48" stroke="#FF7A1A" stroke-width="3"/>
+      <path d="M 40 60 L 50 48 L 58 56 L 68 40" fill="none" stroke="#FF7A1A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+      <!-- cinto de fixacao -->
+      <line x1="95" y1="30" x2="95" y2="76" stroke="#8FA7C2" stroke-width="5" stroke-linecap="round"/>
+      <line x1="88" y1="30" x2="102" y2="30" stroke="#8FA7C2" stroke-width="5" stroke-linecap="round"/>
+      <circle cx="122" cy="8" r="22" fill="#FF7A1A"/>
+      <path d="M 111 8 L 119 17 L 134 -2" fill="none" stroke="#0A2540" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="65" y="130" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#C9D6E3" text-anchor="middle">TRANSPORTE</text>
+      <text x="65" y="155" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#8FA7C2" text-anchor="middle">fixação e proteção</text>
+    </g>
+
+    <!-- ITEM 2: TEMPERATURA E UMIDADE (termometro/gota) -->
+    <g transform="translate(375,95)">
+      <rect x="0" y="0" width="130" height="95" rx="8" fill="#0A2540" stroke="#3E6890" stroke-width="3"/>
+      <!-- termometro -->
+      <rect x="40" y="10" width="14" height="55" rx="7" fill="none" stroke="#FF7A1A" stroke-width="5"/>
+      <circle cx="47" cy="75" r="12" fill="#FF7A1A"/>
+      <line x1="47" y1="25" x2="47" y2="65" stroke="#FF7A1A" stroke-width="5"/>
+      <!-- gota -->
+      <path d="M 90 20 C 90 20 105 42 105 55 C 105 65 97 72 90 72 C 83 72 75 65 75 55 C 75 42 90 20 90 20 Z" fill="none" stroke="#8FA7C2" stroke-width="4"/>
+      <circle cx="122" cy="8" r="22" fill="#FF7A1A"/>
+      <path d="M 111 8 L 119 17 L 134 -2" fill="none" stroke="#0A2540" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="65" y="130" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#C9D6E3" text-anchor="middle">TEMPERATURA</text>
+      <text x="65" y="155" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#8FA7C2" text-anchor="middle">e umidade controladas</text>
+    </g>
+
+    <!-- ITEM 3: CONFERENCIA E GUARDA (checklist/galpao) -->
+    <g transform="translate(695,95)">
+      <rect x="0" y="0" width="130" height="95" rx="8" fill="#0A2540" stroke="#3E6890" stroke-width="3"/>
+      <!-- prancheta com check -->
+      <rect x="30" y="10" width="70" height="80" rx="6" fill="none" stroke="#3E6890" stroke-width="4"/>
+      <rect x="50" y="4" width="30" height="12" rx="3" fill="#3E6890"/>
+      <path d="M 42 35 L 50 43 L 65 25" fill="none" stroke="#FF7A1A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+      <line x1="42" y1="58" x2="88" y2="58" stroke="#8FA7C2" stroke-width="4"/>
+      <line x1="42" y1="72" x2="88" y2="72" stroke="#8FA7C2" stroke-width="4"/>
+      <circle cx="122" cy="8" r="22" fill="#FF7A1A"/>
+      <path d="M 111 8 L 119 17 L 134 -2" fill="none" stroke="#0A2540" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="65" y="130" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#C9D6E3" text-anchor="middle">CONFERÊNCIA</text>
+      <text x="65" y="155" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#8FA7C2" text-anchor="middle">e guarda adequada</text>
+    </g>
+  </g>
+
+  <!-- Headline -->
+  <text x="60" y="610" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="48" fill="#FFFFFF">ATÉ CHEGAR</text>
+  <text x="60" y="672" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="48" fill="#FF7A1A">NA SUA OBRA,</text>
+  <text x="60" y="734" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="48" fill="#FFFFFF">TEM ENGENHARIA</text>
+
+  <line x1="60" y1="772" x2="1020" y2="772" stroke="#3E6890" stroke-width="2"/>
+
+  <!-- Body -->
+  <text x="60" y="835" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#FFFFFF">Inversor, módulo ou bateria</text>
+  <text x="60" y="872" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#FFFFFF">BESS exige cuidado no</text>
+  <text x="60" y="909" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#FFFFFF">transporte e na guarda —</text>
+  <text x="60" y="946" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#FFFFFF">antes mesmo da instalação.</text>
+
+  <text x="60" y="1005" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="24" fill="#C9D6E3">Dano no transporte pode</text>
+  <text x="60" y="1040" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="24" fill="#C9D6E3">anular garantia mais tarde.</text>
+
+  <!-- Bottom CTA bar -->
+  <rect x="0" y="1200" width="1080" height="150" fill="#FF7A1A"/>
+  <text x="60" y="1258" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="34" fill="#0A2540">CONTA AQUI NOS COMENTÁRIOS 💬</text>
+  <text x="60" y="1315" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#0A2540">@ampenergia</text>
+</svg>
