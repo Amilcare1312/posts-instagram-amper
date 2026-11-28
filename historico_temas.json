@@ -1285,6 +1285,16 @@
       "tema": "Logística e cuidados especiais no transporte e armazenamento de equipamentos sensíveis (inversores, módulos, baterias BESS) até o canteiro de obra, antes da instalação",
       "angulo": "Diferente dos bastidores de 23/10 (monitoramento regulatório contínuo), 06/11 (revisão técnica cruzada por segundo engenheiro), 13/11 (curadoria técnica de fornecedores) e 20/11 (treinamento de handover), aqui o foco vai para a etapa de logística: como a engenharia da Amper acompanha o transporte e o armazenamento de equipamentos sensíveis até a obra, com proteção contra umidade, choque e temperatura, conferência de lacre/nota fiscal e guarda adequada, reforçando que dano no transporte pode anular garantia meses depois. CTA de comentar, retomando a rotação de CTAs do pilar (salvar em 06/11, diagnóstico em 13/11, site em 20/11), já que comentar não é usado no pilar desde 23/10.",
       "dados_usados": []
+    },
+    {
+      "data": "2026-11-28",
+      "dia_semana": "sabado",
+      "pilar": "Sustentabilidade / propósito",
+      "tema": "Reaproveitamento de áreas degradadas por mineração de carvão desativada no Sul de SC para instalação de usinas solares (brownfield solar)",
+      "angulo": "Diferente da agrovoltaica (31/10, uso duplo de terreno produtivo), do sombreamento térmico de galpões (07/11), do floating PV sobre lagoas/reservatórios (14/11) e da certificação I-REC (21/11), hoje o foco é dar nova função energética a solo já esgotado pela indústria extrativa (áreas de mineração de carvão desativadas, comuns no Sul de SC), evitando abrir área verde nova ou competir com lavoura/pecuária, reforçando que viabilidade real depende de estudo de estabilidade do solo, drenagem e conexão com a CELESC-D. CTA de comentar, reiniciando o ciclo de rotação do pilar (salvar em 31/10, whatsapp em 07/11, diagnóstico em 14/11, site em 21/11).",
+      "dados_usados": [
+        "um hectare plano bem aproveitado pode abrigar entre 0,5 e 1 MW de potência solar instalada, variando com a tecnologia e o equipamento (estimativa ilustrativa)"
+      ]
     }
   ]
 }
